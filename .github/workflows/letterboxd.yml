@@ -1,0 +1,21 @@
+# .github/workflows/letterboxd.yml
+name: Update Letterboxd Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # daily at midnight UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: nichtlegacy/letterboxd-graph@v2
+        with:
+          username:  drthrosenberg
+          years: "last 2"           # this year and last, defaults to the current year
