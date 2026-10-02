@@ -17,5 +17,5 @@ jobs:
 
       - uses: nichtlegacy/letterboxd-graph@v2
         with:
-          username:  drthrosenberg
+          username:  darthrosenberg
           years: "last 2"           # this year and last, defaults to the current year
