@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-03T04:55:49.265Z",
+  "generatedAt": "2026-10-04T05:28:23.516Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 648,
-    "daysActive": 455,
+    "films": 651,
+    "daysActive": 457,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 38,
@@ -16069,10 +16069,24 @@
       "date": "2026-10-02",
       "week": 91,
       "weekday": 5,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "Digger",
+          "year": "2026",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/digger-2026/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1132688",
+          "lid": "LwDC",
+          "slug": "digger-2026"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/02/"
     },
@@ -16080,10 +16094,37 @@
       "date": "2026-10-03",
       "week": 91,
       "weekday": 6,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 2,
+      "ratingAvg": 3.3,
+      "films": [
+        {
+          "title": "Blacker Than the Night",
+          "year": "1975",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/blacker-than-the-night/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:52592",
+          "lid": "2cOA",
+          "slug": "blacker-than-the-night"
+        },
+        {
+          "title": "The Timekeepers of Eternity",
+          "year": "2021",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/the-timekeepers-of-eternity/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:785833",
+          "lid": "wYjg",
+          "slug": "the-timekeepers-of-eternity"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/03/"
     },
@@ -29131,9 +29172,106 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/01/"
+    },
+    {
+      "date": "2026-10-02",
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "Digger",
+          "year": "2026",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/digger-2026/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1132688",
+          "lid": "LwDC",
+          "slug": "digger-2026"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/02/"
+    },
+    {
+      "date": "2026-10-03",
+      "count": 2,
+      "ratingAvg": 3.3,
+      "films": [
+        {
+          "title": "Blacker Than the Night",
+          "year": "1975",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/blacker-than-the-night/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:52592",
+          "lid": "2cOA",
+          "slug": "blacker-than-the-night"
+        },
+        {
+          "title": "The Timekeepers of Eternity",
+          "year": "2021",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/the-timekeepers-of-eternity/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:785833",
+          "lid": "wYjg",
+          "slug": "the-timekeepers-of-eternity"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/03/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-03",
+      "title": "Blacker Than the Night",
+      "year": "1975",
+      "rating": 3,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/blacker-than-the-night/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:52592",
+      "lid": "2cOA",
+      "slug": "blacker-than-the-night"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "The Timekeepers of Eternity",
+      "year": "2021",
+      "rating": 3.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/the-timekeepers-of-eternity/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:785833",
+      "lid": "wYjg",
+      "slug": "the-timekeepers-of-eternity"
+    },
+    {
+      "date": "2026-10-02",
+      "title": "Digger",
+      "year": "2026",
+      "rating": 3,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/digger-2026/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:1132688",
+      "lid": "LwDC",
+      "slug": "digger-2026"
+    },
     {
       "date": "2026-10-01",
       "title": "Taipei Suicide Story",
@@ -29315,48 +29453,6 @@
       "filmUid": "film:317187",
       "lid": "dj9c",
       "slug": "a-bride-for-rip-van-winkle"
-    },
-    {
-      "date": "2026-09-11",
-      "title": "I Knew Her Well",
-      "year": "1965",
-      "rating": 4,
-      "rewatch": true,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/i-knew-her-well/1/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:7038",
-      "lid": "ija",
-      "slug": "i-knew-her-well"
-    },
-    {
-      "date": "2026-09-10",
-      "title": "The Perfect Neighbor",
-      "year": "2025",
-      "rating": 3,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/the-perfect-neighbour/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:1284157",
-      "lid": "RSG6",
-      "slug": "the-perfect-neighbour"
-    },
-    {
-      "date": "2026-09-08",
-      "title": "Killed the Family and Went to the Movies",
-      "year": "1969",
-      "rating": 3,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/killed-the-family-and-went-to-the-movies-1969/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:128212",
-      "lid": "5nxm",
-      "slug": "killed-the-family-and-went-to-the-movies-1969"
     }
   ],
   "byYear": {
@@ -37348,33 +37444,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 216,
-      "distinctFilms": 214,
+      "entries": 219,
+      "distinctFilms": 217,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-10-01",
-      "spanDays": 274,
-      "daysActive": 170,
-      "multiFilmDays": 36,
+      "lastEntry": "2026-10-03",
+      "spanDays": 276,
+      "daysActive": 172,
+      "multiFilmDays": 37,
       "rewatches": 16,
       "liked": 10,
-      "rated": 211,
+      "rated": 214,
       "releaseBreakdown": {
-        "sameYear": 29,
-        "older": 187,
+        "sameYear": 30,
+        "older": 189,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 200,
+        "firstWatches": 203,
         "rewatches": 16
       },
       "reviewBreakdown": {
         "reviewed": 28,
-        "notReviewed": 188
+        "notReviewed": 191
       },
       "averageRating": 3.5,
       "perDay": 0.79,
-      "perWeek": 5.5,
-      "perMonth": 24,
+      "perWeek": 5.6,
+      "perMonth": 24.2,
       "streak": {
         "length": 10,
         "startDate": "2026-05-05",
@@ -37393,8 +37489,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 216,
-          "days": 170
+          "films": 219,
+          "days": 172
         }
       ],
       "perWeekday": [
@@ -37403,8 +37499,8 @@
         25,
         31,
         34,
-        33,
-        37
+        34,
+        39
       ],
       "perMonthOfYear": [
         21,
@@ -37416,7 +37512,7 @@
         23,
         29,
         20,
-        2,
+        5,
         0,
         0
       ],
@@ -37459,7 +37555,7 @@
         },
         {
           "month": "2026-10",
-          "count": 2
+          "count": 5
         }
       ],
       "weekSeries": [
@@ -37701,7 +37797,7 @@
           "week": 40,
           "start": "2026-09-28",
           "end": "2026-10-04",
-          "count": 3
+          "count": 6
         },
         {
           "week": 41,
@@ -37801,11 +37897,11 @@
         },
         {
           "rating": 3,
-          "count": 48
+          "count": 50
         },
         {
           "rating": 3.5,
-          "count": 61
+          "count": 62
         },
         {
           "rating": 4,
@@ -37866,7 +37962,7 @@
         {
           "decade": 1970,
           "label": "1970s",
-          "count": 9,
+          "count": 10,
           "averageRating": 3.5
         },
         {
@@ -37896,7 +37992,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 106,
+          "count": 108,
           "averageRating": 3.5
         }
       ],
@@ -37995,47 +38091,47 @@
           "slug": "the-priests"
         },
         {
-          "n": 216,
+          "n": 219,
           "kind": "latest",
-          "date": "2026-10-01",
-          "title": "1974: The Possession of Altair",
-          "year": "2016",
-          "rating": 4,
-          "url": "https://letterboxd.com/darthrosenberg/film/1974-the-possession-of-altair/",
-          "reviewed": true,
-          "reviewUrl": "https://letterboxd.com/darthrosenberg/film/1974-the-possession-of-altair/",
-          "filmUid": "film:350021",
-          "lid": "eGz0",
-          "slug": "1974-the-possession-of-altair"
+          "date": "2026-10-03",
+          "title": "The Timekeepers of Eternity",
+          "year": "2021",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/darthrosenberg/film/the-timekeepers-of-eternity/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:785833",
+          "lid": "wYjg",
+          "slug": "the-timekeepers-of-eternity"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3390,
-    "entries": 2963,
-    "distinctFilms": 2868,
+    "films": 3393,
+    "entries": 2966,
+    "distinctFilms": 2871,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-10-01",
-    "spanDays": 5596,
-    "daysActive": 1641,
-    "multiFilmDays": 720,
+    "lastEntry": "2026-10-03",
+    "spanDays": 5598,
+    "daysActive": 1643,
+    "multiFilmDays": 721,
     "rewatches": 105,
     "liked": 135,
-    "rated": 2782,
+    "rated": 2785,
     "releaseBreakdown": {
-      "sameYear": 292,
-      "older": 2670,
+      "sameYear": 293,
+      "older": 2672,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2858,
+      "firstWatches": 2861,
       "rewatches": 105
     },
     "reviewBreakdown": {
       "reviewed": 231,
-      "notReviewed": 2732
+      "notReviewed": 2735
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -38129,8 +38225,8 @@
       },
       {
         "year": 2026,
-        "films": 216,
-        "days": 170
+        "films": 219,
+        "days": 172
       }
     ],
     "perWeekday": [
@@ -38139,8 +38235,8 @@
       361,
       372,
       344,
-      482,
-      474
+      483,
+      476
     ],
     "perMonthOfYear": [
       207,
@@ -38152,7 +38248,7 @@
       220,
       208,
       341,
-      449,
+      452,
       240,
       190
     ],
@@ -38895,7 +38991,7 @@
       },
       {
         "month": "2026-10",
-        "count": 2
+        "count": 5
       }
     ],
     "weekSeries": [],
@@ -38922,11 +39018,11 @@
       },
       {
         "rating": 3,
-        "count": 616
+        "count": 618
       },
       {
         "rating": 3.5,
-        "count": 794
+        "count": 795
       },
       {
         "rating": 4,
@@ -38993,7 +39089,7 @@
       {
         "decade": 1970,
         "label": "1970s",
-        "count": 163,
+        "count": 164,
         "averageRating": 3.5
       },
       {
@@ -39023,7 +39119,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 793,
+        "count": 795,
         "averageRating": 3.5
       }
     ],
@@ -40006,18 +40102,18 @@
         "slug": "mon-oncle"
       },
       {
-        "n": 2963,
+        "n": 2966,
         "kind": "latest",
-        "date": "2026-10-01",
-        "title": "1974: The Possession of Altair",
-        "year": "2016",
-        "rating": 4,
-        "url": "https://letterboxd.com/darthrosenberg/film/1974-the-possession-of-altair/",
-        "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/darthrosenberg/film/1974-the-possession-of-altair/",
-        "filmUid": "film:350021",
-        "lid": "eGz0",
-        "slug": "1974-the-possession-of-altair"
+        "date": "2026-10-03",
+        "title": "The Timekeepers of Eternity",
+        "year": "2021",
+        "rating": 3.5,
+        "url": "https://letterboxd.com/darthrosenberg/film/the-timekeepers-of-eternity/",
+        "reviewed": false,
+        "reviewUrl": null,
+        "filmUid": "film:785833",
+        "lid": "wYjg",
+        "slug": "the-timekeepers-of-eternity"
       }
     ]
   }
