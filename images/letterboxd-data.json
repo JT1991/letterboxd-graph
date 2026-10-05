@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-04T05:28:23.516Z",
+  "generatedAt": "2026-10-05T05:11:57.106Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 651,
-    "daysActive": 457,
+    "films": 653,
+    "daysActive": 458,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 38,
@@ -16094,9 +16094,22 @@
       "date": "2026-10-03",
       "week": 91,
       "weekday": 6,
-      "count": 2,
-      "ratingAvg": 3.3,
+      "count": 3,
+      "ratingAvg": 3,
       "films": [
+        {
+          "title": "Death Does Not Exist",
+          "year": "2025",
+          "rating": 2.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/death-does-not-exist/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:889783",
+          "lid": "BkJo",
+          "slug": "death-does-not-exist"
+        },
         {
           "title": "Blacker Than the Night",
           "year": "1975",
@@ -16132,10 +16145,24 @@
       "date": "2026-10-04",
       "week": 92,
       "weekday": 0,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "The Strange Color of Your Body's Tears",
+          "year": "2013",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/the-strange-color-of-your-bodys-tears/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:148509",
+          "lid": "6el4",
+          "slug": "the-strange-color-of-your-bodys-tears"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/04/"
     },
@@ -29196,9 +29223,22 @@
     },
     {
       "date": "2026-10-03",
-      "count": 2,
-      "ratingAvg": 3.3,
+      "count": 3,
+      "ratingAvg": 3,
       "films": [
+        {
+          "title": "Death Does Not Exist",
+          "year": "2025",
+          "rating": 2.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/death-does-not-exist/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:889783",
+          "lid": "BkJo",
+          "slug": "death-does-not-exist"
+        },
         {
           "title": "Blacker Than the Night",
           "year": "1975",
@@ -29227,9 +29267,58 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/03/"
+    },
+    {
+      "date": "2026-10-04",
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "The Strange Color of Your Body's Tears",
+          "year": "2013",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/the-strange-color-of-your-bodys-tears/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:148509",
+          "lid": "6el4",
+          "slug": "the-strange-color-of-your-bodys-tears"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/04/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-04",
+      "title": "The Strange Color of Your Body's Tears",
+      "year": "2013",
+      "rating": 3,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/the-strange-color-of-your-bodys-tears/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:148509",
+      "lid": "6el4",
+      "slug": "the-strange-color-of-your-bodys-tears"
+    },
+    {
+      "date": "2026-10-03",
+      "title": "Death Does Not Exist",
+      "year": "2025",
+      "rating": 2.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/death-does-not-exist/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:889783",
+      "lid": "BkJo",
+      "slug": "death-does-not-exist"
+    },
     {
       "date": "2026-10-03",
       "title": "Blacker Than the Night",
@@ -29425,34 +29514,6 @@
       "filmUid": "film:1302717",
       "lid": "SEXE",
       "slug": "resident-evil-2026"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "Koko-di Koko-da",
-      "year": "2019",
-      "rating": 2.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/koko-di-koko-da/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:493714",
-      "lid": "kIni",
-      "slug": "koko-di-koko-da"
-    },
-    {
-      "date": "2026-09-12",
-      "title": "A Bride for Rip Van Winkle",
-      "year": "2016",
-      "rating": 4.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/a-bride-for-rip-van-winkle/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:317187",
-      "lid": "dj9c",
-      "slug": "a-bride-for-rip-van-winkle"
     }
   ],
   "byYear": {
@@ -37444,33 +37505,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 219,
-      "distinctFilms": 217,
+      "entries": 221,
+      "distinctFilms": 219,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-10-03",
-      "spanDays": 276,
-      "daysActive": 172,
+      "lastEntry": "2026-10-04",
+      "spanDays": 277,
+      "daysActive": 173,
       "multiFilmDays": 37,
       "rewatches": 16,
       "liked": 10,
-      "rated": 214,
+      "rated": 216,
       "releaseBreakdown": {
         "sameYear": 30,
-        "older": 189,
+        "older": 191,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 203,
+        "firstWatches": 205,
         "rewatches": 16
       },
       "reviewBreakdown": {
         "reviewed": 28,
-        "notReviewed": 191
+        "notReviewed": 193
       },
       "averageRating": 3.5,
-      "perDay": 0.79,
+      "perDay": 0.8,
       "perWeek": 5.6,
-      "perMonth": 24.2,
+      "perMonth": 24.3,
       "streak": {
         "length": 10,
         "startDate": "2026-05-05",
@@ -37489,18 +37550,18 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 219,
-          "days": 172
+          "films": 221,
+          "days": 173
         }
       ],
       "perWeekday": [
-        31,
+        32,
         25,
         25,
         31,
         34,
         34,
-        39
+        40
       ],
       "perMonthOfYear": [
         21,
@@ -37512,7 +37573,7 @@
         23,
         29,
         20,
-        5,
+        7,
         0,
         0
       ],
@@ -37555,7 +37616,7 @@
         },
         {
           "month": "2026-10",
-          "count": 5
+          "count": 7
         }
       ],
       "weekSeries": [
@@ -37797,7 +37858,7 @@
           "week": 40,
           "start": "2026-09-28",
           "end": "2026-10-04",
-          "count": 6
+          "count": 8
         },
         {
           "week": 41,
@@ -37893,11 +37954,11 @@
         },
         {
           "rating": 2.5,
-          "count": 21
+          "count": 22
         },
         {
           "rating": 3,
-          "count": 50
+          "count": 51
         },
         {
           "rating": 3.5,
@@ -37986,13 +38047,13 @@
         {
           "decade": 2010,
           "label": "2010s",
-          "count": 36,
+          "count": 37,
           "averageRating": 3.5
         },
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 108,
+          "count": 109,
           "averageRating": 3.5
         }
       ],
@@ -38091,47 +38152,47 @@
           "slug": "the-priests"
         },
         {
-          "n": 219,
+          "n": 221,
           "kind": "latest",
-          "date": "2026-10-03",
-          "title": "The Timekeepers of Eternity",
-          "year": "2021",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/darthrosenberg/film/the-timekeepers-of-eternity/",
+          "date": "2026-10-04",
+          "title": "The Strange Color of Your Body's Tears",
+          "year": "2013",
+          "rating": 3,
+          "url": "https://letterboxd.com/darthrosenberg/film/the-strange-color-of-your-bodys-tears/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:785833",
-          "lid": "wYjg",
-          "slug": "the-timekeepers-of-eternity"
+          "filmUid": "film:148509",
+          "lid": "6el4",
+          "slug": "the-strange-color-of-your-bodys-tears"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3393,
-    "entries": 2966,
-    "distinctFilms": 2871,
+    "films": 3395,
+    "entries": 2968,
+    "distinctFilms": 2873,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-10-03",
-    "spanDays": 5598,
-    "daysActive": 1643,
+    "lastEntry": "2026-10-04",
+    "spanDays": 5599,
+    "daysActive": 1644,
     "multiFilmDays": 721,
     "rewatches": 105,
     "liked": 135,
-    "rated": 2785,
+    "rated": 2787,
     "releaseBreakdown": {
       "sameYear": 293,
-      "older": 2672,
+      "older": 2674,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2861,
+      "firstWatches": 2863,
       "rewatches": 105
     },
     "reviewBreakdown": {
       "reviewed": 231,
-      "notReviewed": 2735
+      "notReviewed": 2737
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -38225,18 +38286,18 @@
       },
       {
         "year": 2026,
-        "films": 219,
-        "days": 172
+        "films": 221,
+        "days": 173
       }
     ],
     "perWeekday": [
-      572,
+      573,
       358,
       361,
       372,
       344,
       483,
-      476
+      477
     ],
     "perMonthOfYear": [
       207,
@@ -38248,7 +38309,7 @@
       220,
       208,
       341,
-      452,
+      454,
       240,
       190
     ],
@@ -38991,7 +39052,7 @@
       },
       {
         "month": "2026-10",
-        "count": 5
+        "count": 7
       }
     ],
     "weekSeries": [],
@@ -39014,11 +39075,11 @@
       },
       {
         "rating": 2.5,
-        "count": 275
+        "count": 276
       },
       {
         "rating": 3,
-        "count": 618
+        "count": 619
       },
       {
         "rating": 3.5,
@@ -39113,13 +39174,13 @@
       {
         "decade": 2010,
         "label": "2010s",
-        "count": 938,
+        "count": 939,
         "averageRating": 3.5
       },
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 795,
+        "count": 796,
         "averageRating": 3.5
       }
     ],
@@ -40102,18 +40163,18 @@
         "slug": "mon-oncle"
       },
       {
-        "n": 2966,
+        "n": 2968,
         "kind": "latest",
-        "date": "2026-10-03",
-        "title": "The Timekeepers of Eternity",
-        "year": "2021",
-        "rating": 3.5,
-        "url": "https://letterboxd.com/darthrosenberg/film/the-timekeepers-of-eternity/",
+        "date": "2026-10-04",
+        "title": "The Strange Color of Your Body's Tears",
+        "year": "2013",
+        "rating": 3,
+        "url": "https://letterboxd.com/darthrosenberg/film/the-strange-color-of-your-bodys-tears/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:785833",
-        "lid": "wYjg",
-        "slug": "the-timekeepers-of-eternity"
+        "filmUid": "film:148509",
+        "lid": "6el4",
+        "slug": "the-strange-color-of-your-bodys-tears"
       }
     ]
   }
