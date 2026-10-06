@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-05T05:11:57.106Z",
+  "generatedAt": "2026-10-06T05:57:44.127Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 653,
-    "daysActive": 458,
+    "films": 654,
+    "daysActive": 459,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 38,
@@ -16170,10 +16170,24 @@
       "date": "2026-10-05",
       "week": 92,
       "weekday": 1,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 2.5,
+      "films": [
+        {
+          "title": "Razzennest",
+          "year": "2022",
+          "rating": 2.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/razzennest/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:881401",
+          "lid": "AYVs",
+          "slug": "razzennest"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/05/"
     },
@@ -29288,9 +29302,44 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/04/"
+    },
+    {
+      "date": "2026-10-05",
+      "count": 1,
+      "ratingAvg": 2.5,
+      "films": [
+        {
+          "title": "Razzennest",
+          "year": "2022",
+          "rating": 2.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/razzennest/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:881401",
+          "lid": "AYVs",
+          "slug": "razzennest"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/05/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-05",
+      "title": "Razzennest",
+      "year": "2022",
+      "rating": 2.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/razzennest/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:881401",
+      "lid": "AYVs",
+      "slug": "razzennest"
+    },
     {
       "date": "2026-10-04",
       "title": "The Strange Color of Your Body's Tears",
@@ -29500,20 +29549,6 @@
       "filmUid": "film:78750",
       "lid": "3iRC",
       "slug": "the-devil-1972"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "Resident Evil",
-      "year": "2026",
-      "rating": 3.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/resident-evil-2026/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:1302717",
-      "lid": "SEXE",
-      "slug": "resident-evil-2026"
     }
   ],
   "byYear": {
@@ -37505,28 +37540,28 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 221,
-      "distinctFilms": 219,
+      "entries": 222,
+      "distinctFilms": 220,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-10-04",
-      "spanDays": 277,
-      "daysActive": 173,
+      "lastEntry": "2026-10-05",
+      "spanDays": 278,
+      "daysActive": 174,
       "multiFilmDays": 37,
       "rewatches": 16,
       "liked": 10,
-      "rated": 216,
+      "rated": 217,
       "releaseBreakdown": {
         "sameYear": 30,
-        "older": 191,
+        "older": 192,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 205,
+        "firstWatches": 206,
         "rewatches": 16
       },
       "reviewBreakdown": {
         "reviewed": 28,
-        "notReviewed": 193
+        "notReviewed": 194
       },
       "averageRating": 3.5,
       "perDay": 0.8,
@@ -37550,13 +37585,13 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 221,
-          "days": 173
+          "films": 222,
+          "days": 174
         }
       ],
       "perWeekday": [
         32,
-        25,
+        26,
         25,
         31,
         34,
@@ -37573,7 +37608,7 @@
         23,
         29,
         20,
-        7,
+        8,
         0,
         0
       ],
@@ -37616,7 +37651,7 @@
         },
         {
           "month": "2026-10",
-          "count": 7
+          "count": 8
         }
       ],
       "weekSeries": [
@@ -37864,7 +37899,7 @@
           "week": 41,
           "start": "2026-10-05",
           "end": "2026-10-11",
-          "count": 0
+          "count": 1
         },
         {
           "week": 42,
@@ -37954,7 +37989,7 @@
         },
         {
           "rating": 2.5,
-          "count": 22
+          "count": 23
         },
         {
           "rating": 3,
@@ -38053,7 +38088,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 109,
+          "count": 110,
           "averageRating": 3.5
         }
       ],
@@ -38152,47 +38187,47 @@
           "slug": "the-priests"
         },
         {
-          "n": 221,
+          "n": 222,
           "kind": "latest",
-          "date": "2026-10-04",
-          "title": "The Strange Color of Your Body's Tears",
-          "year": "2013",
-          "rating": 3,
-          "url": "https://letterboxd.com/darthrosenberg/film/the-strange-color-of-your-bodys-tears/",
+          "date": "2026-10-05",
+          "title": "Razzennest",
+          "year": "2022",
+          "rating": 2.5,
+          "url": "https://letterboxd.com/darthrosenberg/film/razzennest/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:148509",
-          "lid": "6el4",
-          "slug": "the-strange-color-of-your-bodys-tears"
+          "filmUid": "film:881401",
+          "lid": "AYVs",
+          "slug": "razzennest"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3395,
-    "entries": 2968,
-    "distinctFilms": 2873,
+    "films": 3396,
+    "entries": 2969,
+    "distinctFilms": 2874,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-10-04",
-    "spanDays": 5599,
-    "daysActive": 1644,
+    "lastEntry": "2026-10-05",
+    "spanDays": 5600,
+    "daysActive": 1645,
     "multiFilmDays": 721,
     "rewatches": 105,
     "liked": 135,
-    "rated": 2787,
+    "rated": 2788,
     "releaseBreakdown": {
       "sameYear": 293,
-      "older": 2674,
+      "older": 2675,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2863,
+      "firstWatches": 2864,
       "rewatches": 105
     },
     "reviewBreakdown": {
       "reviewed": 231,
-      "notReviewed": 2737
+      "notReviewed": 2738
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -38286,13 +38321,13 @@
       },
       {
         "year": 2026,
-        "films": 221,
-        "days": 173
+        "films": 222,
+        "days": 174
       }
     ],
     "perWeekday": [
       573,
-      358,
+      359,
       361,
       372,
       344,
@@ -38309,7 +38344,7 @@
       220,
       208,
       341,
-      454,
+      455,
       240,
       190
     ],
@@ -39052,7 +39087,7 @@
       },
       {
         "month": "2026-10",
-        "count": 7
+        "count": 8
       }
     ],
     "weekSeries": [],
@@ -39075,7 +39110,7 @@
       },
       {
         "rating": 2.5,
-        "count": 276
+        "count": 277
       },
       {
         "rating": 3,
@@ -39180,7 +39215,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 796,
+        "count": 797,
         "averageRating": 3.5
       }
     ],
@@ -40163,18 +40198,18 @@
         "slug": "mon-oncle"
       },
       {
-        "n": 2968,
+        "n": 2969,
         "kind": "latest",
-        "date": "2026-10-04",
-        "title": "The Strange Color of Your Body's Tears",
-        "year": "2013",
-        "rating": 3,
-        "url": "https://letterboxd.com/darthrosenberg/film/the-strange-color-of-your-bodys-tears/",
+        "date": "2026-10-05",
+        "title": "Razzennest",
+        "year": "2022",
+        "rating": 2.5,
+        "url": "https://letterboxd.com/darthrosenberg/film/razzennest/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:148509",
-        "lid": "6el4",
-        "slug": "the-strange-color-of-your-bodys-tears"
+        "filmUid": "film:881401",
+        "lid": "AYVs",
+        "slug": "razzennest"
       }
     ]
   }
