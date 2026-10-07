@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-06T05:57:44.127Z",
+  "generatedAt": "2026-10-07T05:32:04.266Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 654,
-    "daysActive": 459,
+    "films": 655,
+    "daysActive": 460,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 38,
@@ -16195,10 +16195,24 @@
       "date": "2026-10-06",
       "week": 92,
       "weekday": 2,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Seconds",
+          "year": "1966",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/seconds/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:38894",
+          "lid": "1Dbe",
+          "slug": "seconds"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/06/"
     },
@@ -29323,9 +29337,44 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/05/"
+    },
+    {
+      "date": "2026-10-06",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Seconds",
+          "year": "1966",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/seconds/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:38894",
+          "lid": "1Dbe",
+          "slug": "seconds"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/06/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-06",
+      "title": "Seconds",
+      "year": "1966",
+      "rating": 4,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/seconds/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:38894",
+      "lid": "1Dbe",
+      "slug": "seconds"
+    },
     {
       "date": "2026-10-05",
       "title": "Razzennest",
@@ -29535,20 +29584,6 @@
       "filmUid": "film:49595",
       "lid": "251c",
       "slug": "ikiru"
-    },
-    {
-      "date": "2026-09-19",
-      "title": "The Devil",
-      "year": "1972",
-      "rating": 4,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/the-devil-1972/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:78750",
-      "lid": "3iRC",
-      "slug": "the-devil-1972"
     }
   ],
   "byYear": {
@@ -37540,28 +37575,28 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 222,
-      "distinctFilms": 220,
+      "entries": 223,
+      "distinctFilms": 221,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-10-05",
-      "spanDays": 278,
-      "daysActive": 174,
+      "lastEntry": "2026-10-06",
+      "spanDays": 279,
+      "daysActive": 175,
       "multiFilmDays": 37,
       "rewatches": 16,
       "liked": 10,
-      "rated": 217,
+      "rated": 218,
       "releaseBreakdown": {
         "sameYear": 30,
-        "older": 192,
+        "older": 193,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 206,
+        "firstWatches": 207,
         "rewatches": 16
       },
       "reviewBreakdown": {
         "reviewed": 28,
-        "notReviewed": 194
+        "notReviewed": 195
       },
       "averageRating": 3.5,
       "perDay": 0.8,
@@ -37585,14 +37620,14 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 222,
-          "days": 174
+          "films": 223,
+          "days": 175
         }
       ],
       "perWeekday": [
         32,
         26,
-        25,
+        26,
         31,
         34,
         34,
@@ -37608,7 +37643,7 @@
         23,
         29,
         20,
-        8,
+        9,
         0,
         0
       ],
@@ -37651,7 +37686,7 @@
         },
         {
           "month": "2026-10",
-          "count": 8
+          "count": 9
         }
       ],
       "weekSeries": [
@@ -37899,7 +37934,7 @@
           "week": 41,
           "start": "2026-10-05",
           "end": "2026-10-11",
-          "count": 1
+          "count": 2
         },
         {
           "week": 42,
@@ -38001,7 +38036,7 @@
         },
         {
           "rating": 4,
-          "count": 53
+          "count": 54
         },
         {
           "rating": 4.5,
@@ -38052,7 +38087,7 @@
         {
           "decade": 1960,
           "label": "1960s",
-          "count": 10,
+          "count": 11,
           "averageRating": 4
         },
         {
@@ -38187,47 +38222,47 @@
           "slug": "the-priests"
         },
         {
-          "n": 222,
+          "n": 223,
           "kind": "latest",
-          "date": "2026-10-05",
-          "title": "Razzennest",
-          "year": "2022",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/darthrosenberg/film/razzennest/",
+          "date": "2026-10-06",
+          "title": "Seconds",
+          "year": "1966",
+          "rating": 4,
+          "url": "https://letterboxd.com/darthrosenberg/film/seconds/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:881401",
-          "lid": "AYVs",
-          "slug": "razzennest"
+          "filmUid": "film:38894",
+          "lid": "1Dbe",
+          "slug": "seconds"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3396,
-    "entries": 2969,
-    "distinctFilms": 2874,
+    "films": 3397,
+    "entries": 2970,
+    "distinctFilms": 2875,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-10-05",
-    "spanDays": 5600,
-    "daysActive": 1645,
+    "lastEntry": "2026-10-06",
+    "spanDays": 5601,
+    "daysActive": 1646,
     "multiFilmDays": 721,
     "rewatches": 105,
     "liked": 135,
-    "rated": 2788,
+    "rated": 2789,
     "releaseBreakdown": {
       "sameYear": 293,
-      "older": 2675,
+      "older": 2676,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2864,
+      "firstWatches": 2865,
       "rewatches": 105
     },
     "reviewBreakdown": {
       "reviewed": 231,
-      "notReviewed": 2738
+      "notReviewed": 2739
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -38321,14 +38356,14 @@
       },
       {
         "year": 2026,
-        "films": 222,
-        "days": 174
+        "films": 223,
+        "days": 175
       }
     ],
     "perWeekday": [
       573,
       359,
-      361,
+      362,
       372,
       344,
       483,
@@ -38344,7 +38379,7 @@
       220,
       208,
       341,
-      455,
+      456,
       240,
       190
     ],
@@ -39087,7 +39122,7 @@
       },
       {
         "month": "2026-10",
-        "count": 8
+        "count": 9
       }
     ],
     "weekSeries": [],
@@ -39122,7 +39157,7 @@
       },
       {
         "rating": 4,
-        "count": 674
+        "count": 675
       },
       {
         "rating": 4.5,
@@ -39179,7 +39214,7 @@
       {
         "decade": 1960,
         "label": "1960s",
-        "count": 174,
+        "count": 175,
         "averageRating": 4
       },
       {
@@ -40198,18 +40233,18 @@
         "slug": "mon-oncle"
       },
       {
-        "n": 2969,
+        "n": 2970,
         "kind": "latest",
-        "date": "2026-10-05",
-        "title": "Razzennest",
-        "year": "2022",
-        "rating": 2.5,
-        "url": "https://letterboxd.com/darthrosenberg/film/razzennest/",
+        "date": "2026-10-06",
+        "title": "Seconds",
+        "year": "1966",
+        "rating": 4,
+        "url": "https://letterboxd.com/darthrosenberg/film/seconds/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:881401",
-        "lid": "AYVs",
-        "slug": "razzennest"
+        "filmUid": "film:38894",
+        "lid": "1Dbe",
+        "slug": "seconds"
       }
     ]
   }
