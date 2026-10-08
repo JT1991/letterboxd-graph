@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-07T05:32:04.266Z",
+  "generatedAt": "2026-10-08T05:39:41.288Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 655,
-    "daysActive": 460,
+    "films": 656,
+    "daysActive": 461,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 38,
@@ -16220,10 +16220,24 @@
       "date": "2026-10-07",
       "week": 92,
       "weekday": 3,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "Vincent Must Die",
+          "year": "2023",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/vincent-must-die/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/darthrosenberg/film/vincent-must-die/",
+          "filmUid": "film:869323",
+          "lid": "Atvo",
+          "slug": "vincent-must-die"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/07/"
     },
@@ -29358,9 +29372,44 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/06/"
+    },
+    {
+      "date": "2026-10-07",
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "Vincent Must Die",
+          "year": "2023",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/vincent-must-die/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/darthrosenberg/film/vincent-must-die/",
+          "filmUid": "film:869323",
+          "lid": "Atvo",
+          "slug": "vincent-must-die"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/07/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-07",
+      "title": "Vincent Must Die",
+      "year": "2023",
+      "rating": 3,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/vincent-must-die/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/darthrosenberg/film/vincent-must-die/",
+      "filmUid": "film:869323",
+      "lid": "Atvo",
+      "slug": "vincent-must-die"
+    },
     {
       "date": "2026-10-06",
       "title": "Seconds",
@@ -29570,20 +29619,6 @@
       "filmUid": "film:173012",
       "lid": "7g5a",
       "slug": "spacy"
-    },
-    {
-      "date": "2026-09-20",
-      "title": "Ikiru",
-      "year": "1952",
-      "rating": 4.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/ikiru/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:49595",
-      "lid": "251c",
-      "slug": "ikiru"
     }
   ],
   "byYear": {
@@ -37575,33 +37610,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 223,
-      "distinctFilms": 221,
+      "entries": 224,
+      "distinctFilms": 222,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-10-06",
-      "spanDays": 279,
-      "daysActive": 175,
+      "lastEntry": "2026-10-07",
+      "spanDays": 280,
+      "daysActive": 176,
       "multiFilmDays": 37,
       "rewatches": 16,
       "liked": 10,
-      "rated": 218,
+      "rated": 219,
       "releaseBreakdown": {
         "sameYear": 30,
-        "older": 193,
+        "older": 194,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 207,
+        "firstWatches": 208,
         "rewatches": 16
       },
       "reviewBreakdown": {
-        "reviewed": 28,
+        "reviewed": 29,
         "notReviewed": 195
       },
       "averageRating": 3.5,
       "perDay": 0.8,
       "perWeek": 5.6,
-      "perMonth": 24.3,
+      "perMonth": 24.4,
       "streak": {
         "length": 10,
         "startDate": "2026-05-05",
@@ -37620,15 +37655,15 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 223,
-          "days": 175
+          "films": 224,
+          "days": 176
         }
       ],
       "perWeekday": [
         32,
         26,
         26,
-        31,
+        32,
         34,
         34,
         40
@@ -37643,7 +37678,7 @@
         23,
         29,
         20,
-        9,
+        10,
         0,
         0
       ],
@@ -37686,7 +37721,7 @@
         },
         {
           "month": "2026-10",
-          "count": 9
+          "count": 10
         }
       ],
       "weekSeries": [
@@ -37934,7 +37969,7 @@
           "week": 41,
           "start": "2026-10-05",
           "end": "2026-10-11",
-          "count": 2
+          "count": 3
         },
         {
           "week": 42,
@@ -38028,7 +38063,7 @@
         },
         {
           "rating": 3,
-          "count": 51
+          "count": 52
         },
         {
           "rating": 3.5,
@@ -38123,7 +38158,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 110,
+          "count": 111,
           "averageRating": 3.5
         }
       ],
@@ -38222,46 +38257,46 @@
           "slug": "the-priests"
         },
         {
-          "n": 223,
+          "n": 224,
           "kind": "latest",
-          "date": "2026-10-06",
-          "title": "Seconds",
-          "year": "1966",
-          "rating": 4,
-          "url": "https://letterboxd.com/darthrosenberg/film/seconds/",
-          "reviewed": false,
-          "reviewUrl": null,
-          "filmUid": "film:38894",
-          "lid": "1Dbe",
-          "slug": "seconds"
+          "date": "2026-10-07",
+          "title": "Vincent Must Die",
+          "year": "2023",
+          "rating": 3,
+          "url": "https://letterboxd.com/darthrosenberg/film/vincent-must-die/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/darthrosenberg/film/vincent-must-die/",
+          "filmUid": "film:869323",
+          "lid": "Atvo",
+          "slug": "vincent-must-die"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3397,
-    "entries": 2970,
-    "distinctFilms": 2875,
+    "films": 3398,
+    "entries": 2971,
+    "distinctFilms": 2876,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-10-06",
-    "spanDays": 5601,
-    "daysActive": 1646,
+    "lastEntry": "2026-10-07",
+    "spanDays": 5602,
+    "daysActive": 1647,
     "multiFilmDays": 721,
     "rewatches": 105,
     "liked": 135,
-    "rated": 2789,
+    "rated": 2790,
     "releaseBreakdown": {
       "sameYear": 293,
-      "older": 2676,
+      "older": 2677,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2865,
+      "firstWatches": 2866,
       "rewatches": 105
     },
     "reviewBreakdown": {
-      "reviewed": 231,
+      "reviewed": 232,
       "notReviewed": 2739
     },
     "averageRating": 3.5,
@@ -38356,15 +38391,15 @@
       },
       {
         "year": 2026,
-        "films": 223,
-        "days": 175
+        "films": 224,
+        "days": 176
       }
     ],
     "perWeekday": [
       573,
       359,
       362,
-      372,
+      373,
       344,
       483,
       477
@@ -38379,7 +38414,7 @@
       220,
       208,
       341,
-      456,
+      457,
       240,
       190
     ],
@@ -39122,7 +39157,7 @@
       },
       {
         "month": "2026-10",
-        "count": 9
+        "count": 10
       }
     ],
     "weekSeries": [],
@@ -39149,7 +39184,7 @@
       },
       {
         "rating": 3,
-        "count": 619
+        "count": 620
       },
       {
         "rating": 3.5,
@@ -39250,7 +39285,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 797,
+        "count": 798,
         "averageRating": 3.5
       }
     ],
@@ -40233,18 +40268,18 @@
         "slug": "mon-oncle"
       },
       {
-        "n": 2970,
+        "n": 2971,
         "kind": "latest",
-        "date": "2026-10-06",
-        "title": "Seconds",
-        "year": "1966",
-        "rating": 4,
-        "url": "https://letterboxd.com/darthrosenberg/film/seconds/",
-        "reviewed": false,
-        "reviewUrl": null,
-        "filmUid": "film:38894",
-        "lid": "1Dbe",
-        "slug": "seconds"
+        "date": "2026-10-07",
+        "title": "Vincent Must Die",
+        "year": "2023",
+        "rating": 3,
+        "url": "https://letterboxd.com/darthrosenberg/film/vincent-must-die/",
+        "reviewed": true,
+        "reviewUrl": "https://letterboxd.com/darthrosenberg/film/vincent-must-die/",
+        "filmUid": "film:869323",
+        "lid": "Atvo",
+        "slug": "vincent-must-die"
       }
     ]
   }
