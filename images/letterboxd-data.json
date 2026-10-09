@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-08T05:39:41.288Z",
+  "generatedAt": "2026-10-09T05:43:56.308Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -16221,17 +16221,17 @@
       "week": 92,
       "weekday": 3,
       "count": 1,
-      "ratingAvg": 3,
+      "ratingAvg": 2.5,
       "films": [
         {
           "title": "Vincent Must Die",
           "year": "2023",
-          "rating": 3,
+          "rating": 2.5,
           "rewatch": false,
           "liked": false,
           "url": "https://letterboxd.com/darthrosenberg/film/vincent-must-die/",
-          "reviewed": true,
-          "reviewUrl": "https://letterboxd.com/darthrosenberg/film/vincent-must-die/",
+          "reviewed": false,
+          "reviewUrl": null,
           "filmUid": "film:869323",
           "lid": "Atvo",
           "slug": "vincent-must-die"
@@ -29376,17 +29376,17 @@
     {
       "date": "2026-10-07",
       "count": 1,
-      "ratingAvg": 3,
+      "ratingAvg": 2.5,
       "films": [
         {
           "title": "Vincent Must Die",
           "year": "2023",
-          "rating": 3,
+          "rating": 2.5,
           "rewatch": false,
           "liked": false,
           "url": "https://letterboxd.com/darthrosenberg/film/vincent-must-die/",
-          "reviewed": true,
-          "reviewUrl": "https://letterboxd.com/darthrosenberg/film/vincent-must-die/",
+          "reviewed": false,
+          "reviewUrl": null,
           "filmUid": "film:869323",
           "lid": "Atvo",
           "slug": "vincent-must-die"
@@ -29400,12 +29400,12 @@
       "date": "2026-10-07",
       "title": "Vincent Must Die",
       "year": "2023",
-      "rating": 3,
+      "rating": 2.5,
       "rewatch": false,
       "liked": false,
       "url": "https://letterboxd.com/darthrosenberg/film/vincent-must-die/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/darthrosenberg/film/vincent-must-die/",
+      "reviewed": false,
+      "reviewUrl": null,
       "filmUid": "film:869323",
       "lid": "Atvo",
       "slug": "vincent-must-die"
@@ -37630,8 +37630,8 @@
         "rewatches": 16
       },
       "reviewBreakdown": {
-        "reviewed": 29,
-        "notReviewed": 195
+        "reviewed": 28,
+        "notReviewed": 196
       },
       "averageRating": 3.5,
       "perDay": 0.8,
@@ -38059,11 +38059,11 @@
         },
         {
           "rating": 2.5,
-          "count": 23
+          "count": 24
         },
         {
           "rating": 3,
-          "count": 52
+          "count": 51
         },
         {
           "rating": 3.5,
@@ -38262,10 +38262,10 @@
           "date": "2026-10-07",
           "title": "Vincent Must Die",
           "year": "2023",
-          "rating": 3,
+          "rating": 2.5,
           "url": "https://letterboxd.com/darthrosenberg/film/vincent-must-die/",
-          "reviewed": true,
-          "reviewUrl": "https://letterboxd.com/darthrosenberg/film/vincent-must-die/",
+          "reviewed": false,
+          "reviewUrl": null,
           "filmUid": "film:869323",
           "lid": "Atvo",
           "slug": "vincent-must-die"
@@ -38296,8 +38296,8 @@
       "rewatches": 105
     },
     "reviewBreakdown": {
-      "reviewed": 232,
-      "notReviewed": 2739
+      "reviewed": 231,
+      "notReviewed": 2740
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -39180,11 +39180,11 @@
       },
       {
         "rating": 2.5,
-        "count": 277
+        "count": 278
       },
       {
         "rating": 3,
-        "count": 620
+        "count": 619
       },
       {
         "rating": 3.5,
@@ -40273,10 +40273,10 @@
         "date": "2026-10-07",
         "title": "Vincent Must Die",
         "year": "2023",
-        "rating": 3,
+        "rating": 2.5,
         "url": "https://letterboxd.com/darthrosenberg/film/vincent-must-die/",
-        "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/darthrosenberg/film/vincent-must-die/",
+        "reviewed": false,
+        "reviewUrl": null,
         "filmUid": "film:869323",
         "lid": "Atvo",
         "slug": "vincent-must-die"
