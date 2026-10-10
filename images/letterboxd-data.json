@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-09T05:43:56.308Z",
+  "generatedAt": "2026-10-10T05:27:30.431Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 656,
-    "daysActive": 461,
+    "films": 658,
+    "daysActive": 462,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 38,
@@ -16256,10 +16256,37 @@
       "date": "2026-10-09",
       "week": 92,
       "weekday": 5,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 2,
+      "ratingAvg": 2.5,
+      "films": [
+        {
+          "title": "Descent Into Darkness: My European Nightmare",
+          "year": "2012",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/descent-into-darkness-my-european-nightmare/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/darthrosenberg/film/descent-into-darkness-my-european-nightmare/",
+          "filmUid": "film:291364",
+          "lid": "cdYc",
+          "slug": "descent-into-darkness-my-european-nightmare"
+        },
+        {
+          "title": "Gatlopp: Hell of a Game",
+          "year": "2022",
+          "rating": 2,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/gatlopp-hell-of-a-game/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:804280",
+          "lid": "xKiA",
+          "slug": "gatlopp-hell-of-a-game"
+        }
+      ],
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/09/"
     },
@@ -29393,9 +29420,71 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/07/"
+    },
+    {
+      "date": "2026-10-09",
+      "count": 2,
+      "ratingAvg": 2.5,
+      "films": [
+        {
+          "title": "Descent Into Darkness: My European Nightmare",
+          "year": "2012",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/descent-into-darkness-my-european-nightmare/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/darthrosenberg/film/descent-into-darkness-my-european-nightmare/",
+          "filmUid": "film:291364",
+          "lid": "cdYc",
+          "slug": "descent-into-darkness-my-european-nightmare"
+        },
+        {
+          "title": "Gatlopp: Hell of a Game",
+          "year": "2022",
+          "rating": 2,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/gatlopp-hell-of-a-game/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:804280",
+          "lid": "xKiA",
+          "slug": "gatlopp-hell-of-a-game"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/09/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-09",
+      "title": "Descent Into Darkness: My European Nightmare",
+      "year": "2012",
+      "rating": 3,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/descent-into-darkness-my-european-nightmare/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/darthrosenberg/film/descent-into-darkness-my-european-nightmare/",
+      "filmUid": "film:291364",
+      "lid": "cdYc",
+      "slug": "descent-into-darkness-my-european-nightmare"
+    },
+    {
+      "date": "2026-10-09",
+      "title": "Gatlopp: Hell of a Game",
+      "year": "2022",
+      "rating": 2,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/gatlopp-hell-of-a-game/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:804280",
+      "lid": "xKiA",
+      "slug": "gatlopp-hell-of-a-game"
+    },
     {
       "date": "2026-10-07",
       "title": "Vincent Must Die",
@@ -29591,34 +29680,6 @@
       "filmUid": "film:41458",
       "lid": "1JQM",
       "slug": "russian-ark"
-    },
-    {
-      "date": "2026-09-21",
-      "title": "Project Hail Mary",
-      "year": "2026",
-      "rating": null,
-      "rewatch": true,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/project-hail-mary/1/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:611288",
-      "lid": "pEeQ",
-      "slug": "project-hail-mary"
-    },
-    {
-      "date": "2026-09-20",
-      "title": "Spacy",
-      "year": "1981",
-      "rating": null,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/spacy/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:173012",
-      "lid": "7g5a",
-      "slug": "spacy"
     }
   ],
   "byYear": {
@@ -37610,30 +37671,30 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 224,
-      "distinctFilms": 222,
+      "entries": 226,
+      "distinctFilms": 224,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-10-07",
-      "spanDays": 280,
-      "daysActive": 176,
-      "multiFilmDays": 37,
+      "lastEntry": "2026-10-09",
+      "spanDays": 282,
+      "daysActive": 177,
+      "multiFilmDays": 38,
       "rewatches": 16,
       "liked": 10,
-      "rated": 219,
+      "rated": 221,
       "releaseBreakdown": {
         "sameYear": 30,
-        "older": 194,
+        "older": 196,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 208,
+        "firstWatches": 210,
         "rewatches": 16
       },
       "reviewBreakdown": {
-        "reviewed": 28,
-        "notReviewed": 196
+        "reviewed": 29,
+        "notReviewed": 197
       },
-      "averageRating": 3.5,
+      "averageRating": 3.4,
       "perDay": 0.8,
       "perWeek": 5.6,
       "perMonth": 24.4,
@@ -37655,8 +37716,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 224,
-          "days": 176
+          "films": 226,
+          "days": 177
         }
       ],
       "perWeekday": [
@@ -37665,7 +37726,7 @@
         26,
         32,
         34,
-        34,
+        36,
         40
       ],
       "perMonthOfYear": [
@@ -37678,7 +37739,7 @@
         23,
         29,
         20,
-        10,
+        12,
         0,
         0
       ],
@@ -37721,7 +37782,7 @@
         },
         {
           "month": "2026-10",
-          "count": 10
+          "count": 12
         }
       ],
       "weekSeries": [
@@ -37969,7 +38030,7 @@
           "week": 41,
           "start": "2026-10-05",
           "end": "2026-10-11",
-          "count": 3
+          "count": 5
         },
         {
           "week": 42,
@@ -38055,7 +38116,7 @@
         },
         {
           "rating": 2,
-          "count": 4
+          "count": 5
         },
         {
           "rating": 2.5,
@@ -38063,7 +38124,7 @@
         },
         {
           "rating": 3,
-          "count": 51
+          "count": 52
         },
         {
           "rating": 3.5,
@@ -38152,13 +38213,13 @@
         {
           "decade": 2010,
           "label": "2010s",
-          "count": 37,
+          "count": 38,
           "averageRating": 3.5
         },
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 111,
+          "count": 112,
           "averageRating": 3.5
         }
       ],
@@ -38257,47 +38318,47 @@
           "slug": "the-priests"
         },
         {
-          "n": 224,
+          "n": 226,
           "kind": "latest",
-          "date": "2026-10-07",
-          "title": "Vincent Must Die",
-          "year": "2023",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/darthrosenberg/film/vincent-must-die/",
+          "date": "2026-10-09",
+          "title": "Gatlopp: Hell of a Game",
+          "year": "2022",
+          "rating": 2,
+          "url": "https://letterboxd.com/darthrosenberg/film/gatlopp-hell-of-a-game/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:869323",
-          "lid": "Atvo",
-          "slug": "vincent-must-die"
+          "filmUid": "film:804280",
+          "lid": "xKiA",
+          "slug": "gatlopp-hell-of-a-game"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3398,
-    "entries": 2971,
-    "distinctFilms": 2876,
+    "films": 3400,
+    "entries": 2973,
+    "distinctFilms": 2878,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-10-07",
-    "spanDays": 5602,
-    "daysActive": 1647,
-    "multiFilmDays": 721,
+    "lastEntry": "2026-10-09",
+    "spanDays": 5604,
+    "daysActive": 1648,
+    "multiFilmDays": 722,
     "rewatches": 105,
     "liked": 135,
-    "rated": 2790,
+    "rated": 2792,
     "releaseBreakdown": {
       "sameYear": 293,
-      "older": 2677,
+      "older": 2679,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2866,
+      "firstWatches": 2868,
       "rewatches": 105
     },
     "reviewBreakdown": {
-      "reviewed": 231,
-      "notReviewed": 2740
+      "reviewed": 232,
+      "notReviewed": 2741
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -38391,8 +38452,8 @@
       },
       {
         "year": 2026,
-        "films": 224,
-        "days": 176
+        "films": 226,
+        "days": 177
       }
     ],
     "perWeekday": [
@@ -38401,7 +38462,7 @@
       362,
       373,
       344,
-      483,
+      485,
       477
     ],
     "perMonthOfYear": [
@@ -38414,7 +38475,7 @@
       220,
       208,
       341,
-      457,
+      459,
       240,
       190
     ],
@@ -39157,7 +39218,7 @@
       },
       {
         "month": "2026-10",
-        "count": 10
+        "count": 12
       }
     ],
     "weekSeries": [],
@@ -39176,7 +39237,7 @@
       },
       {
         "rating": 2,
-        "count": 71
+        "count": 72
       },
       {
         "rating": 2.5,
@@ -39184,7 +39245,7 @@
       },
       {
         "rating": 3,
-        "count": 619
+        "count": 620
       },
       {
         "rating": 3.5,
@@ -39279,13 +39340,13 @@
       {
         "decade": 2010,
         "label": "2010s",
-        "count": 939,
+        "count": 940,
         "averageRating": 3.5
       },
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 798,
+        "count": 799,
         "averageRating": 3.5
       }
     ],
@@ -40268,18 +40329,18 @@
         "slug": "mon-oncle"
       },
       {
-        "n": 2971,
+        "n": 2973,
         "kind": "latest",
-        "date": "2026-10-07",
-        "title": "Vincent Must Die",
-        "year": "2023",
-        "rating": 2.5,
-        "url": "https://letterboxd.com/darthrosenberg/film/vincent-must-die/",
+        "date": "2026-10-09",
+        "title": "Gatlopp: Hell of a Game",
+        "year": "2022",
+        "rating": 2,
+        "url": "https://letterboxd.com/darthrosenberg/film/gatlopp-hell-of-a-game/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:869323",
-        "lid": "Atvo",
-        "slug": "vincent-must-die"
+        "filmUid": "film:804280",
+        "lid": "xKiA",
+        "slug": "gatlopp-hell-of-a-game"
       }
     ]
   }
