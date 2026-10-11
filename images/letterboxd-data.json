@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-10T05:27:30.431Z",
+  "generatedAt": "2026-10-11T05:21:04.029Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 658,
-    "daysActive": 462,
+    "films": 659,
+    "daysActive": 463,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 38,
@@ -16294,10 +16294,24 @@
       "date": "2026-10-10",
       "week": 92,
       "weekday": 6,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "Senritsu Kaiki File Kowasugi! File 02: Shivering Ghost",
+          "year": "2012",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-file-02-shivering-ghost/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:768850",
+          "lid": "wg84",
+          "slug": "senritsu-kaiki-file-kowasugi-file-02-shivering-ghost"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/10/"
     },
@@ -29454,9 +29468,44 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/09/"
+    },
+    {
+      "date": "2026-10-10",
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "Senritsu Kaiki File Kowasugi! File 02: Shivering Ghost",
+          "year": "2012",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-file-02-shivering-ghost/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:768850",
+          "lid": "wg84",
+          "slug": "senritsu-kaiki-file-kowasugi-file-02-shivering-ghost"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/10/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-10",
+      "title": "Senritsu Kaiki File Kowasugi! File 02: Shivering Ghost",
+      "year": "2012",
+      "rating": 3,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-file-02-shivering-ghost/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:768850",
+      "lid": "wg84",
+      "slug": "senritsu-kaiki-file-kowasugi-file-02-shivering-ghost"
+    },
     {
       "date": "2026-10-09",
       "title": "Descent Into Darkness: My European Nightmare",
@@ -29666,20 +29715,6 @@
       "filmUid": "film:954663",
       "lid": "E3vU",
       "slug": "hope-2026"
-    },
-    {
-      "date": "2026-09-22",
-      "title": "Russian Ark",
-      "year": "2002",
-      "rating": 4,
-      "rewatch": false,
-      "liked": true,
-      "url": "https://letterboxd.com/darthrosenberg/film/russian-ark/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:41458",
-      "lid": "1JQM",
-      "slug": "russian-ark"
     }
   ],
   "byYear": {
@@ -37671,28 +37706,28 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 226,
-      "distinctFilms": 224,
+      "entries": 227,
+      "distinctFilms": 225,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-10-09",
-      "spanDays": 282,
-      "daysActive": 177,
+      "lastEntry": "2026-10-10",
+      "spanDays": 283,
+      "daysActive": 178,
       "multiFilmDays": 38,
       "rewatches": 16,
       "liked": 10,
-      "rated": 221,
+      "rated": 222,
       "releaseBreakdown": {
         "sameYear": 30,
-        "older": 196,
+        "older": 197,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 210,
+        "firstWatches": 211,
         "rewatches": 16
       },
       "reviewBreakdown": {
         "reviewed": 29,
-        "notReviewed": 197
+        "notReviewed": 198
       },
       "averageRating": 3.4,
       "perDay": 0.8,
@@ -37716,8 +37751,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 226,
-          "days": 177
+          "films": 227,
+          "days": 178
         }
       ],
       "perWeekday": [
@@ -37727,7 +37762,7 @@
         32,
         34,
         36,
-        40
+        41
       ],
       "perMonthOfYear": [
         21,
@@ -37739,7 +37774,7 @@
         23,
         29,
         20,
-        12,
+        13,
         0,
         0
       ],
@@ -37782,7 +37817,7 @@
         },
         {
           "month": "2026-10",
-          "count": 12
+          "count": 13
         }
       ],
       "weekSeries": [
@@ -38030,7 +38065,7 @@
           "week": 41,
           "start": "2026-10-05",
           "end": "2026-10-11",
-          "count": 5
+          "count": 6
         },
         {
           "week": 42,
@@ -38124,7 +38159,7 @@
         },
         {
           "rating": 3,
-          "count": 52
+          "count": 53
         },
         {
           "rating": 3.5,
@@ -38213,7 +38248,7 @@
         {
           "decade": 2010,
           "label": "2010s",
-          "count": 38,
+          "count": 39,
           "averageRating": 3.5
         },
         {
@@ -38318,52 +38353,52 @@
           "slug": "the-priests"
         },
         {
-          "n": 226,
+          "n": 227,
           "kind": "latest",
-          "date": "2026-10-09",
-          "title": "Gatlopp: Hell of a Game",
-          "year": "2022",
-          "rating": 2,
-          "url": "https://letterboxd.com/darthrosenberg/film/gatlopp-hell-of-a-game/",
+          "date": "2026-10-10",
+          "title": "Senritsu Kaiki File Kowasugi! File 02: Shivering Ghost",
+          "year": "2012",
+          "rating": 3,
+          "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-file-02-shivering-ghost/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:804280",
-          "lid": "xKiA",
-          "slug": "gatlopp-hell-of-a-game"
+          "filmUid": "film:768850",
+          "lid": "wg84",
+          "slug": "senritsu-kaiki-file-kowasugi-file-02-shivering-ghost"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3400,
-    "entries": 2973,
-    "distinctFilms": 2878,
+    "films": 3401,
+    "entries": 2974,
+    "distinctFilms": 2879,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-10-09",
-    "spanDays": 5604,
-    "daysActive": 1648,
+    "lastEntry": "2026-10-10",
+    "spanDays": 5605,
+    "daysActive": 1649,
     "multiFilmDays": 722,
     "rewatches": 105,
     "liked": 135,
-    "rated": 2792,
+    "rated": 2793,
     "releaseBreakdown": {
       "sameYear": 293,
-      "older": 2679,
+      "older": 2680,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2868,
+      "firstWatches": 2869,
       "rewatches": 105
     },
     "reviewBreakdown": {
       "reviewed": 232,
-      "notReviewed": 2741
+      "notReviewed": 2742
     },
     "averageRating": 3.5,
     "perDay": 0.53,
     "perWeek": 3.7,
-    "perMonth": 16.1,
+    "perMonth": 16.2,
     "streak": {
       "length": 43,
       "startDate": "2024-03-26",
@@ -38452,8 +38487,8 @@
       },
       {
         "year": 2026,
-        "films": 226,
-        "days": 177
+        "films": 227,
+        "days": 178
       }
     ],
     "perWeekday": [
@@ -38463,7 +38498,7 @@
       373,
       344,
       485,
-      477
+      478
     ],
     "perMonthOfYear": [
       207,
@@ -38475,7 +38510,7 @@
       220,
       208,
       341,
-      459,
+      460,
       240,
       190
     ],
@@ -39218,7 +39253,7 @@
       },
       {
         "month": "2026-10",
-        "count": 12
+        "count": 13
       }
     ],
     "weekSeries": [],
@@ -39245,7 +39280,7 @@
       },
       {
         "rating": 3,
-        "count": 620
+        "count": 621
       },
       {
         "rating": 3.5,
@@ -39340,7 +39375,7 @@
       {
         "decade": 2010,
         "label": "2010s",
-        "count": 940,
+        "count": 941,
         "averageRating": 3.5
       },
       {
@@ -40329,18 +40364,18 @@
         "slug": "mon-oncle"
       },
       {
-        "n": 2973,
+        "n": 2974,
         "kind": "latest",
-        "date": "2026-10-09",
-        "title": "Gatlopp: Hell of a Game",
-        "year": "2022",
-        "rating": 2,
-        "url": "https://letterboxd.com/darthrosenberg/film/gatlopp-hell-of-a-game/",
+        "date": "2026-10-10",
+        "title": "Senritsu Kaiki File Kowasugi! File 02: Shivering Ghost",
+        "year": "2012",
+        "rating": 3,
+        "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-file-02-shivering-ghost/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:804280",
-        "lid": "xKiA",
-        "slug": "gatlopp-hell-of-a-game"
+        "filmUid": "film:768850",
+        "lid": "wg84",
+        "slug": "senritsu-kaiki-file-kowasugi-file-02-shivering-ghost"
       }
     ]
   }
