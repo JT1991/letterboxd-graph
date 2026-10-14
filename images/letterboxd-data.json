@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-13T06:30:06.586Z",
+  "generatedAt": "2026-10-14T04:31:27.191Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 660,
-    "daysActive": 464,
+    "films": 661,
+    "daysActive": 465,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 38,
@@ -16355,10 +16355,24 @@
       "date": "2026-10-13",
       "week": 93,
       "weekday": 2,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "In the Mouth of Madness",
+          "year": "1994",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/in-the-mouth-of-madness/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:50166",
+          "lid": "26vi",
+          "slug": "in-the-mouth-of-madness"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/13/"
     },
@@ -29524,9 +29538,44 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/11/"
+    },
+    {
+      "date": "2026-10-13",
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "In the Mouth of Madness",
+          "year": "1994",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/in-the-mouth-of-madness/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:50166",
+          "lid": "26vi",
+          "slug": "in-the-mouth-of-madness"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/13/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-13",
+      "title": "In the Mouth of Madness",
+      "year": "1994",
+      "rating": 3,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/in-the-mouth-of-madness/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:50166",
+      "lid": "26vi",
+      "slug": "in-the-mouth-of-madness"
+    },
     {
       "date": "2026-10-11",
       "title": "Senritsu Kaiki File Kowasugi! File 03: Legend of a Human-Eating Kappa",
@@ -29736,20 +29785,6 @@
       "filmUid": "film:12733",
       "lid": "x7I",
       "slug": "lessons-of-darkness"
-    },
-    {
-      "date": "2026-09-25",
-      "title": "Hamnet",
-      "year": "2025",
-      "rating": 4,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/hamnet/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:772232",
-      "lid": "woVy",
-      "slug": "hamnet"
     }
   ],
   "byYear": {
@@ -37741,28 +37776,28 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 228,
-      "distinctFilms": 226,
+      "entries": 229,
+      "distinctFilms": 227,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-10-11",
-      "spanDays": 284,
-      "daysActive": 179,
+      "lastEntry": "2026-10-13",
+      "spanDays": 286,
+      "daysActive": 180,
       "multiFilmDays": 38,
       "rewatches": 16,
       "liked": 10,
-      "rated": 223,
+      "rated": 224,
       "releaseBreakdown": {
         "sameYear": 30,
-        "older": 198,
+        "older": 199,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 212,
+        "firstWatches": 213,
         "rewatches": 16
       },
       "reviewBreakdown": {
         "reviewed": 29,
-        "notReviewed": 199
+        "notReviewed": 200
       },
       "averageRating": 3.4,
       "perDay": 0.8,
@@ -37786,14 +37821,14 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 228,
-          "days": 179
+          "films": 229,
+          "days": 180
         }
       ],
       "perWeekday": [
         33,
         26,
-        26,
+        27,
         32,
         34,
         36,
@@ -37809,7 +37844,7 @@
         23,
         29,
         20,
-        14,
+        15,
         0,
         0
       ],
@@ -37852,7 +37887,7 @@
         },
         {
           "month": "2026-10",
-          "count": 14
+          "count": 15
         }
       ],
       "weekSeries": [
@@ -38106,7 +38141,7 @@
           "week": 42,
           "start": "2026-10-12",
           "end": "2026-10-18",
-          "count": 0
+          "count": 1
         },
         {
           "week": 43,
@@ -38194,7 +38229,7 @@
         },
         {
           "rating": 3,
-          "count": 54
+          "count": 55
         },
         {
           "rating": 3.5,
@@ -38271,8 +38306,8 @@
         {
           "decade": 1990,
           "label": "1990s",
-          "count": 10,
-          "averageRating": 4
+          "count": 11,
+          "averageRating": 3.5
         },
         {
           "decade": 2000,
@@ -38388,47 +38423,47 @@
           "slug": "the-priests"
         },
         {
-          "n": 228,
+          "n": 229,
           "kind": "latest",
-          "date": "2026-10-11",
-          "title": "Senritsu Kaiki File Kowasugi! File 03: Legend of a Human-Eating Kappa",
-          "year": "2013",
+          "date": "2026-10-13",
+          "title": "In the Mouth of Madness",
+          "year": "1994",
           "rating": 3,
-          "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-file-03-legend-of-a-human-eating-kappa/",
+          "url": "https://letterboxd.com/darthrosenberg/film/in-the-mouth-of-madness/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:768855",
-          "lid": "wg8S",
-          "slug": "senritsu-kaiki-file-kowasugi-file-03-legend-of-a-human-eating-kappa"
+          "filmUid": "film:50166",
+          "lid": "26vi",
+          "slug": "in-the-mouth-of-madness"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3402,
-    "entries": 2975,
-    "distinctFilms": 2880,
+    "films": 3403,
+    "entries": 2976,
+    "distinctFilms": 2881,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-10-11",
-    "spanDays": 5606,
-    "daysActive": 1650,
+    "lastEntry": "2026-10-13",
+    "spanDays": 5608,
+    "daysActive": 1651,
     "multiFilmDays": 722,
     "rewatches": 105,
     "liked": 135,
-    "rated": 2794,
+    "rated": 2795,
     "releaseBreakdown": {
       "sameYear": 293,
-      "older": 2681,
+      "older": 2682,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2870,
+      "firstWatches": 2871,
       "rewatches": 105
     },
     "reviewBreakdown": {
       "reviewed": 232,
-      "notReviewed": 2743
+      "notReviewed": 2744
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -38522,14 +38557,14 @@
       },
       {
         "year": 2026,
-        "films": 228,
-        "days": 179
+        "films": 229,
+        "days": 180
       }
     ],
     "perWeekday": [
       574,
       359,
-      362,
+      363,
       373,
       344,
       485,
@@ -38545,7 +38580,7 @@
       220,
       208,
       341,
-      461,
+      462,
       240,
       190
     ],
@@ -39288,7 +39323,7 @@
       },
       {
         "month": "2026-10",
-        "count": 14
+        "count": 15
       }
     ],
     "weekSeries": [],
@@ -39315,7 +39350,7 @@
       },
       {
         "rating": 3,
-        "count": 622
+        "count": 623
       },
       {
         "rating": 3.5,
@@ -39398,7 +39433,7 @@
       {
         "decade": 1990,
         "label": "1990s",
-        "count": 201,
+        "count": 202,
         "averageRating": 3.5
       },
       {
@@ -40399,18 +40434,18 @@
         "slug": "mon-oncle"
       },
       {
-        "n": 2975,
+        "n": 2976,
         "kind": "latest",
-        "date": "2026-10-11",
-        "title": "Senritsu Kaiki File Kowasugi! File 03: Legend of a Human-Eating Kappa",
-        "year": "2013",
+        "date": "2026-10-13",
+        "title": "In the Mouth of Madness",
+        "year": "1994",
         "rating": 3,
-        "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-file-03-legend-of-a-human-eating-kappa/",
+        "url": "https://letterboxd.com/darthrosenberg/film/in-the-mouth-of-madness/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:768855",
-        "lid": "wg8S",
-        "slug": "senritsu-kaiki-file-kowasugi-file-03-legend-of-a-human-eating-kappa"
+        "filmUid": "film:50166",
+        "lid": "26vi",
+        "slug": "in-the-mouth-of-madness"
       }
     ]
   }
