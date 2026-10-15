@@ -129,8 +129,8 @@
         <text x="127" y="66" font-size="8" fill="#1f2328" text-anchor="middle">3</text>
         <rect x="119" y="69" width="16" height="1" rx="2" fill="#30a14e"/>
         <text x="127" y="84" font-size="7" fill="#1f2328" text-anchor="middle">1940s</text>
-        <text x="153" y="64" font-size="8" fill="#1f2328" text-anchor="middle">7</text>
-        <rect x="145" y="67" width="16" height="3" rx="2" fill="#30a14e"/>
+        <text x="153" y="65" font-size="8" fill="#1f2328" text-anchor="middle">7</text>
+        <rect x="145" y="68" width="16" height="2" rx="2" fill="#30a14e"/>
         <text x="153" y="84" font-size="7" fill="#1f2328" text-anchor="middle">1950s</text>
         <text x="179" y="63" font-size="8" fill="#1f2328" text-anchor="middle">11</text>
         <rect x="171" y="66" width="16" height="4" rx="2" fill="#30a14e"/>
@@ -150,7 +150,7 @@
         <text x="309" y="53" font-size="8" fill="#1f2328" text-anchor="middle">40</text>
         <rect x="301" y="56" width="16" height="14" rx="2" fill="#30a14e"/>
         <text x="309" y="84" font-size="7" fill="#1f2328" text-anchor="middle">2010s</text>
-        <text x="335" y="27" font-size="8" fill="#1f2328" text-anchor="middle">112</text>
+        <text x="335" y="27" font-size="8" fill="#1f2328" text-anchor="middle">113</text>
         <rect x="327" y="30" width="16" height="40" rx="2" fill="#30a14e"/>
         <text x="335" y="84" font-size="7" fill="#1f2328" text-anchor="middle">2020s</text>
     </g>
@@ -158,7 +158,7 @@
 
     <!-- Movies with rating distribution tooltip -->
     <g class="movies-group" transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">229 Movies</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">230 Movies</text>
       <g class="movies-tooltip" transform="translate(-30, -116)">
         <rect x="0" y="0" width="260" height="108" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
         <text x="130" y="15" font-size="11" font-weight="600" fill="#1f2328" text-anchor="middle">Rating Distribution (5 unrated)</text>
@@ -183,7 +183,7 @@
         <text x="166" y="27" font-size="8" fill="#1f2328" text-anchor="middle">62</text>
         <rect x="159" y="30" width="14" height="40" rx="2" fill="#216e39"/>
         <text x="166" y="84" font-size="7" fill="#1f2328" text-anchor="middle">3.5</text>
-        <text x="190" y="32" font-size="8" fill="#1f2328" text-anchor="middle">54</text>
+        <text x="190" y="32" font-size="8" fill="#1f2328" text-anchor="middle">55</text>
         <rect x="183" y="35" width="14" height="35" rx="2" fill="#216e39"/>
         <text x="190" y="84" font-size="7" fill="#1f2328" text-anchor="middle">4</text>
         <text x="214" y="53" font-size="8" fill="#1f2328" text-anchor="middle">21</text>
@@ -193,13 +193,13 @@
         <rect x="231" y="69" width="14" height="1" rx="2" fill="#216e39"/>
         <text x="238" y="84" font-size="7" fill="#1f2328" text-anchor="middle">5</text>
         <line x1="12" y1="90" x2="248" y2="90" stroke="#d1d9e0" stroke-width="1"/>
-        <text x="130" y="102" font-size="10" font-weight="500" fill="#656d76" text-anchor="middle">Ø 3.4★ · 224 rated · ↻ 16 · ♥ 10</text>
+        <text x="130" y="102" font-size="10" font-weight="500" fill="#656d76" text-anchor="middle">Ø 3.4★ · 225 rated · ↻ 17 · ♥ 10</text>
       </g>
     </g>
 
     <!-- Days Active with hover tooltip -->
     <g class="days-active-group" transform="translate(170, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">180 Days Active</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">181 Days Active</text>
       <g class="days-active-tooltip" transform="translate(-20, -115)">
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#1f2328" text-anchor="middle">Weekly Distribution</text>
@@ -213,8 +213,8 @@
         <text x="75" y="47" font-size="9" fill="#1f2328" text-anchor="middle">27</text>
         <rect x="68" y="50" width="14" height="30" rx="2" fill="#30a14e"/>
         <text x="75" y="100" font-size="9" fill="#1f2328" text-anchor="middle">T</text>
-        <text x="99" y="42" font-size="9" fill="#1f2328" text-anchor="middle">32</text>
-        <rect x="92" y="45" width="14" height="35" rx="2" fill="#30a14e"/>
+        <text x="99" y="41" font-size="9" fill="#1f2328" text-anchor="middle">33</text>
+        <rect x="92" y="44" width="14" height="36" rx="2" fill="#30a14e"/>
         <text x="99" y="100" font-size="9" fill="#1f2328" text-anchor="middle">W</text>
         <text x="123" y="40" font-size="9" fill="#1f2328" text-anchor="middle">34</text>
         <rect x="116" y="43" width="14" height="37" rx="2" fill="#30a14e"/>
@@ -2229,7 +2229,25 @@
         </g>
       </a>
     </g>
-    <rect class="cell" x="697" y="51" width="14" height="14" rx="2" fill="#ebedf0" style="animation-delay:466ms"/>
+    <g class="cell-group">
+      <a href="https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/14/">
+        <rect class="cell"
+          x="697"
+          y="51"
+          width="14"
+          height="14"
+          rx="2"
+          fill="#9be9a8" style="animation-delay:466ms"
+        />
+        <g class="tooltip-group" transform="translate(526, -13)">
+          <rect x="0" y="0" width="413" height="56" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+          <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
+            <tspan x="10" dy="22" font-weight="600">Wed, 14. Oct 2026: 1 movie watched</tspan>
+            <tspan x="10" dy="18">• ↻ Mononoke the Movie: The Phantom in the Rain (2024) - 4★</tspan>
+          </text>
+        </g>
+      </a>
+    </g>
     <rect class="cell" x="714" y="51" width="14" height="14" rx="2" fill="#ebedf0" style="animation-delay:477ms"/>
     <rect class="cell" x="731" y="51" width="14" height="14" rx="2" fill="#ebedf0" style="animation-delay:488ms"/>
     <rect class="cell" x="748" y="51" width="14" height="14" rx="2" fill="#ebedf0" style="animation-delay:499ms"/>

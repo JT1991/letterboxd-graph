@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-14T04:31:27.191Z",
+  "generatedAt": "2026-10-15T04:13:35.319Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,11 +18,11 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 661,
-    "daysActive": 465,
+    "films": 662,
+    "daysActive": 466,
     "streak": 17,
     "streakFilms": 29,
-    "rewatches": 38,
+    "rewatches": 39,
     "liked": 31
   },
   "monthLabels": [
@@ -16380,10 +16380,24 @@
       "date": "2026-10-14",
       "week": 93,
       "weekday": 3,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Mononoke the Movie: The Phantom in the Rain",
+          "year": "2024",
+          "rating": 4,
+          "rewatch": true,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/mononoke-the-movie-the-phantom-in-the-rain/1/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:891347",
+          "lid": "BoNE",
+          "slug": "mononoke-the-movie-the-phantom-in-the-rain"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/14/"
     },
@@ -29559,9 +29573,44 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/13/"
+    },
+    {
+      "date": "2026-10-14",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Mononoke the Movie: The Phantom in the Rain",
+          "year": "2024",
+          "rating": 4,
+          "rewatch": true,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/mononoke-the-movie-the-phantom-in-the-rain/1/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:891347",
+          "lid": "BoNE",
+          "slug": "mononoke-the-movie-the-phantom-in-the-rain"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/14/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-14",
+      "title": "Mononoke the Movie: The Phantom in the Rain",
+      "year": "2024",
+      "rating": 4,
+      "rewatch": true,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/mononoke-the-movie-the-phantom-in-the-rain/1/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:891347",
+      "lid": "BoNE",
+      "slug": "mononoke-the-movie-the-phantom-in-the-rain"
+    },
     {
       "date": "2026-10-13",
       "title": "In the Mouth of Madness",
@@ -29771,20 +29820,6 @@
       "filmUid": "film:350021",
       "lid": "eGz0",
       "slug": "1974-the-possession-of-altair"
-    },
-    {
-      "date": "2026-09-30",
-      "title": "Lessons of Darkness",
-      "year": "1992",
-      "rating": 3.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/lessons-of-darkness/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:12733",
-      "lid": "x7I",
-      "slug": "lessons-of-darkness"
     }
   ],
   "byYear": {
@@ -37776,28 +37811,28 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 229,
-      "distinctFilms": 227,
+      "entries": 230,
+      "distinctFilms": 228,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-10-13",
-      "spanDays": 286,
-      "daysActive": 180,
+      "lastEntry": "2026-10-14",
+      "spanDays": 287,
+      "daysActive": 181,
       "multiFilmDays": 38,
-      "rewatches": 16,
+      "rewatches": 17,
       "liked": 10,
-      "rated": 224,
+      "rated": 225,
       "releaseBreakdown": {
         "sameYear": 30,
-        "older": 199,
+        "older": 200,
         "other": 0
       },
       "watchBreakdown": {
         "firstWatches": 213,
-        "rewatches": 16
+        "rewatches": 17
       },
       "reviewBreakdown": {
         "reviewed": 29,
-        "notReviewed": 200
+        "notReviewed": 201
       },
       "averageRating": 3.4,
       "perDay": 0.8,
@@ -37821,15 +37856,15 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 229,
-          "days": 180
+          "films": 230,
+          "days": 181
         }
       ],
       "perWeekday": [
         33,
         26,
         27,
-        32,
+        33,
         34,
         36,
         41
@@ -37844,7 +37879,7 @@
         23,
         29,
         20,
-        15,
+        16,
         0,
         0
       ],
@@ -37887,7 +37922,7 @@
         },
         {
           "month": "2026-10",
-          "count": 15
+          "count": 16
         }
       ],
       "weekSeries": [
@@ -38141,7 +38176,7 @@
           "week": 42,
           "start": "2026-10-12",
           "end": "2026-10-18",
-          "count": 1
+          "count": 2
         },
         {
           "week": 43,
@@ -38237,7 +38272,7 @@
         },
         {
           "rating": 4,
-          "count": 54
+          "count": 55
         },
         {
           "rating": 4.5,
@@ -38324,7 +38359,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 112,
+          "count": 113,
           "averageRating": 3.5
         }
       ],
@@ -38423,18 +38458,18 @@
           "slug": "the-priests"
         },
         {
-          "n": 229,
+          "n": 230,
           "kind": "latest",
-          "date": "2026-10-13",
-          "title": "In the Mouth of Madness",
-          "year": "1994",
-          "rating": 3,
-          "url": "https://letterboxd.com/darthrosenberg/film/in-the-mouth-of-madness/",
+          "date": "2026-10-14",
+          "title": "Mononoke the Movie: The Phantom in the Rain",
+          "year": "2024",
+          "rating": 4,
+          "url": "https://letterboxd.com/darthrosenberg/film/mononoke-the-movie-the-phantom-in-the-rain/1/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:50166",
-          "lid": "26vi",
-          "slug": "in-the-mouth-of-madness"
+          "filmUid": "film:891347",
+          "lid": "BoNE",
+          "slug": "mononoke-the-movie-the-phantom-in-the-rain"
         }
       ]
     }
@@ -38442,28 +38477,28 @@
   "allTime": {
     "scope": "all",
     "films": 3403,
-    "entries": 2976,
+    "entries": 2977,
     "distinctFilms": 2881,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-10-13",
-    "spanDays": 5608,
-    "daysActive": 1651,
+    "lastEntry": "2026-10-14",
+    "spanDays": 5609,
+    "daysActive": 1652,
     "multiFilmDays": 722,
-    "rewatches": 105,
+    "rewatches": 106,
     "liked": 135,
-    "rated": 2795,
+    "rated": 2796,
     "releaseBreakdown": {
       "sameYear": 293,
-      "older": 2682,
+      "older": 2683,
       "other": 1
     },
     "watchBreakdown": {
       "firstWatches": 2871,
-      "rewatches": 105
+      "rewatches": 106
     },
     "reviewBreakdown": {
       "reviewed": 232,
-      "notReviewed": 2744
+      "notReviewed": 2745
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -38557,15 +38592,15 @@
       },
       {
         "year": 2026,
-        "films": 229,
-        "days": 180
+        "films": 230,
+        "days": 181
       }
     ],
     "perWeekday": [
       574,
       359,
       363,
-      373,
+      374,
       344,
       485,
       478
@@ -38580,7 +38615,7 @@
       220,
       208,
       341,
-      462,
+      463,
       240,
       190
     ],
@@ -39323,7 +39358,7 @@
       },
       {
         "month": "2026-10",
-        "count": 15
+        "count": 16
       }
     ],
     "weekSeries": [],
@@ -39358,7 +39393,7 @@
       },
       {
         "rating": 4,
-        "count": 675
+        "count": 676
       },
       {
         "rating": 4.5,
@@ -39451,7 +39486,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 799,
+        "count": 800,
         "averageRating": 3.5
       }
     ],
@@ -39823,6 +39858,16 @@
         "filmUid": "film:34576",
         "lid": "1rWM",
         "slug": "lake-mungo",
+        "views": 2,
+        "averageRating": 4
+      },
+      {
+        "title": "Mononoke the Movie: The Phantom in the Rain",
+        "year": "2024",
+        "url": "https://letterboxd.com/darthrosenberg/film/mononoke-the-movie-the-phantom-in-the-rain/",
+        "filmUid": "film:891347",
+        "lid": "BoNE",
+        "slug": "mononoke-the-movie-the-phantom-in-the-rain",
         "views": 2,
         "averageRating": 4
       },
@@ -40434,18 +40479,18 @@
         "slug": "mon-oncle"
       },
       {
-        "n": 2976,
+        "n": 2977,
         "kind": "latest",
-        "date": "2026-10-13",
-        "title": "In the Mouth of Madness",
-        "year": "1994",
-        "rating": 3,
-        "url": "https://letterboxd.com/darthrosenberg/film/in-the-mouth-of-madness/",
+        "date": "2026-10-14",
+        "title": "Mononoke the Movie: The Phantom in the Rain",
+        "year": "2024",
+        "rating": 4,
+        "url": "https://letterboxd.com/darthrosenberg/film/mononoke-the-movie-the-phantom-in-the-rain/1/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:50166",
-        "lid": "26vi",
-        "slug": "in-the-mouth-of-madness"
+        "filmUid": "film:891347",
+        "lid": "BoNE",
+        "slug": "mononoke-the-movie-the-phantom-in-the-rain"
       }
     ]
   }
