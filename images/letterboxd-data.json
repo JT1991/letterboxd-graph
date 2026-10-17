@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-16T04:09:47.458Z",
+  "generatedAt": "2026-10-17T03:59:48.168Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 662,
-    "daysActive": 466,
+    "films": 663,
+    "daysActive": 467,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 39,
@@ -16416,10 +16416,24 @@
       "date": "2026-10-16",
       "week": 93,
       "weekday": 5,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Senritsu Kaiki File Kowasugi! File 04: The Truth! Hanako-san in the Toilet",
+          "year": "2013",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-file-04-the-truth-hanako-san-in-the-toilet/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:768857",
+          "lid": "wg9c",
+          "slug": "senritsu-kaiki-file-kowasugi-file-04-the-truth-hanako-san-in-the-toilet"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/16/"
     },
@@ -29594,9 +29608,44 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/14/"
+    },
+    {
+      "date": "2026-10-16",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Senritsu Kaiki File Kowasugi! File 04: The Truth! Hanako-san in the Toilet",
+          "year": "2013",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-file-04-the-truth-hanako-san-in-the-toilet/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:768857",
+          "lid": "wg9c",
+          "slug": "senritsu-kaiki-file-kowasugi-file-04-the-truth-hanako-san-in-the-toilet"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/16/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-16",
+      "title": "Senritsu Kaiki File Kowasugi! File 04: The Truth! Hanako-san in the Toilet",
+      "year": "2013",
+      "rating": 3.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-file-04-the-truth-hanako-san-in-the-toilet/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:768857",
+      "lid": "wg9c",
+      "slug": "senritsu-kaiki-file-kowasugi-file-04-the-truth-hanako-san-in-the-toilet"
+    },
     {
       "date": "2026-10-14",
       "title": "Mononoke the Movie: The Phantom in the Rain",
@@ -29806,20 +29855,6 @@
       "filmUid": "film:663448",
       "lid": "rPVK",
       "slug": "taipei-suicide-story"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "1974: The Possession of Altair",
-      "year": "2016",
-      "rating": 4,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/1974-the-possession-of-altair/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/darthrosenberg/film/1974-the-possession-of-altair/",
-      "filmUid": "film:350021",
-      "lid": "eGz0",
-      "slug": "1974-the-possession-of-altair"
     }
   ],
   "byYear": {
@@ -37811,33 +37846,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 230,
-      "distinctFilms": 228,
+      "entries": 231,
+      "distinctFilms": 229,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-10-14",
-      "spanDays": 287,
-      "daysActive": 181,
+      "lastEntry": "2026-10-16",
+      "spanDays": 289,
+      "daysActive": 182,
       "multiFilmDays": 38,
       "rewatches": 17,
       "liked": 10,
-      "rated": 225,
+      "rated": 226,
       "releaseBreakdown": {
         "sameYear": 30,
-        "older": 200,
+        "older": 201,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 213,
+        "firstWatches": 214,
         "rewatches": 17
       },
       "reviewBreakdown": {
         "reviewed": 29,
-        "notReviewed": 201
+        "notReviewed": 202
       },
       "averageRating": 3.4,
       "perDay": 0.8,
       "perWeek": 5.6,
-      "perMonth": 24.4,
+      "perMonth": 24.3,
       "streak": {
         "length": 10,
         "startDate": "2026-05-05",
@@ -37856,8 +37891,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 230,
-          "days": 181
+          "films": 231,
+          "days": 182
         }
       ],
       "perWeekday": [
@@ -37866,7 +37901,7 @@
         27,
         33,
         34,
-        36,
+        37,
         41
       ],
       "perMonthOfYear": [
@@ -37879,7 +37914,7 @@
         23,
         29,
         20,
-        16,
+        17,
         0,
         0
       ],
@@ -37922,7 +37957,7 @@
         },
         {
           "month": "2026-10",
-          "count": 16
+          "count": 17
         }
       ],
       "weekSeries": [
@@ -38176,7 +38211,7 @@
           "week": 42,
           "start": "2026-10-12",
           "end": "2026-10-18",
-          "count": 2
+          "count": 3
         },
         {
           "week": 43,
@@ -38268,7 +38303,7 @@
         },
         {
           "rating": 3.5,
-          "count": 62
+          "count": 63
         },
         {
           "rating": 4,
@@ -38353,7 +38388,7 @@
         {
           "decade": 2010,
           "label": "2010s",
-          "count": 40,
+          "count": 41,
           "averageRating": 3.5
         },
         {
@@ -38458,47 +38493,47 @@
           "slug": "the-priests"
         },
         {
-          "n": 230,
+          "n": 231,
           "kind": "latest",
-          "date": "2026-10-14",
-          "title": "Mononoke the Movie: The Phantom in the Rain",
-          "year": "2024",
-          "rating": 4,
-          "url": "https://letterboxd.com/darthrosenberg/film/mononoke-the-movie-the-phantom-in-the-rain/1/",
+          "date": "2026-10-16",
+          "title": "Senritsu Kaiki File Kowasugi! File 04: The Truth! Hanako-san in the Toilet",
+          "year": "2013",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-file-04-the-truth-hanako-san-in-the-toilet/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:891347",
-          "lid": "BoNE",
-          "slug": "mononoke-the-movie-the-phantom-in-the-rain"
+          "filmUid": "film:768857",
+          "lid": "wg9c",
+          "slug": "senritsu-kaiki-file-kowasugi-file-04-the-truth-hanako-san-in-the-toilet"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3403,
-    "entries": 2977,
-    "distinctFilms": 2881,
+    "films": 3404,
+    "entries": 2978,
+    "distinctFilms": 2882,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-10-14",
-    "spanDays": 5609,
-    "daysActive": 1652,
+    "lastEntry": "2026-10-16",
+    "spanDays": 5611,
+    "daysActive": 1653,
     "multiFilmDays": 722,
     "rewatches": 106,
     "liked": 135,
-    "rated": 2796,
+    "rated": 2797,
     "releaseBreakdown": {
       "sameYear": 293,
-      "older": 2683,
+      "older": 2684,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2871,
+      "firstWatches": 2872,
       "rewatches": 106
     },
     "reviewBreakdown": {
       "reviewed": 232,
-      "notReviewed": 2745
+      "notReviewed": 2746
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -38592,8 +38627,8 @@
       },
       {
         "year": 2026,
-        "films": 230,
-        "days": 181
+        "films": 231,
+        "days": 182
       }
     ],
     "perWeekday": [
@@ -38602,7 +38637,7 @@
       363,
       374,
       344,
-      485,
+      486,
       478
     ],
     "perMonthOfYear": [
@@ -38615,7 +38650,7 @@
       220,
       208,
       341,
-      463,
+      464,
       240,
       190
     ],
@@ -39358,7 +39393,7 @@
       },
       {
         "month": "2026-10",
-        "count": 16
+        "count": 17
       }
     ],
     "weekSeries": [],
@@ -39389,7 +39424,7 @@
       },
       {
         "rating": 3.5,
-        "count": 795
+        "count": 796
       },
       {
         "rating": 4,
@@ -39480,7 +39515,7 @@
       {
         "decade": 2010,
         "label": "2010s",
-        "count": 942,
+        "count": 943,
         "averageRating": 3.5
       },
       {
@@ -40479,18 +40514,18 @@
         "slug": "mon-oncle"
       },
       {
-        "n": 2977,
+        "n": 2978,
         "kind": "latest",
-        "date": "2026-10-14",
-        "title": "Mononoke the Movie: The Phantom in the Rain",
-        "year": "2024",
-        "rating": 4,
-        "url": "https://letterboxd.com/darthrosenberg/film/mononoke-the-movie-the-phantom-in-the-rain/1/",
+        "date": "2026-10-16",
+        "title": "Senritsu Kaiki File Kowasugi! File 04: The Truth! Hanako-san in the Toilet",
+        "year": "2013",
+        "rating": 3.5,
+        "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-file-04-the-truth-hanako-san-in-the-toilet/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:891347",
-        "lid": "BoNE",
-        "slug": "mononoke-the-movie-the-phantom-in-the-rain"
+        "filmUid": "film:768857",
+        "lid": "wg9c",
+        "slug": "senritsu-kaiki-file-kowasugi-file-04-the-truth-hanako-san-in-the-toilet"
       }
     ]
   }
