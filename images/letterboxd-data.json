@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-18T04:06:52.432Z",
+  "generatedAt": "2026-10-19T04:16:08.480Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 663,
-    "daysActive": 467,
+    "films": 665,
+    "daysActive": 469,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 39,
@@ -16441,10 +16441,24 @@
       "date": "2026-10-17",
       "week": 93,
       "weekday": 6,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 2,
+      "films": [
+        {
+          "title": "Solvent",
+          "year": "2024",
+          "rating": 2,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/solvent/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1095855",
+          "lid": "JYOO",
+          "slug": "solvent"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/17/"
     },
@@ -16452,10 +16466,24 @@
       "date": "2026-10-18",
       "week": 94,
       "weekday": 0,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Heel",
+          "year": "2025",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/heel-2025/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1266896",
+          "lid": "R9M4",
+          "slug": "heel-2025"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/18/"
     },
@@ -29629,9 +29657,79 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/16/"
+    },
+    {
+      "date": "2026-10-17",
+      "count": 1,
+      "ratingAvg": 2,
+      "films": [
+        {
+          "title": "Solvent",
+          "year": "2024",
+          "rating": 2,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/solvent/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1095855",
+          "lid": "JYOO",
+          "slug": "solvent"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/17/"
+    },
+    {
+      "date": "2026-10-18",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Heel",
+          "year": "2025",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/heel-2025/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1266896",
+          "lid": "R9M4",
+          "slug": "heel-2025"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/18/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-18",
+      "title": "Heel",
+      "year": "2025",
+      "rating": 3.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/heel-2025/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:1266896",
+      "lid": "R9M4",
+      "slug": "heel-2025"
+    },
+    {
+      "date": "2026-10-17",
+      "title": "Solvent",
+      "year": "2024",
+      "rating": 2,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/solvent/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:1095855",
+      "lid": "JYOO",
+      "slug": "solvent"
+    },
     {
       "date": "2026-10-16",
       "title": "Senritsu Kaiki File Kowasugi! File 04: The Truth! Hanako-san in the Toilet",
@@ -29827,34 +29925,6 @@
       "filmUid": "film:785833",
       "lid": "wYjg",
       "slug": "the-timekeepers-of-eternity"
-    },
-    {
-      "date": "2026-10-02",
-      "title": "Digger",
-      "year": "2026",
-      "rating": 3,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/digger-2026/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:1132688",
-      "lid": "LwDC",
-      "slug": "digger-2026"
-    },
-    {
-      "date": "2026-10-01",
-      "title": "Taipei Suicide Story",
-      "year": "2020",
-      "rating": 4.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/taipei-suicide-story/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:663448",
-      "lid": "rPVK",
-      "slug": "taipei-suicide-story"
     }
   ],
   "byYear": {
@@ -37846,33 +37916,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 231,
-      "distinctFilms": 229,
+      "entries": 233,
+      "distinctFilms": 231,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-10-16",
-      "spanDays": 289,
-      "daysActive": 182,
+      "lastEntry": "2026-10-18",
+      "spanDays": 291,
+      "daysActive": 184,
       "multiFilmDays": 38,
       "rewatches": 17,
       "liked": 10,
-      "rated": 226,
+      "rated": 228,
       "releaseBreakdown": {
         "sameYear": 30,
-        "older": 201,
+        "older": 203,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 214,
+        "firstWatches": 216,
         "rewatches": 17
       },
       "reviewBreakdown": {
         "reviewed": 29,
-        "notReviewed": 202
+        "notReviewed": 204
       },
       "averageRating": 3.4,
       "perDay": 0.8,
       "perWeek": 5.6,
-      "perMonth": 24.3,
+      "perMonth": 24.4,
       "streak": {
         "length": 10,
         "startDate": "2026-05-05",
@@ -37891,18 +37961,18 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 231,
-          "days": 182
+          "films": 233,
+          "days": 184
         }
       ],
       "perWeekday": [
-        33,
+        34,
         26,
         27,
         33,
         34,
         37,
-        41
+        42
       ],
       "perMonthOfYear": [
         21,
@@ -37914,7 +37984,7 @@
         23,
         29,
         20,
-        17,
+        19,
         0,
         0
       ],
@@ -37957,7 +38027,7 @@
         },
         {
           "month": "2026-10",
-          "count": 17
+          "count": 19
         }
       ],
       "weekSeries": [
@@ -38211,7 +38281,7 @@
           "week": 42,
           "start": "2026-10-12",
           "end": "2026-10-18",
-          "count": 3
+          "count": 5
         },
         {
           "week": 43,
@@ -38291,7 +38361,7 @@
         },
         {
           "rating": 2,
-          "count": 5
+          "count": 6
         },
         {
           "rating": 2.5,
@@ -38303,7 +38373,7 @@
         },
         {
           "rating": 3.5,
-          "count": 63
+          "count": 64
         },
         {
           "rating": 4,
@@ -38394,7 +38464,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 113,
+          "count": 115,
           "averageRating": 3.5
         }
       ],
@@ -38493,47 +38563,47 @@
           "slug": "the-priests"
         },
         {
-          "n": 231,
+          "n": 233,
           "kind": "latest",
-          "date": "2026-10-16",
-          "title": "Senritsu Kaiki File Kowasugi! File 04: The Truth! Hanako-san in the Toilet",
-          "year": "2013",
+          "date": "2026-10-18",
+          "title": "Heel",
+          "year": "2025",
           "rating": 3.5,
-          "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-file-04-the-truth-hanako-san-in-the-toilet/",
+          "url": "https://letterboxd.com/darthrosenberg/film/heel-2025/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:768857",
-          "lid": "wg9c",
-          "slug": "senritsu-kaiki-file-kowasugi-file-04-the-truth-hanako-san-in-the-toilet"
+          "filmUid": "film:1266896",
+          "lid": "R9M4",
+          "slug": "heel-2025"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3404,
-    "entries": 2978,
-    "distinctFilms": 2882,
+    "films": 3406,
+    "entries": 2980,
+    "distinctFilms": 2884,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-10-16",
-    "spanDays": 5611,
-    "daysActive": 1653,
+    "lastEntry": "2026-10-18",
+    "spanDays": 5613,
+    "daysActive": 1655,
     "multiFilmDays": 722,
     "rewatches": 106,
     "liked": 135,
-    "rated": 2797,
+    "rated": 2799,
     "releaseBreakdown": {
       "sameYear": 293,
-      "older": 2684,
+      "older": 2686,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2872,
+      "firstWatches": 2874,
       "rewatches": 106
     },
     "reviewBreakdown": {
       "reviewed": 232,
-      "notReviewed": 2746
+      "notReviewed": 2748
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -38627,18 +38697,18 @@
       },
       {
         "year": 2026,
-        "films": 231,
-        "days": 182
+        "films": 233,
+        "days": 184
       }
     ],
     "perWeekday": [
-      574,
+      575,
       359,
       363,
       374,
       344,
       486,
-      478
+      479
     ],
     "perMonthOfYear": [
       207,
@@ -38650,7 +38720,7 @@
       220,
       208,
       341,
-      464,
+      466,
       240,
       190
     ],
@@ -39393,7 +39463,7 @@
       },
       {
         "month": "2026-10",
-        "count": 17
+        "count": 19
       }
     ],
     "weekSeries": [],
@@ -39412,7 +39482,7 @@
       },
       {
         "rating": 2,
-        "count": 72
+        "count": 73
       },
       {
         "rating": 2.5,
@@ -39424,7 +39494,7 @@
       },
       {
         "rating": 3.5,
-        "count": 796
+        "count": 797
       },
       {
         "rating": 4,
@@ -39521,7 +39591,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 800,
+        "count": 802,
         "averageRating": 3.5
       }
     ],
@@ -40514,18 +40584,18 @@
         "slug": "mon-oncle"
       },
       {
-        "n": 2978,
+        "n": 2980,
         "kind": "latest",
-        "date": "2026-10-16",
-        "title": "Senritsu Kaiki File Kowasugi! File 04: The Truth! Hanako-san in the Toilet",
-        "year": "2013",
+        "date": "2026-10-18",
+        "title": "Heel",
+        "year": "2025",
         "rating": 3.5,
-        "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-file-04-the-truth-hanako-san-in-the-toilet/",
+        "url": "https://letterboxd.com/darthrosenberg/film/heel-2025/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:768857",
-        "lid": "wg9c",
-        "slug": "senritsu-kaiki-file-kowasugi-file-04-the-truth-hanako-san-in-the-toilet"
+        "filmUid": "film:1266896",
+        "lid": "R9M4",
+        "slug": "heel-2025"
       }
     ]
   }
