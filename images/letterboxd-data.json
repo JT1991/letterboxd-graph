@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-21T04:18:29.130Z",
+  "generatedAt": "2026-10-22T04:18:24.495Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 666,
-    "daysActive": 470,
+    "films": 668,
+    "daysActive": 472,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 39,
@@ -16516,10 +16516,24 @@
       "date": "2026-10-20",
       "week": 94,
       "weekday": 2,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "What Ever Happened to Baby Jane?",
+          "year": "1962",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/what-ever-happened-to-baby-jane/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:46411",
+          "lid": "1WJE",
+          "slug": "what-ever-happened-to-baby-jane"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/20/"
     },
@@ -16527,10 +16541,24 @@
       "date": "2026-10-21",
       "week": 94,
       "weekday": 3,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "See No Evil",
+          "year": "1971",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/see-no-evil/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:25010",
+          "lid": "133S",
+          "slug": "see-no-evil"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/21/"
     },
@@ -29734,9 +29762,79 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/19/"
+    },
+    {
+      "date": "2026-10-20",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "What Ever Happened to Baby Jane?",
+          "year": "1962",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/what-ever-happened-to-baby-jane/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:46411",
+          "lid": "1WJE",
+          "slug": "what-ever-happened-to-baby-jane"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/20/"
+    },
+    {
+      "date": "2026-10-21",
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "See No Evil",
+          "year": "1971",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/see-no-evil/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:25010",
+          "lid": "133S",
+          "slug": "see-no-evil"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/21/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-21",
+      "title": "See No Evil",
+      "year": "1971",
+      "rating": 3,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/see-no-evil/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:25010",
+      "lid": "133S",
+      "slug": "see-no-evil"
+    },
+    {
+      "date": "2026-10-20",
+      "title": "What Ever Happened to Baby Jane?",
+      "year": "1962",
+      "rating": 3.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/what-ever-happened-to-baby-jane/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:46411",
+      "lid": "1WJE",
+      "slug": "what-ever-happened-to-baby-jane"
+    },
     {
       "date": "2026-10-19",
       "title": "Pandemonium",
@@ -29932,34 +30030,6 @@
       "filmUid": "film:148509",
       "lid": "6el4",
       "slug": "the-strange-color-of-your-bodys-tears"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "Death Does Not Exist",
-      "year": "2025",
-      "rating": 2.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/death-does-not-exist/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:889783",
-      "lid": "BkJo",
-      "slug": "death-does-not-exist"
-    },
-    {
-      "date": "2026-10-03",
-      "title": "Blacker Than the Night",
-      "year": "1975",
-      "rating": 3,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/blacker-than-the-night/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:52592",
-      "lid": "2cOA",
-      "slug": "blacker-than-the-night"
     }
   ],
   "byYear": {
@@ -37951,28 +38021,28 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 234,
-      "distinctFilms": 232,
+      "entries": 236,
+      "distinctFilms": 234,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-10-19",
-      "spanDays": 292,
-      "daysActive": 185,
+      "lastEntry": "2026-10-21",
+      "spanDays": 294,
+      "daysActive": 187,
       "multiFilmDays": 38,
       "rewatches": 17,
       "liked": 10,
-      "rated": 229,
+      "rated": 231,
       "releaseBreakdown": {
         "sameYear": 30,
-        "older": 204,
+        "older": 206,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 217,
+        "firstWatches": 219,
         "rewatches": 17
       },
       "reviewBreakdown": {
         "reviewed": 29,
-        "notReviewed": 205
+        "notReviewed": 207
       },
       "averageRating": 3.4,
       "perDay": 0.8,
@@ -37996,15 +38066,15 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 234,
-          "days": 185
+          "films": 236,
+          "days": 187
         }
       ],
       "perWeekday": [
         34,
         27,
-        27,
-        33,
+        28,
+        34,
         34,
         37,
         42
@@ -38019,7 +38089,7 @@
         23,
         29,
         20,
-        20,
+        22,
         0,
         0
       ],
@@ -38062,7 +38132,7 @@
         },
         {
           "month": "2026-10",
-          "count": 20
+          "count": 22
         }
       ],
       "weekSeries": [
@@ -38322,7 +38392,7 @@
           "week": 43,
           "start": "2026-10-19",
           "end": "2026-10-25",
-          "count": 1
+          "count": 3
         },
         {
           "week": 44,
@@ -38404,11 +38474,11 @@
         },
         {
           "rating": 3,
-          "count": 55
+          "count": 56
         },
         {
           "rating": 3.5,
-          "count": 64
+          "count": 65
         },
         {
           "rating": 4,
@@ -38463,13 +38533,13 @@
         {
           "decade": 1960,
           "label": "1960s",
-          "count": 11,
+          "count": 12,
           "averageRating": 4
         },
         {
           "decade": 1970,
           "label": "1970s",
-          "count": 10,
+          "count": 11,
           "averageRating": 3.5
         },
         {
@@ -38598,47 +38668,47 @@
           "slug": "the-priests"
         },
         {
-          "n": 234,
+          "n": 236,
           "kind": "latest",
-          "date": "2026-10-19",
-          "title": "Pandemonium",
-          "year": "2023",
-          "rating": 2.5,
-          "url": "https://letterboxd.com/darthrosenberg/film/pandemonium-2023/",
+          "date": "2026-10-21",
+          "title": "See No Evil",
+          "year": "1971",
+          "rating": 3,
+          "url": "https://letterboxd.com/darthrosenberg/film/see-no-evil/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:974078",
-          "lid": "ES1m",
-          "slug": "pandemonium-2023"
+          "filmUid": "film:25010",
+          "lid": "133S",
+          "slug": "see-no-evil"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3407,
-    "entries": 2981,
-    "distinctFilms": 2885,
+    "films": 3409,
+    "entries": 2983,
+    "distinctFilms": 2887,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-10-19",
-    "spanDays": 5614,
-    "daysActive": 1656,
+    "lastEntry": "2026-10-21",
+    "spanDays": 5616,
+    "daysActive": 1658,
     "multiFilmDays": 722,
     "rewatches": 106,
     "liked": 135,
-    "rated": 2800,
+    "rated": 2802,
     "releaseBreakdown": {
       "sameYear": 293,
-      "older": 2687,
+      "older": 2689,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2875,
+      "firstWatches": 2877,
       "rewatches": 106
     },
     "reviewBreakdown": {
       "reviewed": 232,
-      "notReviewed": 2749
+      "notReviewed": 2751
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -38732,15 +38802,15 @@
       },
       {
         "year": 2026,
-        "films": 234,
-        "days": 185
+        "films": 236,
+        "days": 187
       }
     ],
     "perWeekday": [
       575,
       360,
-      363,
-      374,
+      364,
+      375,
       344,
       486,
       479
@@ -38755,7 +38825,7 @@
       220,
       208,
       341,
-      467,
+      469,
       240,
       190
     ],
@@ -39498,7 +39568,7 @@
       },
       {
         "month": "2026-10",
-        "count": 20
+        "count": 22
       }
     ],
     "weekSeries": [],
@@ -39525,11 +39595,11 @@
       },
       {
         "rating": 3,
-        "count": 623
+        "count": 624
       },
       {
         "rating": 3.5,
-        "count": 797
+        "count": 798
       },
       {
         "rating": 4,
@@ -39590,13 +39660,13 @@
       {
         "decade": 1960,
         "label": "1960s",
-        "count": 175,
+        "count": 176,
         "averageRating": 4
       },
       {
         "decade": 1970,
         "label": "1970s",
-        "count": 164,
+        "count": 165,
         "averageRating": 3.5
       },
       {
@@ -40619,18 +40689,18 @@
         "slug": "mon-oncle"
       },
       {
-        "n": 2981,
+        "n": 2983,
         "kind": "latest",
-        "date": "2026-10-19",
-        "title": "Pandemonium",
-        "year": "2023",
-        "rating": 2.5,
-        "url": "https://letterboxd.com/darthrosenberg/film/pandemonium-2023/",
+        "date": "2026-10-21",
+        "title": "See No Evil",
+        "year": "1971",
+        "rating": 3,
+        "url": "https://letterboxd.com/darthrosenberg/film/see-no-evil/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:974078",
-        "lid": "ES1m",
-        "slug": "pandemonium-2023"
+        "filmUid": "film:25010",
+        "lid": "133S",
+        "slug": "see-no-evil"
       }
     ]
   }
