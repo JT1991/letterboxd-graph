@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-22T04:18:24.495Z",
+  "generatedAt": "2026-10-23T04:22:37.100Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 668,
-    "daysActive": 472,
+    "films": 670,
+    "daysActive": 473,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 39,
@@ -16541,9 +16541,22 @@
       "date": "2026-10-21",
       "week": 94,
       "weekday": 3,
-      "count": 1,
-      "ratingAvg": 3,
+      "count": 2,
+      "ratingAvg": 3.3,
       "films": [
+        {
+          "title": "Senritsu Kaiki File Kowasugi! Preface: True Story of the Ghost of Yotsuya",
+          "year": "2014",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-preface-true-story-of-the-ghost-of-yotsuya/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:769269",
+          "lid": "whdE",
+          "slug": "senritsu-kaiki-file-kowasugi-preface-true-story-of-the-ghost-of-yotsuya"
+        },
         {
           "title": "See No Evil",
           "year": "1971",
@@ -16558,7 +16571,7 @@
           "slug": "see-no-evil"
         }
       ],
-      "level": 1,
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/21/"
     },
@@ -16566,10 +16579,24 @@
       "date": "2026-10-22",
       "week": 94,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Senritsu Kaiki File Kowasugi! The Most Terrifying Movie in History",
+          "year": "2014",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-the-most-terrifying-movie-in-history/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:769275",
+          "lid": "wheC",
+          "slug": "senritsu-kaiki-file-kowasugi-the-most-terrifying-movie-in-history"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/22/"
     },
@@ -29786,9 +29813,22 @@
     },
     {
       "date": "2026-10-21",
-      "count": 1,
-      "ratingAvg": 3,
+      "count": 2,
+      "ratingAvg": 3.3,
       "films": [
+        {
+          "title": "Senritsu Kaiki File Kowasugi! Preface: True Story of the Ghost of Yotsuya",
+          "year": "2014",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-preface-true-story-of-the-ghost-of-yotsuya/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:769269",
+          "lid": "whdE",
+          "slug": "senritsu-kaiki-file-kowasugi-preface-true-story-of-the-ghost-of-yotsuya"
+        },
         {
           "title": "See No Evil",
           "year": "1971",
@@ -29804,9 +29844,58 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/21/"
+    },
+    {
+      "date": "2026-10-22",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Senritsu Kaiki File Kowasugi! The Most Terrifying Movie in History",
+          "year": "2014",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-the-most-terrifying-movie-in-history/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:769275",
+          "lid": "wheC",
+          "slug": "senritsu-kaiki-file-kowasugi-the-most-terrifying-movie-in-history"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/22/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-22",
+      "title": "Senritsu Kaiki File Kowasugi! The Most Terrifying Movie in History",
+      "year": "2014",
+      "rating": 4,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-the-most-terrifying-movie-in-history/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:769275",
+      "lid": "wheC",
+      "slug": "senritsu-kaiki-file-kowasugi-the-most-terrifying-movie-in-history"
+    },
+    {
+      "date": "2026-10-21",
+      "title": "Senritsu Kaiki File Kowasugi! Preface: True Story of the Ghost of Yotsuya",
+      "year": "2014",
+      "rating": 3.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-preface-true-story-of-the-ghost-of-yotsuya/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:769269",
+      "lid": "whdE",
+      "slug": "senritsu-kaiki-file-kowasugi-preface-true-story-of-the-ghost-of-yotsuya"
+    },
     {
       "date": "2026-10-21",
       "title": "See No Evil",
@@ -30002,34 +30091,6 @@
       "filmUid": "film:38894",
       "lid": "1Dbe",
       "slug": "seconds"
-    },
-    {
-      "date": "2026-10-05",
-      "title": "Razzennest",
-      "year": "2022",
-      "rating": 2.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/razzennest/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:881401",
-      "lid": "AYVs",
-      "slug": "razzennest"
-    },
-    {
-      "date": "2026-10-04",
-      "title": "The Strange Color of Your Body's Tears",
-      "year": "2013",
-      "rating": 3,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/the-strange-color-of-your-bodys-tears/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:148509",
-      "lid": "6el4",
-      "slug": "the-strange-color-of-your-bodys-tears"
     }
   ],
   "byYear": {
@@ -38021,33 +38082,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 236,
-      "distinctFilms": 234,
+      "entries": 238,
+      "distinctFilms": 236,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-10-21",
-      "spanDays": 294,
-      "daysActive": 187,
-      "multiFilmDays": 38,
+      "lastEntry": "2026-10-22",
+      "spanDays": 295,
+      "daysActive": 188,
+      "multiFilmDays": 39,
       "rewatches": 17,
       "liked": 10,
-      "rated": 231,
+      "rated": 233,
       "releaseBreakdown": {
         "sameYear": 30,
-        "older": 206,
+        "older": 208,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 219,
+        "firstWatches": 221,
         "rewatches": 17
       },
       "reviewBreakdown": {
         "reviewed": 29,
-        "notReviewed": 207
+        "notReviewed": 209
       },
       "averageRating": 3.4,
-      "perDay": 0.8,
+      "perDay": 0.81,
       "perWeek": 5.6,
-      "perMonth": 24.4,
+      "perMonth": 24.6,
       "streak": {
         "length": 10,
         "startDate": "2026-05-05",
@@ -38066,16 +38127,16 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 236,
-          "days": 187
+          "films": 238,
+          "days": 188
         }
       ],
       "perWeekday": [
         34,
         27,
         28,
-        34,
-        34,
+        35,
+        35,
         37,
         42
       ],
@@ -38089,7 +38150,7 @@
         23,
         29,
         20,
-        22,
+        24,
         0,
         0
       ],
@@ -38132,7 +38193,7 @@
         },
         {
           "month": "2026-10",
-          "count": 22
+          "count": 24
         }
       ],
       "weekSeries": [
@@ -38392,7 +38453,7 @@
           "week": 43,
           "start": "2026-10-19",
           "end": "2026-10-25",
-          "count": 3
+          "count": 5
         },
         {
           "week": 44,
@@ -38478,11 +38539,11 @@
         },
         {
           "rating": 3.5,
-          "count": 65
+          "count": 66
         },
         {
           "rating": 4,
-          "count": 55
+          "count": 56
         },
         {
           "rating": 4.5,
@@ -38563,7 +38624,7 @@
         {
           "decade": 2010,
           "label": "2010s",
-          "count": 41,
+          "count": 43,
           "averageRating": 3.5
         },
         {
@@ -38668,47 +38729,47 @@
           "slug": "the-priests"
         },
         {
-          "n": 236,
+          "n": 238,
           "kind": "latest",
-          "date": "2026-10-21",
-          "title": "See No Evil",
-          "year": "1971",
-          "rating": 3,
-          "url": "https://letterboxd.com/darthrosenberg/film/see-no-evil/",
+          "date": "2026-10-22",
+          "title": "Senritsu Kaiki File Kowasugi! The Most Terrifying Movie in History",
+          "year": "2014",
+          "rating": 4,
+          "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-the-most-terrifying-movie-in-history/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:25010",
-          "lid": "133S",
-          "slug": "see-no-evil"
+          "filmUid": "film:769275",
+          "lid": "wheC",
+          "slug": "senritsu-kaiki-file-kowasugi-the-most-terrifying-movie-in-history"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3409,
-    "entries": 2983,
-    "distinctFilms": 2887,
+    "films": 3411,
+    "entries": 2985,
+    "distinctFilms": 2889,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-10-21",
-    "spanDays": 5616,
-    "daysActive": 1658,
-    "multiFilmDays": 722,
+    "lastEntry": "2026-10-22",
+    "spanDays": 5617,
+    "daysActive": 1659,
+    "multiFilmDays": 723,
     "rewatches": 106,
     "liked": 135,
-    "rated": 2802,
+    "rated": 2804,
     "releaseBreakdown": {
       "sameYear": 293,
-      "older": 2689,
+      "older": 2691,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2877,
+      "firstWatches": 2879,
       "rewatches": 106
     },
     "reviewBreakdown": {
       "reviewed": 232,
-      "notReviewed": 2751
+      "notReviewed": 2753
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -38802,16 +38863,16 @@
       },
       {
         "year": 2026,
-        "films": 236,
-        "days": 187
+        "films": 238,
+        "days": 188
       }
     ],
     "perWeekday": [
       575,
       360,
       364,
-      375,
-      344,
+      376,
+      345,
       486,
       479
     ],
@@ -38825,7 +38886,7 @@
       220,
       208,
       341,
-      469,
+      471,
       240,
       190
     ],
@@ -39568,7 +39629,7 @@
       },
       {
         "month": "2026-10",
-        "count": 22
+        "count": 24
       }
     ],
     "weekSeries": [],
@@ -39599,11 +39660,11 @@
       },
       {
         "rating": 3.5,
-        "count": 798
+        "count": 799
       },
       {
         "rating": 4,
-        "count": 676
+        "count": 677
       },
       {
         "rating": 4.5,
@@ -39690,7 +39751,7 @@
       {
         "decade": 2010,
         "label": "2010s",
-        "count": 943,
+        "count": 945,
         "averageRating": 3.5
       },
       {
@@ -40689,18 +40750,18 @@
         "slug": "mon-oncle"
       },
       {
-        "n": 2983,
+        "n": 2985,
         "kind": "latest",
-        "date": "2026-10-21",
-        "title": "See No Evil",
-        "year": "1971",
-        "rating": 3,
-        "url": "https://letterboxd.com/darthrosenberg/film/see-no-evil/",
+        "date": "2026-10-22",
+        "title": "Senritsu Kaiki File Kowasugi! The Most Terrifying Movie in History",
+        "year": "2014",
+        "rating": 4,
+        "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-the-most-terrifying-movie-in-history/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:25010",
-        "lid": "133S",
-        "slug": "see-no-evil"
+        "filmUid": "film:769275",
+        "lid": "wheC",
+        "slug": "senritsu-kaiki-file-kowasugi-the-most-terrifying-movie-in-history"
       }
     ]
   }
