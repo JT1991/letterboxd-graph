@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-23T04:22:37.100Z",
+  "generatedAt": "2026-10-24T04:12:55.937Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 670,
-    "daysActive": 473,
+    "films": 671,
+    "daysActive": 474,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 39,
@@ -16604,10 +16604,24 @@
       "date": "2026-10-23",
       "week": 94,
       "weekday": 5,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Little Shop of Horrors",
+          "year": "1986",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/little-shop-of-horrors/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:45907",
+          "lid": "1Vqm",
+          "slug": "little-shop-of-horrors"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/23/"
     },
@@ -29865,9 +29879,44 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/22/"
+    },
+    {
+      "date": "2026-10-23",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Little Shop of Horrors",
+          "year": "1986",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/little-shop-of-horrors/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:45907",
+          "lid": "1Vqm",
+          "slug": "little-shop-of-horrors"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/23/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-23",
+      "title": "Little Shop of Horrors",
+      "year": "1986",
+      "rating": 4,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/little-shop-of-horrors/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:45907",
+      "lid": "1Vqm",
+      "slug": "little-shop-of-horrors"
+    },
     {
       "date": "2026-10-22",
       "title": "Senritsu Kaiki File Kowasugi! The Most Terrifying Movie in History",
@@ -30077,20 +30126,6 @@
       "filmUid": "film:869323",
       "lid": "Atvo",
       "slug": "vincent-must-die"
-    },
-    {
-      "date": "2026-10-06",
-      "title": "Seconds",
-      "year": "1966",
-      "rating": 4,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/seconds/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:38894",
-      "lid": "1Dbe",
-      "slug": "seconds"
     }
   ],
   "byYear": {
@@ -38082,32 +38117,32 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 238,
-      "distinctFilms": 236,
+      "entries": 239,
+      "distinctFilms": 237,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-10-22",
-      "spanDays": 295,
-      "daysActive": 188,
+      "lastEntry": "2026-10-23",
+      "spanDays": 296,
+      "daysActive": 189,
       "multiFilmDays": 39,
       "rewatches": 17,
       "liked": 10,
-      "rated": 233,
+      "rated": 234,
       "releaseBreakdown": {
         "sameYear": 30,
-        "older": 208,
+        "older": 209,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 221,
+        "firstWatches": 222,
         "rewatches": 17
       },
       "reviewBreakdown": {
         "reviewed": 29,
-        "notReviewed": 209
+        "notReviewed": 210
       },
       "averageRating": 3.4,
       "perDay": 0.81,
-      "perWeek": 5.6,
+      "perWeek": 5.7,
       "perMonth": 24.6,
       "streak": {
         "length": 10,
@@ -38127,8 +38162,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 238,
-          "days": 188
+          "films": 239,
+          "days": 189
         }
       ],
       "perWeekday": [
@@ -38137,7 +38172,7 @@
         28,
         35,
         35,
-        37,
+        38,
         42
       ],
       "perMonthOfYear": [
@@ -38150,7 +38185,7 @@
         23,
         29,
         20,
-        24,
+        25,
         0,
         0
       ],
@@ -38193,7 +38228,7 @@
         },
         {
           "month": "2026-10",
-          "count": 24
+          "count": 25
         }
       ],
       "weekSeries": [
@@ -38453,7 +38488,7 @@
           "week": 43,
           "start": "2026-10-19",
           "end": "2026-10-25",
-          "count": 5
+          "count": 6
         },
         {
           "week": 44,
@@ -38543,7 +38578,7 @@
         },
         {
           "rating": 4,
-          "count": 56
+          "count": 57
         },
         {
           "rating": 4.5,
@@ -38606,7 +38641,7 @@
         {
           "decade": 1980,
           "label": "1980s",
-          "count": 14,
+          "count": 15,
           "averageRating": 3.5
         },
         {
@@ -38729,47 +38764,47 @@
           "slug": "the-priests"
         },
         {
-          "n": 238,
+          "n": 239,
           "kind": "latest",
-          "date": "2026-10-22",
-          "title": "Senritsu Kaiki File Kowasugi! The Most Terrifying Movie in History",
-          "year": "2014",
+          "date": "2026-10-23",
+          "title": "Little Shop of Horrors",
+          "year": "1986",
           "rating": 4,
-          "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-the-most-terrifying-movie-in-history/",
+          "url": "https://letterboxd.com/darthrosenberg/film/little-shop-of-horrors/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:769275",
-          "lid": "wheC",
-          "slug": "senritsu-kaiki-file-kowasugi-the-most-terrifying-movie-in-history"
+          "filmUid": "film:45907",
+          "lid": "1Vqm",
+          "slug": "little-shop-of-horrors"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3411,
-    "entries": 2985,
-    "distinctFilms": 2889,
+    "films": 3412,
+    "entries": 2986,
+    "distinctFilms": 2890,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-10-22",
-    "spanDays": 5617,
-    "daysActive": 1659,
+    "lastEntry": "2026-10-23",
+    "spanDays": 5618,
+    "daysActive": 1660,
     "multiFilmDays": 723,
     "rewatches": 106,
     "liked": 135,
-    "rated": 2804,
+    "rated": 2805,
     "releaseBreakdown": {
       "sameYear": 293,
-      "older": 2691,
+      "older": 2692,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2879,
+      "firstWatches": 2880,
       "rewatches": 106
     },
     "reviewBreakdown": {
       "reviewed": 232,
-      "notReviewed": 2753
+      "notReviewed": 2754
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -38863,8 +38898,8 @@
       },
       {
         "year": 2026,
-        "films": 238,
-        "days": 188
+        "films": 239,
+        "days": 189
       }
     ],
     "perWeekday": [
@@ -38873,7 +38908,7 @@
       364,
       376,
       345,
-      486,
+      487,
       479
     ],
     "perMonthOfYear": [
@@ -38886,7 +38921,7 @@
       220,
       208,
       341,
-      471,
+      472,
       240,
       190
     ],
@@ -39629,7 +39664,7 @@
       },
       {
         "month": "2026-10",
-        "count": 24
+        "count": 25
       }
     ],
     "weekSeries": [],
@@ -39664,7 +39699,7 @@
       },
       {
         "rating": 4,
-        "count": 677
+        "count": 678
       },
       {
         "rating": 4.5,
@@ -39733,7 +39768,7 @@
       {
         "decade": 1980,
         "label": "1980s",
-        "count": 190,
+        "count": 191,
         "averageRating": 3.5
       },
       {
@@ -40750,18 +40785,18 @@
         "slug": "mon-oncle"
       },
       {
-        "n": 2985,
+        "n": 2986,
         "kind": "latest",
-        "date": "2026-10-22",
-        "title": "Senritsu Kaiki File Kowasugi! The Most Terrifying Movie in History",
-        "year": "2014",
+        "date": "2026-10-23",
+        "title": "Little Shop of Horrors",
+        "year": "1986",
         "rating": 4,
-        "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-the-most-terrifying-movie-in-history/",
+        "url": "https://letterboxd.com/darthrosenberg/film/little-shop-of-horrors/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:769275",
-        "lid": "wheC",
-        "slug": "senritsu-kaiki-file-kowasugi-the-most-terrifying-movie-in-history"
+        "filmUid": "film:45907",
+        "lid": "1Vqm",
+        "slug": "little-shop-of-horrors"
       }
     ]
   }
