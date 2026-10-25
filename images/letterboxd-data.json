@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-24T04:12:55.937Z",
+  "generatedAt": "2026-10-25T04:16:00.442Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 671,
-    "daysActive": 474,
+    "films": 672,
+    "daysActive": 475,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 39,
@@ -16629,10 +16629,24 @@
       "date": "2026-10-24",
       "week": 94,
       "weekday": 6,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Senritsu Kaiki File Kowasugi! Final Chapter",
+          "year": "2015",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-final-chapter/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:769282",
+          "lid": "whfK",
+          "slug": "senritsu-kaiki-file-kowasugi-final-chapter"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/24/"
     },
@@ -29900,9 +29914,44 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/23/"
+    },
+    {
+      "date": "2026-10-24",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Senritsu Kaiki File Kowasugi! Final Chapter",
+          "year": "2015",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-final-chapter/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:769282",
+          "lid": "whfK",
+          "slug": "senritsu-kaiki-file-kowasugi-final-chapter"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/24/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-24",
+      "title": "Senritsu Kaiki File Kowasugi! Final Chapter",
+      "year": "2015",
+      "rating": 3.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-final-chapter/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:769282",
+      "lid": "whfK",
+      "slug": "senritsu-kaiki-file-kowasugi-final-chapter"
+    },
     {
       "date": "2026-10-23",
       "title": "Little Shop of Horrors",
@@ -30112,20 +30161,6 @@
       "filmUid": "film:804280",
       "lid": "xKiA",
       "slug": "gatlopp-hell-of-a-game"
-    },
-    {
-      "date": "2026-10-07",
-      "title": "Vincent Must Die",
-      "year": "2023",
-      "rating": 2.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/vincent-must-die/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:869323",
-      "lid": "Atvo",
-      "slug": "vincent-must-die"
     }
   ],
   "byYear": {
@@ -38117,28 +38152,28 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 239,
-      "distinctFilms": 237,
+      "entries": 240,
+      "distinctFilms": 238,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-10-23",
-      "spanDays": 296,
-      "daysActive": 189,
+      "lastEntry": "2026-10-24",
+      "spanDays": 297,
+      "daysActive": 190,
       "multiFilmDays": 39,
       "rewatches": 17,
       "liked": 10,
-      "rated": 234,
+      "rated": 235,
       "releaseBreakdown": {
         "sameYear": 30,
-        "older": 209,
+        "older": 210,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 222,
+        "firstWatches": 223,
         "rewatches": 17
       },
       "reviewBreakdown": {
         "reviewed": 29,
-        "notReviewed": 210
+        "notReviewed": 211
       },
       "averageRating": 3.4,
       "perDay": 0.81,
@@ -38162,8 +38197,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 239,
-          "days": 189
+          "films": 240,
+          "days": 190
         }
       ],
       "perWeekday": [
@@ -38173,7 +38208,7 @@
         35,
         35,
         38,
-        42
+        43
       ],
       "perMonthOfYear": [
         21,
@@ -38185,7 +38220,7 @@
         23,
         29,
         20,
-        25,
+        26,
         0,
         0
       ],
@@ -38228,7 +38263,7 @@
         },
         {
           "month": "2026-10",
-          "count": 25
+          "count": 26
         }
       ],
       "weekSeries": [
@@ -38488,7 +38523,7 @@
           "week": 43,
           "start": "2026-10-19",
           "end": "2026-10-25",
-          "count": 6
+          "count": 7
         },
         {
           "week": 44,
@@ -38574,7 +38609,7 @@
         },
         {
           "rating": 3.5,
-          "count": 66
+          "count": 67
         },
         {
           "rating": 4,
@@ -38659,7 +38694,7 @@
         {
           "decade": 2010,
           "label": "2010s",
-          "count": 43,
+          "count": 44,
           "averageRating": 3.5
         },
         {
@@ -38764,47 +38799,47 @@
           "slug": "the-priests"
         },
         {
-          "n": 239,
+          "n": 240,
           "kind": "latest",
-          "date": "2026-10-23",
-          "title": "Little Shop of Horrors",
-          "year": "1986",
-          "rating": 4,
-          "url": "https://letterboxd.com/darthrosenberg/film/little-shop-of-horrors/",
+          "date": "2026-10-24",
+          "title": "Senritsu Kaiki File Kowasugi! Final Chapter",
+          "year": "2015",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-final-chapter/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:45907",
-          "lid": "1Vqm",
-          "slug": "little-shop-of-horrors"
+          "filmUid": "film:769282",
+          "lid": "whfK",
+          "slug": "senritsu-kaiki-file-kowasugi-final-chapter"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3412,
-    "entries": 2986,
-    "distinctFilms": 2890,
+    "films": 3413,
+    "entries": 2987,
+    "distinctFilms": 2891,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-10-23",
-    "spanDays": 5618,
-    "daysActive": 1660,
+    "lastEntry": "2026-10-24",
+    "spanDays": 5619,
+    "daysActive": 1661,
     "multiFilmDays": 723,
     "rewatches": 106,
     "liked": 135,
-    "rated": 2805,
+    "rated": 2806,
     "releaseBreakdown": {
       "sameYear": 293,
-      "older": 2692,
+      "older": 2693,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2880,
+      "firstWatches": 2881,
       "rewatches": 106
     },
     "reviewBreakdown": {
       "reviewed": 232,
-      "notReviewed": 2754
+      "notReviewed": 2755
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -38898,8 +38933,8 @@
       },
       {
         "year": 2026,
-        "films": 239,
-        "days": 189
+        "films": 240,
+        "days": 190
       }
     ],
     "perWeekday": [
@@ -38909,7 +38944,7 @@
       376,
       345,
       487,
-      479
+      480
     ],
     "perMonthOfYear": [
       207,
@@ -38921,7 +38956,7 @@
       220,
       208,
       341,
-      472,
+      473,
       240,
       190
     ],
@@ -39664,7 +39699,7 @@
       },
       {
         "month": "2026-10",
-        "count": 25
+        "count": 26
       }
     ],
     "weekSeries": [],
@@ -39695,7 +39730,7 @@
       },
       {
         "rating": 3.5,
-        "count": 799
+        "count": 800
       },
       {
         "rating": 4,
@@ -39786,7 +39821,7 @@
       {
         "decade": 2010,
         "label": "2010s",
-        "count": 945,
+        "count": 946,
         "averageRating": 3.5
       },
       {
@@ -40785,18 +40820,18 @@
         "slug": "mon-oncle"
       },
       {
-        "n": 2986,
+        "n": 2987,
         "kind": "latest",
-        "date": "2026-10-23",
-        "title": "Little Shop of Horrors",
-        "year": "1986",
-        "rating": 4,
-        "url": "https://letterboxd.com/darthrosenberg/film/little-shop-of-horrors/",
+        "date": "2026-10-24",
+        "title": "Senritsu Kaiki File Kowasugi! Final Chapter",
+        "year": "2015",
+        "rating": 3.5,
+        "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-final-chapter/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:45907",
-        "lid": "1Vqm",
-        "slug": "little-shop-of-horrors"
+        "filmUid": "film:769282",
+        "lid": "whfK",
+        "slug": "senritsu-kaiki-file-kowasugi-final-chapter"
       }
     ]
   }
