@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-25T04:16:00.442Z",
+  "generatedAt": "2026-10-26T04:20:14.362Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 672,
-    "daysActive": 475,
+    "films": 673,
+    "daysActive": 476,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 39,
@@ -16654,10 +16654,24 @@
       "date": "2026-10-25",
       "week": 95,
       "weekday": 0,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Don't Deliver Us from Evil",
+          "year": "1971",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/dont-deliver-us-from-evil/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:5045",
+          "lid": "d7I",
+          "slug": "dont-deliver-us-from-evil"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/25/"
     },
@@ -29935,9 +29949,44 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/24/"
+    },
+    {
+      "date": "2026-10-25",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Don't Deliver Us from Evil",
+          "year": "1971",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/dont-deliver-us-from-evil/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:5045",
+          "lid": "d7I",
+          "slug": "dont-deliver-us-from-evil"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/25/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-25",
+      "title": "Don't Deliver Us from Evil",
+      "year": "1971",
+      "rating": 3.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/dont-deliver-us-from-evil/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:5045",
+      "lid": "d7I",
+      "slug": "dont-deliver-us-from-evil"
+    },
     {
       "date": "2026-10-24",
       "title": "Senritsu Kaiki File Kowasugi! Final Chapter",
@@ -30147,20 +30196,6 @@
       "filmUid": "film:291364",
       "lid": "cdYc",
       "slug": "descent-into-darkness-my-european-nightmare"
-    },
-    {
-      "date": "2026-10-09",
-      "title": "Gatlopp: Hell of a Game",
-      "year": "2022",
-      "rating": 2,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/gatlopp-hell-of-a-game/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:804280",
-      "lid": "xKiA",
-      "slug": "gatlopp-hell-of-a-game"
     }
   ],
   "byYear": {
@@ -38152,28 +38187,28 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 240,
-      "distinctFilms": 238,
+      "entries": 241,
+      "distinctFilms": 239,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-10-24",
-      "spanDays": 297,
-      "daysActive": 190,
+      "lastEntry": "2026-10-25",
+      "spanDays": 298,
+      "daysActive": 191,
       "multiFilmDays": 39,
       "rewatches": 17,
       "liked": 10,
-      "rated": 235,
+      "rated": 236,
       "releaseBreakdown": {
         "sameYear": 30,
-        "older": 210,
+        "older": 211,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 223,
+        "firstWatches": 224,
         "rewatches": 17
       },
       "reviewBreakdown": {
         "reviewed": 29,
-        "notReviewed": 211
+        "notReviewed": 212
       },
       "averageRating": 3.4,
       "perDay": 0.81,
@@ -38197,12 +38232,12 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 240,
-          "days": 190
+          "films": 241,
+          "days": 191
         }
       ],
       "perWeekday": [
-        34,
+        35,
         27,
         28,
         35,
@@ -38220,7 +38255,7 @@
         23,
         29,
         20,
-        26,
+        27,
         0,
         0
       ],
@@ -38263,7 +38298,7 @@
         },
         {
           "month": "2026-10",
-          "count": 26
+          "count": 27
         }
       ],
       "weekSeries": [
@@ -38523,7 +38558,7 @@
           "week": 43,
           "start": "2026-10-19",
           "end": "2026-10-25",
-          "count": 7
+          "count": 8
         },
         {
           "week": 44,
@@ -38609,7 +38644,7 @@
         },
         {
           "rating": 3.5,
-          "count": 67
+          "count": 68
         },
         {
           "rating": 4,
@@ -38670,7 +38705,7 @@
         {
           "decade": 1970,
           "label": "1970s",
-          "count": 11,
+          "count": 12,
           "averageRating": 3.5
         },
         {
@@ -38799,47 +38834,47 @@
           "slug": "the-priests"
         },
         {
-          "n": 240,
+          "n": 241,
           "kind": "latest",
-          "date": "2026-10-24",
-          "title": "Senritsu Kaiki File Kowasugi! Final Chapter",
-          "year": "2015",
+          "date": "2026-10-25",
+          "title": "Don't Deliver Us from Evil",
+          "year": "1971",
           "rating": 3.5,
-          "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-final-chapter/",
+          "url": "https://letterboxd.com/darthrosenberg/film/dont-deliver-us-from-evil/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:769282",
-          "lid": "whfK",
-          "slug": "senritsu-kaiki-file-kowasugi-final-chapter"
+          "filmUid": "film:5045",
+          "lid": "d7I",
+          "slug": "dont-deliver-us-from-evil"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3413,
-    "entries": 2987,
-    "distinctFilms": 2891,
+    "films": 3414,
+    "entries": 2988,
+    "distinctFilms": 2892,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-10-24",
-    "spanDays": 5619,
-    "daysActive": 1661,
+    "lastEntry": "2026-10-25",
+    "spanDays": 5620,
+    "daysActive": 1662,
     "multiFilmDays": 723,
     "rewatches": 106,
     "liked": 135,
-    "rated": 2806,
+    "rated": 2807,
     "releaseBreakdown": {
       "sameYear": 293,
-      "older": 2693,
+      "older": 2694,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2881,
+      "firstWatches": 2882,
       "rewatches": 106
     },
     "reviewBreakdown": {
       "reviewed": 232,
-      "notReviewed": 2755
+      "notReviewed": 2756
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -38933,12 +38968,12 @@
       },
       {
         "year": 2026,
-        "films": 240,
-        "days": 190
+        "films": 241,
+        "days": 191
       }
     ],
     "perWeekday": [
-      575,
+      576,
       360,
       364,
       376,
@@ -38956,7 +38991,7 @@
       220,
       208,
       341,
-      473,
+      474,
       240,
       190
     ],
@@ -39699,7 +39734,7 @@
       },
       {
         "month": "2026-10",
-        "count": 26
+        "count": 27
       }
     ],
     "weekSeries": [],
@@ -39730,7 +39765,7 @@
       },
       {
         "rating": 3.5,
-        "count": 800
+        "count": 801
       },
       {
         "rating": 4,
@@ -39797,7 +39832,7 @@
       {
         "decade": 1970,
         "label": "1970s",
-        "count": 165,
+        "count": 166,
         "averageRating": 3.5
       },
       {
@@ -40820,18 +40855,18 @@
         "slug": "mon-oncle"
       },
       {
-        "n": 2987,
+        "n": 2988,
         "kind": "latest",
-        "date": "2026-10-24",
-        "title": "Senritsu Kaiki File Kowasugi! Final Chapter",
-        "year": "2015",
+        "date": "2026-10-25",
+        "title": "Don't Deliver Us from Evil",
+        "year": "1971",
         "rating": 3.5,
-        "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-final-chapter/",
+        "url": "https://letterboxd.com/darthrosenberg/film/dont-deliver-us-from-evil/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:769282",
-        "lid": "whfK",
-        "slug": "senritsu-kaiki-file-kowasugi-final-chapter"
+        "filmUid": "film:5045",
+        "lid": "d7I",
+        "slug": "dont-deliver-us-from-evil"
       }
     ]
   }
