@@ -92,7 +92,7 @@
         <tspan fill="#656d76">@darthrosenberg</tspan>
       </a>
       <tspan dx="5" fill="#656d76">•</tspan>
-      <tspan dx="5" fill="#1f2328">3414</tspan>
+      <tspan dx="5" fill="#1f2328">3415</tspan>
       <tspan fill="#656d76"> Films</tspan>
       <tspan dx="5" fill="#656d76">•</tspan>
       <tspan dx="5" fill="#1f2328">0</tspan>
@@ -123,7 +123,7 @@
         <text x="75" y="67" font-size="8" fill="#1f2328" text-anchor="middle">1</text>
         <rect x="67" y="70" width="16" height="1" rx="2" fill="#30a14e"/>
         <text x="75" y="84" font-size="7" fill="#1f2328" text-anchor="middle">1920s</text>
-        <text x="101" y="66" font-size="8" fill="#1f2328" text-anchor="middle">2</text>
+        <text x="101" y="66" font-size="8" fill="#1f2328" text-anchor="middle">3</text>
         <rect x="93" y="69" width="16" height="1" rx="2" fill="#30a14e"/>
         <text x="101" y="84" font-size="7" fill="#1f2328" text-anchor="middle">1930s</text>
         <text x="127" y="66" font-size="8" fill="#1f2328" text-anchor="middle">3</text>
@@ -158,7 +158,7 @@
 
     <!-- Movies with rating distribution tooltip -->
     <g class="movies-group" transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">241 Movies</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">242 Movies</text>
       <g class="movies-tooltip" transform="translate(-30, -116)">
         <rect x="0" y="0" width="260" height="108" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
         <text x="130" y="15" font-size="11" font-weight="600" fill="#1f2328" text-anchor="middle">Rating Distribution (5 unrated)</text>
@@ -177,8 +177,8 @@
         <text x="118" y="52" font-size="8" fill="#1f2328" text-anchor="middle">25</text>
         <rect x="111" y="55" width="14" height="15" rx="2" fill="#30a14e"/>
         <text x="118" y="84" font-size="7" fill="#1f2328" text-anchor="middle">2.5</text>
-        <text x="142" y="34" font-size="8" fill="#1f2328" text-anchor="middle">56</text>
-        <rect x="135" y="37" width="14" height="33" rx="2" fill="#30a14e"/>
+        <text x="142" y="33" font-size="8" fill="#1f2328" text-anchor="middle">57</text>
+        <rect x="135" y="36" width="14" height="34" rx="2" fill="#30a14e"/>
         <text x="142" y="84" font-size="7" fill="#1f2328" text-anchor="middle">3</text>
         <text x="166" y="27" font-size="8" fill="#1f2328" text-anchor="middle">68</text>
         <rect x="159" y="30" width="14" height="40" rx="2" fill="#216e39"/>
@@ -193,13 +193,13 @@
         <rect x="231" y="69" width="14" height="1" rx="2" fill="#216e39"/>
         <text x="238" y="84" font-size="7" fill="#1f2328" text-anchor="middle">5</text>
         <line x1="12" y1="90" x2="248" y2="90" stroke="#d1d9e0" stroke-width="1"/>
-        <text x="130" y="102" font-size="10" font-weight="500" fill="#656d76" text-anchor="middle">Ø 3.4★ · 236 rated · ↻ 17 · ♥ 10</text>
+        <text x="130" y="102" font-size="10" font-weight="500" fill="#656d76" text-anchor="middle">Ø 3.4★ · 237 rated · ↻ 17 · ♥ 10</text>
       </g>
     </g>
 
     <!-- Days Active with hover tooltip -->
     <g class="days-active-group" transform="translate(170, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">191 Days Active</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">192 Days Active</text>
       <g class="days-active-tooltip" transform="translate(-20, -115)">
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#1f2328" text-anchor="middle">Weekly Distribution</text>
@@ -207,8 +207,8 @@
         <text x="27" y="40" font-size="9" fill="#1f2328" text-anchor="middle">35</text>
         <rect x="20" y="43" width="14" height="37" rx="2" fill="#30a14e"/>
         <text x="27" y="100" font-size="9" fill="#1f2328" text-anchor="middle">S</text>
-        <text x="51" y="49" font-size="9" fill="#1f2328" text-anchor="middle">27</text>
-        <rect x="44" y="52" width="14" height="28" rx="2" fill="#30a14e"/>
+        <text x="51" y="48" font-size="9" fill="#1f2328" text-anchor="middle">28</text>
+        <rect x="44" y="51" width="14" height="29" rx="2" fill="#30a14e"/>
         <text x="51" y="100" font-size="9" fill="#1f2328" text-anchor="middle">M</text>
         <text x="75" y="48" font-size="9" fill="#1f2328" text-anchor="middle">28</text>
         <rect x="68" y="51" width="14" height="29" rx="2" fill="#30a14e"/>
@@ -231,10 +231,10 @@
     <g class="streak-group streak-group-2026" transform="translate(310, 5)">
       <path d="M8.5 14.5A2.5 2.5 0 0 0 11 12c0-1.38-.5-2-1-3-1.072-2.143-.224-4.054 2-6 .5 2.5 2 4.9 4 6.5 2 1.6 3 3.5 3 5.5a7 7 0 1 1-14 0c0-1.153.433-2.294 1-3a2.5 2.5 0 0 0 2.5 2.5z"
             stroke="#f97316" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="#f97316" fill-opacity="0.2" transform="scale(0.75)"/>
-      <text x="18" y="13" font-size="14" font-weight="500" fill="#656d76">10 Day Streak</text>
+      <text x="18" y="13" font-size="14" font-weight="500" fill="#656d76">11 Day Streak</text>
       <g class="streak-tooltip" transform="translate(0, -63)">
         <rect x="-10" y="0" width="180" height="54" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
-        <text x="5" y="21" font-size="12" fill="#1f2328">2026-05-05 → 2026-05-14</text>
+        <text x="5" y="21" font-size="12" fill="#1f2328">2026-10-16 → 2026-10-26</text>
         <text x="5" y="41" font-size="11" font-weight="500" fill="#656d76"><tspan fill="#f97316" font-weight="600">12</tspan> Movies watched</text>
       </g>
     </g>
@@ -487,7 +487,7 @@
     </g>
     <g class="cell-group">
       <a href="https://letterboxd.com/darthrosenberg/diary/films/for/2026/05/10/">
-        <rect class="cell streak-cell streak-cell-2026"
+        <rect class="cell"
           x="323"
           y="0"
           width="14"
@@ -767,7 +767,7 @@
     </g>
     <g class="cell-group">
       <a href="https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/18/">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2026"
           x="714"
           y="0"
           width="14"
@@ -786,7 +786,7 @@
     </g>
     <g class="cell-group">
       <a href="https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/25/">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2026"
           x="731"
           y="0"
           width="14"
@@ -979,7 +979,7 @@
     <rect class="cell" x="306" y="17" width="14" height="14" rx="2" fill="#ebedf0" style="animation-delay:203ms"/>
     <g class="cell-group">
       <a href="https://letterboxd.com/darthrosenberg/diary/films/for/2026/05/11/">
-        <rect class="cell streak-cell streak-cell-2026"
+        <rect class="cell"
           x="323"
           y="17"
           width="14"
@@ -1238,7 +1238,7 @@
     <rect class="cell" x="697" y="17" width="14" height="14" rx="2" fill="#ebedf0" style="animation-delay:456ms"/>
     <g class="cell-group">
       <a href="https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/19/">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2026"
           x="714"
           y="17"
           width="14"
@@ -1255,7 +1255,25 @@
         </g>
       </a>
     </g>
-    <rect class="cell" x="731" y="17" width="14" height="14" rx="2" fill="#ebedf0" style="animation-delay:478ms"/>
+    <g class="cell-group">
+      <a href="https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/26/">
+        <rect class="cell streak-cell streak-cell-2026"
+          x="731"
+          y="17"
+          width="14"
+          height="14"
+          rx="2"
+          fill="#9be9a8" style="animation-delay:478ms"
+        />
+        <g class="tooltip-group" transform="translate(699, -47)">
+          <rect x="0" y="0" width="240" height="56" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+          <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
+            <tspan x="10" dy="22" font-weight="600">Mon, 26. Oct 2026: 1 movie watched</tspan>
+            <tspan x="10" dy="18">• Dracula&apos;s Daughter (1936) - 3★</tspan>
+          </text>
+        </g>
+      </a>
+    </g>
     <rect class="cell" x="748" y="17" width="14" height="14" rx="2" fill="#ebedf0" style="animation-delay:489ms"/>
     <rect class="cell" x="765" y="17" width="14" height="14" rx="2" fill="#ebedf0" style="animation-delay:500ms"/>
     <rect class="cell" x="782" y="17" width="14" height="14" rx="2" fill="#ebedf0" style="animation-delay:511ms"/>
@@ -1429,7 +1447,7 @@
     </g>
     <g class="cell-group">
       <a href="https://letterboxd.com/darthrosenberg/diary/films/for/2026/05/05/">
-        <rect class="cell streak-cell streak-cell-2026"
+        <rect class="cell"
           x="306"
           y="34"
           width="14"
@@ -1448,7 +1466,7 @@
     </g>
     <g class="cell-group">
       <a href="https://letterboxd.com/darthrosenberg/diary/films/for/2026/05/12/">
-        <rect class="cell streak-cell streak-cell-2026"
+        <rect class="cell"
           x="323"
           y="34"
           width="14"
@@ -1760,7 +1778,7 @@
     </g>
     <g class="cell-group">
       <a href="https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/20/">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2026"
           x="714"
           y="34"
           width="14"
@@ -2007,7 +2025,7 @@
     </g>
     <g class="cell-group">
       <a href="https://letterboxd.com/darthrosenberg/diary/films/for/2026/05/06/">
-        <rect class="cell streak-cell streak-cell-2026"
+        <rect class="cell"
           x="306"
           y="51"
           width="14"
@@ -2026,7 +2044,7 @@
     </g>
     <g class="cell-group">
       <a href="https://letterboxd.com/darthrosenberg/diary/films/for/2026/05/13/">
-        <rect class="cell streak-cell streak-cell-2026"
+        <rect class="cell"
           x="323"
           y="51"
           width="14"
@@ -2322,7 +2340,7 @@
     </g>
     <g class="cell-group">
       <a href="https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/21/">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2026"
           x="714"
           y="51"
           width="14"
@@ -2554,7 +2572,7 @@
     </g>
     <g class="cell-group">
       <a href="https://letterboxd.com/darthrosenberg/diary/films/for/2026/05/07/">
-        <rect class="cell streak-cell streak-cell-2026"
+        <rect class="cell"
           x="306"
           y="68"
           width="14"
@@ -2573,7 +2591,7 @@
     </g>
     <g class="cell-group">
       <a href="https://letterboxd.com/darthrosenberg/diary/films/for/2026/05/14/">
-        <rect class="cell streak-cell streak-cell-2026"
+        <rect class="cell"
           x="323"
           y="68"
           width="14"
@@ -2836,7 +2854,7 @@
     <rect class="cell" x="697" y="68" width="14" height="14" rx="2" fill="#ebedf0" style="animation-delay:471ms"/>
     <g class="cell-group">
       <a href="https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/22/">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2026"
           x="714"
           y="68"
           width="14"
@@ -3135,7 +3153,7 @@
     </g>
     <g class="cell-group">
       <a href="https://letterboxd.com/darthrosenberg/diary/films/for/2026/05/08/">
-        <rect class="cell streak-cell streak-cell-2026"
+        <rect class="cell"
           x="306"
           y="85"
           width="14"
@@ -3452,7 +3470,7 @@
     </g>
     <g class="cell-group">
       <a href="https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/16/">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2026"
           x="697"
           y="85"
           width="14"
@@ -3471,7 +3489,7 @@
     </g>
     <g class="cell-group">
       <a href="https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/23/">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2026"
           x="714"
           y="85"
           width="14"
@@ -3758,7 +3776,7 @@
     </g>
     <g class="cell-group">
       <a href="https://letterboxd.com/darthrosenberg/diary/films/for/2026/05/09/">
-        <rect class="cell streak-cell streak-cell-2026"
+        <rect class="cell"
           x="306"
           y="102"
           width="14"
@@ -4074,7 +4092,7 @@
     </g>
     <g class="cell-group">
       <a href="https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/17/">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2026"
           x="697"
           y="102"
           width="14"
@@ -4093,7 +4111,7 @@
     </g>
     <g class="cell-group">
       <a href="https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/24/">
-        <rect class="cell"
+        <rect class="cell streak-cell streak-cell-2026"
           x="714"
           y="102"
           width="14"

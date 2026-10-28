@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-27T04:38:59.847Z",
+  "generatedAt": "2026-10-28T05:12:16.929Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 673,
-    "daysActive": 476,
+    "films": 674,
+    "daysActive": 477,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 39,
@@ -16679,10 +16679,24 @@
       "date": "2026-10-26",
       "week": 95,
       "weekday": 1,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "Dracula's Daughter",
+          "year": "1936",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/draculas-daughter/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:37891",
+          "lid": "1Azs",
+          "slug": "draculas-daughter"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/26/"
     },
@@ -29970,9 +29984,44 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/25/"
+    },
+    {
+      "date": "2026-10-26",
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "Dracula's Daughter",
+          "year": "1936",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/draculas-daughter/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:37891",
+          "lid": "1Azs",
+          "slug": "draculas-daughter"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/26/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-26",
+      "title": "Dracula's Daughter",
+      "year": "1936",
+      "rating": 3,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/draculas-daughter/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:37891",
+      "lid": "1Azs",
+      "slug": "draculas-daughter"
+    },
     {
       "date": "2026-10-25",
       "title": "Don't Deliver Us from Evil",
@@ -30182,20 +30231,6 @@
       "filmUid": "film:768850",
       "lid": "wg84",
       "slug": "senritsu-kaiki-file-kowasugi-file-02-shivering-ghost"
-    },
-    {
-      "date": "2026-10-09",
-      "title": "Descent Into Darkness: My European Nightmare",
-      "year": "2012",
-      "rating": 3,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/descent-into-darkness-my-european-nightmare/",
-      "reviewed": true,
-      "reviewUrl": "https://letterboxd.com/darthrosenberg/film/descent-into-darkness-my-european-nightmare/",
-      "filmUid": "film:291364",
-      "lid": "cdYc",
-      "slug": "descent-into-darkness-my-european-nightmare"
     }
   ],
   "byYear": {
@@ -38187,37 +38222,37 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 241,
-      "distinctFilms": 239,
+      "entries": 242,
+      "distinctFilms": 240,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-10-25",
-      "spanDays": 298,
-      "daysActive": 191,
+      "lastEntry": "2026-10-26",
+      "spanDays": 299,
+      "daysActive": 192,
       "multiFilmDays": 39,
       "rewatches": 17,
       "liked": 10,
-      "rated": 236,
+      "rated": 237,
       "releaseBreakdown": {
         "sameYear": 30,
-        "older": 211,
+        "older": 212,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 224,
+        "firstWatches": 225,
         "rewatches": 17
       },
       "reviewBreakdown": {
         "reviewed": 29,
-        "notReviewed": 212
+        "notReviewed": 213
       },
       "averageRating": 3.4,
       "perDay": 0.81,
       "perWeek": 5.7,
       "perMonth": 24.6,
       "streak": {
-        "length": 10,
-        "startDate": "2026-05-05",
-        "endDate": "2026-05-14",
+        "length": 11,
+        "startDate": "2026-10-16",
+        "endDate": "2026-10-26",
         "films": 12
       },
       "busiestDay": {
@@ -38232,13 +38267,13 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 241,
-          "days": 191
+          "films": 242,
+          "days": 192
         }
       ],
       "perWeekday": [
         35,
-        27,
+        28,
         28,
         35,
         35,
@@ -38255,7 +38290,7 @@
         23,
         29,
         20,
-        27,
+        28,
         0,
         0
       ],
@@ -38298,7 +38333,7 @@
         },
         {
           "month": "2026-10",
-          "count": 27
+          "count": 28
         }
       ],
       "weekSeries": [
@@ -38564,7 +38599,7 @@
           "week": 44,
           "start": "2026-10-26",
           "end": "2026-11-01",
-          "count": 0
+          "count": 1
         },
         {
           "week": 45,
@@ -38640,7 +38675,7 @@
         },
         {
           "rating": 3,
-          "count": 56
+          "count": 57
         },
         {
           "rating": 3.5,
@@ -38681,8 +38716,8 @@
         {
           "decade": 1930,
           "label": "1930s",
-          "count": 2,
-          "averageRating": 4
+          "count": 3,
+          "averageRating": 3.5
         },
         {
           "decade": 1940,
@@ -38834,47 +38869,47 @@
           "slug": "the-priests"
         },
         {
-          "n": 241,
+          "n": 242,
           "kind": "latest",
-          "date": "2026-10-25",
-          "title": "Don't Deliver Us from Evil",
-          "year": "1971",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/darthrosenberg/film/dont-deliver-us-from-evil/",
+          "date": "2026-10-26",
+          "title": "Dracula's Daughter",
+          "year": "1936",
+          "rating": 3,
+          "url": "https://letterboxd.com/darthrosenberg/film/draculas-daughter/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:5045",
-          "lid": "d7I",
-          "slug": "dont-deliver-us-from-evil"
+          "filmUid": "film:37891",
+          "lid": "1Azs",
+          "slug": "draculas-daughter"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3414,
-    "entries": 2988,
-    "distinctFilms": 2892,
+    "films": 3415,
+    "entries": 2989,
+    "distinctFilms": 2893,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-10-25",
-    "spanDays": 5620,
-    "daysActive": 1662,
+    "lastEntry": "2026-10-26",
+    "spanDays": 5621,
+    "daysActive": 1663,
     "multiFilmDays": 723,
     "rewatches": 106,
     "liked": 135,
-    "rated": 2807,
+    "rated": 2808,
     "releaseBreakdown": {
       "sameYear": 293,
-      "older": 2694,
+      "older": 2695,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2882,
+      "firstWatches": 2883,
       "rewatches": 106
     },
     "reviewBreakdown": {
       "reviewed": 232,
-      "notReviewed": 2756
+      "notReviewed": 2757
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -38968,13 +39003,13 @@
       },
       {
         "year": 2026,
-        "films": 241,
-        "days": 191
+        "films": 242,
+        "days": 192
       }
     ],
     "perWeekday": [
       576,
-      360,
+      361,
       364,
       376,
       345,
@@ -38991,7 +39026,7 @@
       220,
       208,
       341,
-      474,
+      475,
       240,
       190
     ],
@@ -39734,7 +39769,7 @@
       },
       {
         "month": "2026-10",
-        "count": 27
+        "count": 28
       }
     ],
     "weekSeries": [],
@@ -39761,7 +39796,7 @@
       },
       {
         "rating": 3,
-        "count": 624
+        "count": 625
       },
       {
         "rating": 3.5,
@@ -39808,7 +39843,7 @@
       {
         "decade": 1930,
         "label": "1930s",
-        "count": 17,
+        "count": 18,
         "averageRating": 4
       },
       {
@@ -40855,18 +40890,18 @@
         "slug": "mon-oncle"
       },
       {
-        "n": 2988,
+        "n": 2989,
         "kind": "latest",
-        "date": "2026-10-25",
-        "title": "Don't Deliver Us from Evil",
-        "year": "1971",
-        "rating": 3.5,
-        "url": "https://letterboxd.com/darthrosenberg/film/dont-deliver-us-from-evil/",
+        "date": "2026-10-26",
+        "title": "Dracula's Daughter",
+        "year": "1936",
+        "rating": 3,
+        "url": "https://letterboxd.com/darthrosenberg/film/draculas-daughter/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:5045",
-        "lid": "d7I",
-        "slug": "dont-deliver-us-from-evil"
+        "filmUid": "film:37891",
+        "lid": "1Azs",
+        "slug": "draculas-daughter"
       }
     ]
   }
