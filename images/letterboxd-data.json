@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-29T05:23:45.286Z",
+  "generatedAt": "2026-10-30T05:23:20.176Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 675,
-    "daysActive": 478,
+    "films": 676,
+    "daysActive": 479,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 39,
@@ -16740,10 +16740,24 @@
       "date": "2026-10-29",
       "week": 95,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Under the Shadow",
+          "year": "2016",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/under-the-shadow/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:310401",
+          "lid": "d1uG",
+          "slug": "under-the-shadow"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/29/"
     },
@@ -30040,9 +30054,44 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/28/"
+    },
+    {
+      "date": "2026-10-29",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Under the Shadow",
+          "year": "2016",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/under-the-shadow/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:310401",
+          "lid": "d1uG",
+          "slug": "under-the-shadow"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/29/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-29",
+      "title": "Under the Shadow",
+      "year": "2016",
+      "rating": 3.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/under-the-shadow/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:310401",
+      "lid": "d1uG",
+      "slug": "under-the-shadow"
+    },
     {
       "date": "2026-10-28",
       "title": "The Cycle",
@@ -30252,20 +30301,6 @@
       "filmUid": "film:50166",
       "lid": "26vi",
       "slug": "in-the-mouth-of-madness"
-    },
-    {
-      "date": "2026-10-11",
-      "title": "Senritsu Kaiki File Kowasugi! File 03: Legend of a Human-Eating Kappa",
-      "year": "2013",
-      "rating": 3,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-file-03-legend-of-a-human-eating-kappa/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:768855",
-      "lid": "wg8S",
-      "slug": "senritsu-kaiki-file-kowasugi-file-03-legend-of-a-human-eating-kappa"
     }
   ],
   "byYear": {
@@ -38257,28 +38292,28 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 243,
-      "distinctFilms": 241,
+      "entries": 244,
+      "distinctFilms": 242,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-10-28",
-      "spanDays": 301,
-      "daysActive": 193,
+      "lastEntry": "2026-10-29",
+      "spanDays": 302,
+      "daysActive": 194,
       "multiFilmDays": 39,
       "rewatches": 17,
       "liked": 10,
-      "rated": 238,
+      "rated": 239,
       "releaseBreakdown": {
         "sameYear": 31,
-        "older": 212,
+        "older": 213,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 226,
+        "firstWatches": 227,
         "rewatches": 17
       },
       "reviewBreakdown": {
         "reviewed": 29,
-        "notReviewed": 214
+        "notReviewed": 215
       },
       "averageRating": 3.4,
       "perDay": 0.81,
@@ -38302,8 +38337,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 243,
-          "days": 193
+          "films": 244,
+          "days": 194
         }
       ],
       "perWeekday": [
@@ -38311,7 +38346,7 @@
         28,
         28,
         36,
-        35,
+        36,
         38,
         43
       ],
@@ -38325,7 +38360,7 @@
         23,
         29,
         20,
-        29,
+        30,
         0,
         0
       ],
@@ -38368,7 +38403,7 @@
         },
         {
           "month": "2026-10",
-          "count": 29
+          "count": 30
         }
       ],
       "weekSeries": [
@@ -38634,7 +38669,7 @@
           "week": 44,
           "start": "2026-10-26",
           "end": "2026-11-01",
-          "count": 2
+          "count": 3
         },
         {
           "week": 45,
@@ -38714,7 +38749,7 @@
         },
         {
           "rating": 3.5,
-          "count": 68
+          "count": 69
         },
         {
           "rating": 4,
@@ -38799,7 +38834,7 @@
         {
           "decade": 2010,
           "label": "2010s",
-          "count": 44,
+          "count": 45,
           "averageRating": 3.5
         },
         {
@@ -38904,47 +38939,47 @@
           "slug": "the-priests"
         },
         {
-          "n": 243,
+          "n": 244,
           "kind": "latest",
-          "date": "2026-10-28",
-          "title": "The Cycle",
-          "year": "2026",
-          "rating": 3,
-          "url": "https://letterboxd.com/darthrosenberg/film/the-cycle-2026-2/",
+          "date": "2026-10-29",
+          "title": "Under the Shadow",
+          "year": "2016",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/darthrosenberg/film/under-the-shadow/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:1173481",
-          "lid": "NeL8",
-          "slug": "the-cycle-2026-2"
+          "filmUid": "film:310401",
+          "lid": "d1uG",
+          "slug": "under-the-shadow"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3416,
-    "entries": 2990,
-    "distinctFilms": 2894,
+    "films": 3417,
+    "entries": 2991,
+    "distinctFilms": 2895,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-10-28",
-    "spanDays": 5623,
-    "daysActive": 1664,
+    "lastEntry": "2026-10-29",
+    "spanDays": 5624,
+    "daysActive": 1665,
     "multiFilmDays": 723,
     "rewatches": 106,
     "liked": 135,
-    "rated": 2809,
+    "rated": 2810,
     "releaseBreakdown": {
       "sameYear": 294,
-      "older": 2695,
+      "older": 2696,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2884,
+      "firstWatches": 2885,
       "rewatches": 106
     },
     "reviewBreakdown": {
       "reviewed": 232,
-      "notReviewed": 2758
+      "notReviewed": 2759
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -39038,8 +39073,8 @@
       },
       {
         "year": 2026,
-        "films": 243,
-        "days": 193
+        "films": 244,
+        "days": 194
       }
     ],
     "perWeekday": [
@@ -39047,7 +39082,7 @@
       361,
       364,
       377,
-      345,
+      346,
       487,
       480
     ],
@@ -39061,7 +39096,7 @@
       220,
       208,
       341,
-      476,
+      477,
       240,
       190
     ],
@@ -39804,7 +39839,7 @@
       },
       {
         "month": "2026-10",
-        "count": 29
+        "count": 30
       }
     ],
     "weekSeries": [],
@@ -39835,7 +39870,7 @@
       },
       {
         "rating": 3.5,
-        "count": 801
+        "count": 802
       },
       {
         "rating": 4,
@@ -39926,7 +39961,7 @@
       {
         "decade": 2010,
         "label": "2010s",
-        "count": 946,
+        "count": 947,
         "averageRating": 3.5
       },
       {
@@ -40925,18 +40960,18 @@
         "slug": "mon-oncle"
       },
       {
-        "n": 2990,
+        "n": 2991,
         "kind": "latest",
-        "date": "2026-10-28",
-        "title": "The Cycle",
-        "year": "2026",
-        "rating": 3,
-        "url": "https://letterboxd.com/darthrosenberg/film/the-cycle-2026-2/",
+        "date": "2026-10-29",
+        "title": "Under the Shadow",
+        "year": "2016",
+        "rating": 3.5,
+        "url": "https://letterboxd.com/darthrosenberg/film/under-the-shadow/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:1173481",
-        "lid": "NeL8",
-        "slug": "the-cycle-2026-2"
+        "filmUid": "film:310401",
+        "lid": "d1uG",
+        "slug": "under-the-shadow"
       }
     ]
   }
