@@ -92,7 +92,7 @@
         <tspan fill="#7d8590">@darthrosenberg</tspan>
       </a>
       <tspan dx="5" fill="#7d8590">•</tspan>
-      <tspan dx="5" fill="#e6edf3">3417</tspan>
+      <tspan dx="5" fill="#e6edf3">3418</tspan>
       <tspan fill="#7d8590"> Films</tspan>
       <tspan dx="5" fill="#7d8590">•</tspan>
       <tspan dx="5" fill="#e6edf3">0</tspan>
@@ -150,7 +150,7 @@
         <text x="309" y="52" font-size="8" fill="#f0f6fc" text-anchor="middle">45</text>
         <rect x="301" y="55" width="16" height="15" rx="2" fill="#26a641"/>
         <text x="309" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">2010s</text>
-        <text x="335" y="27" font-size="8" fill="#f0f6fc" text-anchor="middle">117</text>
+        <text x="335" y="27" font-size="8" fill="#f0f6fc" text-anchor="middle">118</text>
         <rect x="327" y="30" width="16" height="40" rx="2" fill="#26a641"/>
         <text x="335" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">2020s</text>
     </g>
@@ -158,7 +158,7 @@
 
     <!-- Movies with rating distribution tooltip -->
     <g class="movies-group" transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">244 Movies</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">245 Movies</text>
       <g class="movies-tooltip" transform="translate(-30, -116)">
         <rect x="0" y="0" width="260" height="108" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
         <text x="130" y="15" font-size="11" font-weight="600" fill="#f0f6fc" text-anchor="middle">Rating Distribution (5 unrated)</text>
@@ -177,10 +177,10 @@
         <text x="118" y="53" font-size="8" fill="#f0f6fc" text-anchor="middle">25</text>
         <rect x="111" y="56" width="14" height="14" rx="2" fill="#26a641"/>
         <text x="118" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">2.5</text>
-        <text x="142" y="33" font-size="8" fill="#f0f6fc" text-anchor="middle">58</text>
-        <rect x="135" y="36" width="14" height="34" rx="2" fill="#26a641"/>
+        <text x="142" y="34" font-size="8" fill="#f0f6fc" text-anchor="middle">58</text>
+        <rect x="135" y="37" width="14" height="33" rx="2" fill="#26a641"/>
         <text x="142" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">3</text>
-        <text x="166" y="27" font-size="8" fill="#f0f6fc" text-anchor="middle">69</text>
+        <text x="166" y="27" font-size="8" fill="#f0f6fc" text-anchor="middle">70</text>
         <rect x="159" y="30" width="14" height="40" rx="2" fill="#39d353"/>
         <text x="166" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">3.5</text>
         <text x="190" y="34" font-size="8" fill="#f0f6fc" text-anchor="middle">57</text>
@@ -193,13 +193,13 @@
         <rect x="231" y="69" width="14" height="1" rx="2" fill="#39d353"/>
         <text x="238" y="84" font-size="7" fill="#e6edf3" text-anchor="middle">5</text>
         <line x1="12" y1="90" x2="248" y2="90" stroke="#30363d" stroke-width="1"/>
-        <text x="130" y="102" font-size="10" font-weight="500" fill="#7d8590" text-anchor="middle">Ø 3.4★ · 239 rated · ↻ 17 · ♥ 10</text>
+        <text x="130" y="102" font-size="10" font-weight="500" fill="#7d8590" text-anchor="middle">Ø 3.4★ · 240 rated · ↻ 17 · ♥ 10</text>
       </g>
     </g>
 
     <!-- Days Active with hover tooltip -->
     <g class="days-active-group" transform="translate(170, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">194 Days Active</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#7d8590">195 Days Active</text>
       <g class="days-active-tooltip" transform="translate(-20, -115)">
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#f0f6fc" text-anchor="middle">Weekly Distribution</text>
@@ -219,8 +219,8 @@
         <text x="123" y="39" font-size="9" fill="#f0f6fc" text-anchor="middle">36</text>
         <rect x="116" y="42" width="14" height="38" rx="2" fill="#26a641"/>
         <text x="123" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">T</text>
-        <text x="147" y="37" font-size="9" fill="#f0f6fc" text-anchor="middle">38</text>
-        <rect x="140" y="40" width="14" height="40" rx="2" fill="#26a641"/>
+        <text x="147" y="36" font-size="9" fill="#f0f6fc" text-anchor="middle">39</text>
+        <rect x="140" y="39" width="14" height="41" rx="2" fill="#26a641"/>
         <text x="147" y="100" font-size="9" fill="#e6edf3" text-anchor="middle">F</text>
         <text x="171" y="32" font-size="9" fill="#f0f6fc" text-anchor="middle">43</text>
         <rect x="164" y="35" width="14" height="45" rx="2" fill="#26a641"/>
@@ -3542,7 +3542,25 @@
         </g>
       </a>
     </g>
-    <rect class="cell" x="731" y="85" width="14" height="14" rx="2" fill="#161b22" style="animation-delay:498ms"/>
+    <g class="cell-group">
+      <a href="https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/30/">
+        <rect class="cell"
+          x="731"
+          y="85"
+          width="14"
+          height="14"
+          rx="2"
+          fill="#0e4429" style="animation-delay:498ms"
+        />
+        <g class="tooltip-group" transform="translate(699, 21)">
+          <rect x="0" y="0" width="240" height="56" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1"/>
+          <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#f0f6fc">
+            <tspan x="10" dy="22" font-weight="600">Fri, 30. Oct 2026: 1 movie watched</tspan>
+            <tspan x="10" dy="18">• KINKI (2025) - 3.5★</tspan>
+          </text>
+        </g>
+      </a>
+    </g>
     <rect class="cell" x="748" y="85" width="14" height="14" rx="2" fill="#161b22" style="animation-delay:509ms"/>
     <rect class="cell" x="765" y="85" width="14" height="14" rx="2" fill="#161b22" style="animation-delay:520ms"/>
     <rect class="cell" x="782" y="85" width="14" height="14" rx="2" fill="#161b22" style="animation-delay:531ms"/>

@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-30T05:23:20.176Z",
+  "generatedAt": "2026-10-31T05:06:59.115Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 7
   },
   "stats": {
-    "films": 676,
-    "daysActive": 479,
+    "films": 677,
+    "daysActive": 480,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 39,
@@ -16765,10 +16765,24 @@
       "date": "2026-10-30",
       "week": 95,
       "weekday": 5,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "KINKI",
+          "year": "2025",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/kinki-2025/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1284291",
+          "lid": "RT1I",
+          "slug": "kinki-2025"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/30/"
     },
@@ -30075,9 +30089,44 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/29/"
+    },
+    {
+      "date": "2026-10-30",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "KINKI",
+          "year": "2025",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/kinki-2025/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1284291",
+          "lid": "RT1I",
+          "slug": "kinki-2025"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/30/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-30",
+      "title": "KINKI",
+      "year": "2025",
+      "rating": 3.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/kinki-2025/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:1284291",
+      "lid": "RT1I",
+      "slug": "kinki-2025"
+    },
     {
       "date": "2026-10-29",
       "title": "Under the Shadow",
@@ -30287,20 +30336,6 @@
       "filmUid": "film:891347",
       "lid": "BoNE",
       "slug": "mononoke-the-movie-the-phantom-in-the-rain"
-    },
-    {
-      "date": "2026-10-13",
-      "title": "In the Mouth of Madness",
-      "year": "1994",
-      "rating": 3,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/in-the-mouth-of-madness/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:50166",
-      "lid": "26vi",
-      "slug": "in-the-mouth-of-madness"
     }
   ],
   "byYear": {
@@ -38292,28 +38327,28 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 244,
-      "distinctFilms": 242,
+      "entries": 245,
+      "distinctFilms": 243,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-10-29",
-      "spanDays": 302,
-      "daysActive": 194,
+      "lastEntry": "2026-10-30",
+      "spanDays": 303,
+      "daysActive": 195,
       "multiFilmDays": 39,
       "rewatches": 17,
       "liked": 10,
-      "rated": 239,
+      "rated": 240,
       "releaseBreakdown": {
         "sameYear": 31,
-        "older": 213,
+        "older": 214,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 227,
+        "firstWatches": 228,
         "rewatches": 17
       },
       "reviewBreakdown": {
         "reviewed": 29,
-        "notReviewed": 215
+        "notReviewed": 216
       },
       "averageRating": 3.4,
       "perDay": 0.81,
@@ -38337,8 +38372,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 244,
-          "days": 194
+          "films": 245,
+          "days": 195
         }
       ],
       "perWeekday": [
@@ -38347,7 +38382,7 @@
         28,
         36,
         36,
-        38,
+        39,
         43
       ],
       "perMonthOfYear": [
@@ -38360,7 +38395,7 @@
         23,
         29,
         20,
-        30,
+        31,
         0,
         0
       ],
@@ -38403,7 +38438,7 @@
         },
         {
           "month": "2026-10",
-          "count": 30
+          "count": 31
         }
       ],
       "weekSeries": [
@@ -38669,7 +38704,7 @@
           "week": 44,
           "start": "2026-10-26",
           "end": "2026-11-01",
-          "count": 3
+          "count": 4
         },
         {
           "week": 45,
@@ -38749,7 +38784,7 @@
         },
         {
           "rating": 3.5,
-          "count": 69
+          "count": 70
         },
         {
           "rating": 4,
@@ -38840,7 +38875,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 117,
+          "count": 118,
           "averageRating": 3.5
         }
       ],
@@ -38939,47 +38974,47 @@
           "slug": "the-priests"
         },
         {
-          "n": 244,
+          "n": 245,
           "kind": "latest",
-          "date": "2026-10-29",
-          "title": "Under the Shadow",
-          "year": "2016",
+          "date": "2026-10-30",
+          "title": "KINKI",
+          "year": "2025",
           "rating": 3.5,
-          "url": "https://letterboxd.com/darthrosenberg/film/under-the-shadow/",
+          "url": "https://letterboxd.com/darthrosenberg/film/kinki-2025/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:310401",
-          "lid": "d1uG",
-          "slug": "under-the-shadow"
+          "filmUid": "film:1284291",
+          "lid": "RT1I",
+          "slug": "kinki-2025"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3417,
-    "entries": 2991,
-    "distinctFilms": 2895,
+    "films": 3418,
+    "entries": 2992,
+    "distinctFilms": 2896,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-10-29",
-    "spanDays": 5624,
-    "daysActive": 1665,
+    "lastEntry": "2026-10-30",
+    "spanDays": 5625,
+    "daysActive": 1666,
     "multiFilmDays": 723,
     "rewatches": 106,
     "liked": 135,
-    "rated": 2810,
+    "rated": 2811,
     "releaseBreakdown": {
       "sameYear": 294,
-      "older": 2696,
+      "older": 2697,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2885,
+      "firstWatches": 2886,
       "rewatches": 106
     },
     "reviewBreakdown": {
       "reviewed": 232,
-      "notReviewed": 2759
+      "notReviewed": 2760
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -39073,8 +39108,8 @@
       },
       {
         "year": 2026,
-        "films": 244,
-        "days": 194
+        "films": 245,
+        "days": 195
       }
     ],
     "perWeekday": [
@@ -39083,7 +39118,7 @@
       364,
       377,
       346,
-      487,
+      488,
       480
     ],
     "perMonthOfYear": [
@@ -39096,7 +39131,7 @@
       220,
       208,
       341,
-      477,
+      478,
       240,
       190
     ],
@@ -39839,7 +39874,7 @@
       },
       {
         "month": "2026-10",
-        "count": 30
+        "count": 31
       }
     ],
     "weekSeries": [],
@@ -39870,7 +39905,7 @@
       },
       {
         "rating": 3.5,
-        "count": 802
+        "count": 803
       },
       {
         "rating": 4,
@@ -39967,7 +40002,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 804,
+        "count": 805,
         "averageRating": 3.5
       }
     ],
@@ -40960,18 +40995,18 @@
         "slug": "mon-oncle"
       },
       {
-        "n": 2991,
+        "n": 2992,
         "kind": "latest",
-        "date": "2026-10-29",
-        "title": "Under the Shadow",
-        "year": "2016",
+        "date": "2026-10-30",
+        "title": "KINKI",
+        "year": "2025",
         "rating": 3.5,
-        "url": "https://letterboxd.com/darthrosenberg/film/under-the-shadow/",
+        "url": "https://letterboxd.com/darthrosenberg/film/kinki-2025/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:310401",
-        "lid": "d1uG",
-        "slug": "under-the-shadow"
+        "filmUid": "film:1284291",
+        "lid": "RT1I",
+        "slug": "kinki-2025"
       }
     ]
   }
