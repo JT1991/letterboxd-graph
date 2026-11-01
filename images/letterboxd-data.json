@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-10-31T05:06:59.115Z",
+  "generatedAt": "2026-11-01T05:38:09.299Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -15,14 +15,14 @@
     "endDate": "2026-12-31",
     "alignedStart": "2024-12-29",
     "weeks": 105,
-    "maxCount": 7
+    "maxCount": 9
   },
   "stats": {
-    "films": 677,
-    "daysActive": 480,
+    "films": 686,
+    "daysActive": 481,
     "streak": 17,
     "streakFilms": 29,
-    "rewatches": 39,
+    "rewatches": 42,
     "liked": 31
   },
   "monthLabels": [
@@ -216,7 +216,7 @@
           "slug": "the-royal-hotel"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/01/02/"
     },
@@ -330,7 +330,7 @@
           "slug": "guardians-of-the-formula"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/01/05/"
     },
@@ -368,7 +368,7 @@
           "slug": "otherlife"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/01/06/"
     },
@@ -481,7 +481,7 @@
           "slug": "river-2023-1"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/01/10/"
     },
@@ -544,7 +544,7 @@
           "slug": "contempt"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/01/12/"
     },
@@ -718,7 +718,7 @@
           "slug": "the-order-2024"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/01/19/"
     },
@@ -756,7 +756,7 @@
           "slug": "all-quiet-on-the-western-front-2022"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/01/20/"
     },
@@ -820,7 +820,7 @@
           "slug": "nosferatu-2024"
         }
       ],
-      "level": 3,
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/01/21/"
     },
@@ -883,7 +883,7 @@
           "slug": "tellervo"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/01/23/"
     },
@@ -932,7 +932,7 @@
           "slug": "the-producers"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/01/25/"
     },
@@ -1089,7 +1089,7 @@
           "slug": "nights-of-cabiria"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/02/02/"
     },
@@ -1138,7 +1138,7 @@
           "slug": "the-watchman-2024"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/02/04/"
     },
@@ -1251,7 +1251,7 @@
           "slug": "the-lost-honor-of-katharina-blum"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/02/08/"
     },
@@ -1289,7 +1289,7 @@
           "slug": "to-each-his-own-cinema"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/02/09/"
     },
@@ -1389,7 +1389,7 @@
           "slug": "witness-of-another-world"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/02/12/"
     },
@@ -1452,7 +1452,7 @@
           "slug": "the-sword-of-doom"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/02/14/"
     },
@@ -1516,7 +1516,7 @@
           "slug": "mystery-train"
         }
       ],
-      "level": 3,
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/02/15/"
     },
@@ -1554,7 +1554,7 @@
           "slug": "sister-wives"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/02/16/"
     },
@@ -1700,7 +1700,7 @@
           "slug": "the-delinquents-2023"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/02/23/"
     },
@@ -1763,7 +1763,7 @@
           "slug": "the-monkey-2025"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/02/25/"
     },
@@ -1801,7 +1801,7 @@
           "slug": "timestalker"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/02/26/"
     },
@@ -1886,7 +1886,7 @@
           "slug": "le-samourai"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/03/02/"
     },
@@ -2072,7 +2072,7 @@
           "slug": "gandahar"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/03/09/"
     },
@@ -2146,7 +2146,7 @@
           "slug": "parasite-2019"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/03/12/"
     },
@@ -2195,7 +2195,7 @@
           "slug": "companion-2025"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/03/14/"
     },
@@ -2269,7 +2269,7 @@
           "slug": "cloud-2024"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/03/17/"
     },
@@ -2484,7 +2484,7 @@
           "slug": "five-minutes"
         }
       ],
-      "level": 3,
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/03/23/"
     },
@@ -2608,7 +2608,7 @@
           "slug": "dead-talents-society"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/03/28/"
     },
@@ -2930,7 +2930,7 @@
           "slug": "elbow"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/04/10/"
     },
@@ -3116,7 +3116,7 @@
           "slug": "night-games"
         }
       ],
-      "level": 3,
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/04/17/"
     },
@@ -3154,7 +3154,7 @@
           "slug": "demons-2"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/04/18/"
     },
@@ -3192,7 +3192,7 @@
           "slug": "the-blood-on-satans-claw"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/04/19/"
     },
@@ -3230,7 +3230,7 @@
           "slug": "twisters"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/04/20/"
     },
@@ -3268,7 +3268,7 @@
           "slug": "black-cat-white-cat"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/04/21/"
     },
@@ -3331,7 +3331,7 @@
           "slug": "the-debutante-2022"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/04/23/"
     },
@@ -3416,7 +3416,7 @@
           "slug": "the-beyond"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/04/27/"
     },
@@ -3530,7 +3530,7 @@
           "slug": "macario"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/04/30/"
     },
@@ -3619,7 +3619,7 @@
           "slug": "fire-in-the-sky"
         }
       ],
-      "level": 3,
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/05/02/"
     },
@@ -3657,7 +3657,7 @@
           "slug": "the-caller-2011"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/05/03/"
     },
@@ -3695,7 +3695,7 @@
           "slug": "dji-death-fails"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/05/04/"
     },
@@ -3844,7 +3844,7 @@
           "slug": "sisi-i"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/05/10/"
     },
@@ -3969,7 +3969,7 @@
           "slug": "the-eggregores-theory-2024"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/05/14/"
     },
@@ -4093,7 +4093,7 @@
           "slug": "female-prisoner-701-scorpion"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/05/19/"
     },
@@ -4178,7 +4178,7 @@
           "slug": "singapore-sling"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/05/23/"
     },
@@ -4267,7 +4267,7 @@
           "slug": "mon-oncle"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/05/25/"
     },
@@ -4305,7 +4305,7 @@
           "slug": "ice-merchants"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/05/26/"
     },
@@ -4476,7 +4476,7 @@
           "slug": "into-the-blue-2017"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/06/03/"
     },
@@ -4589,7 +4589,7 @@
           "slug": "the-10th-victim"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/06/07/"
     },
@@ -5094,7 +5094,7 @@
           "slug": "the-gorgon"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/06/29/"
     },
@@ -5304,7 +5304,7 @@
           "slug": "woman-in-chains"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/07/08/"
     },
@@ -5342,7 +5342,7 @@
           "slug": "poison-for-the-fairies"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/07/09/"
     },
@@ -5527,7 +5527,7 @@
           "slug": "nova-alice"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/07/17/"
     },
@@ -5737,7 +5737,7 @@
           "slug": "minbo-or-the-gentle-art-of-japanese-extortion"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/07/26/"
     },
@@ -5826,7 +5826,7 @@
           "slug": "virunga"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/07/28/"
     },
@@ -5889,7 +5889,7 @@
           "slug": "she-lives-alone"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/07/30/"
     },
@@ -5963,7 +5963,7 @@
           "slug": "28-years-later"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/08/02/"
     },
@@ -6101,7 +6101,7 @@
           "slug": "brick-2025"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/08/07/"
     },
@@ -6139,7 +6139,7 @@
           "slug": "medusa-2021"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/08/08/"
     },
@@ -6408,7 +6408,7 @@
           "slug": "dangerous-animals"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/08/20/"
     },
@@ -6471,7 +6471,7 @@
           "slug": "repulsion"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/08/22/"
     },
@@ -6620,7 +6620,7 @@
           "slug": "the-coffee-table"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/08/28/"
     },
@@ -6658,7 +6658,7 @@
           "slug": "the-hole"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/08/29/"
     },
@@ -6696,7 +6696,7 @@
           "slug": "your-vice-is-a-locked-room-and-only-i-have-the-key"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/08/30/"
     },
@@ -6734,7 +6734,7 @@
           "slug": "das-boot"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/08/31/"
     },
@@ -6797,7 +6797,7 @@
           "slug": "the-chaser"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/09/02/"
     },
@@ -7022,7 +7022,7 @@
           "slug": "moon-2024"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/09/10/"
     },
@@ -7111,7 +7111,7 @@
           "slug": "106013"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/09/12/"
     },
@@ -7174,7 +7174,7 @@
           "slug": "resident-evil"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/09/14/"
     },
@@ -7212,7 +7212,7 @@
           "slug": "little-bone-lodge"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/09/15/"
     },
@@ -7444,7 +7444,7 @@
           "slug": "the-isle"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/09/26/"
     },
@@ -7482,7 +7482,7 @@
           "slug": "one-battle-after-another"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/09/27/"
     },
@@ -7606,7 +7606,7 @@
           "slug": "there-is-no-evil"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/10/02/"
     },
@@ -7644,7 +7644,7 @@
           "slug": "sweet-home"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/10/03/"
     },
@@ -7682,7 +7682,7 @@
           "slug": "welcome-back-mr-mcdonald"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/10/04/"
     },
@@ -7771,7 +7771,7 @@
           "slug": "secret-things"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/10/06/"
     },
@@ -7961,7 +7961,7 @@
           "slug": "out-of-the-dark-1995"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/10/11/"
     },
@@ -8074,7 +8074,7 @@
           "slug": "a-field-in-england"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/10/15/"
     },
@@ -8174,7 +8174,7 @@
           "slug": "casting-the-runes"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/10/18/"
     },
@@ -8323,7 +8323,7 @@
           "slug": "when-the-screaming-starts"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/10/24/"
     },
@@ -8361,7 +8361,7 @@
           "slug": "witchhammer"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/10/25/"
     },
@@ -8500,7 +8500,7 @@
           "slug": "bones-and-all"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/10/29/"
     },
@@ -8538,7 +8538,7 @@
           "slug": "super-dark-times"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/10/30/"
     },
@@ -8679,7 +8679,7 @@
           "slug": "daddy-superior"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/11/01/"
     },
@@ -8986,7 +8986,7 @@
           "slug": "in-my-room-2018"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/11/15/"
     },
@@ -9024,7 +9024,7 @@
           "slug": "a-hero"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/11/16/"
     },
@@ -9449,7 +9449,7 @@
           "slug": "four-days-in-september"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/12/02/"
     },
@@ -9523,7 +9523,7 @@
           "slug": "sirat-2025"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/12/05/"
     },
@@ -9572,7 +9572,7 @@
           "slug": "ruminate"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/12/07/"
     },
@@ -9621,7 +9621,7 @@
           "slug": "hysteria-2025-1"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/12/09/"
     },
@@ -9684,7 +9684,7 @@
           "slug": "blue-eye-samurai"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/12/11/"
     },
@@ -10069,7 +10069,7 @@
           "slug": "ne-zha"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/12/31/"
     },
@@ -10157,7 +10157,7 @@
           "slug": "the-wolfs-call"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/01/03/"
     },
@@ -10536,7 +10536,7 @@
           "slug": "lavance"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/01/21/"
     },
@@ -10740,7 +10740,7 @@
           "slug": "send-help"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/02/01/"
     },
@@ -10958,7 +10958,7 @@
           "slug": "gaua-the-night"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/02/12/"
     },
@@ -11303,7 +11303,7 @@
           "slug": "the-battle-of-algiers"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/02/26/"
     },
@@ -11392,7 +11392,7 @@
           "slug": "offside"
         }
       ],
-      "level": 3,
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/02/28/"
     },
@@ -11430,7 +11430,7 @@
           "slug": "the-ice-tower"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/03/01/"
     },
@@ -11468,7 +11468,7 @@
           "slug": "scream-7"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/03/02/"
     },
@@ -11542,7 +11542,7 @@
           "slug": "the-magician-1958"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/03/05/"
     },
@@ -11793,7 +11793,7 @@
           "slug": "love-letters-2025"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/03/19/"
     },
@@ -11972,7 +11972,7 @@
           "slug": "children-of-men"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/03/29/"
     },
@@ -12315,7 +12315,7 @@
           "slug": "my-wrongs-8245-8249-117"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/04/14/"
     },
@@ -12533,7 +12533,7 @@
           "slug": "the-voices"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/04/25/"
     },
@@ -12869,7 +12869,7 @@
           "slug": "stray-dog"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/05/08/"
     },
@@ -13007,7 +13007,7 @@
           "slug": "wasteman"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/05/13/"
     },
@@ -13391,7 +13391,7 @@
           "slug": "omelia-contadina"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/05/28/"
     },
@@ -13997,7 +13997,7 @@
           "slug": "heart-of-glass"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/06/28/"
     },
@@ -14229,7 +14229,7 @@
           "slug": "charisma"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/07/09/"
     },
@@ -14403,7 +14403,7 @@
           "slug": "school-for-postmen"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/07/16/"
     },
@@ -14718,7 +14718,7 @@
           "slug": "the-student-of-prague-1913"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/08/01/"
     },
@@ -14850,7 +14850,7 @@
           "slug": "housebound"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/08/08/"
     },
@@ -14971,7 +14971,7 @@
           "slug": "near-dark"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/08/14/"
     },
@@ -15114,7 +15114,7 @@
           "slug": "interruption"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/08/22/"
     },
@@ -15152,7 +15152,7 @@
           "slug": "the-kings-warden"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/08/23/"
     },
@@ -15454,7 +15454,7 @@
           "slug": "the-captain-2017"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/09/01/"
     },
@@ -15780,7 +15780,7 @@
           "slug": "koko-di-koko-da"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/09/18/"
     },
@@ -15843,7 +15843,7 @@
           "slug": "ikiru"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/09/20/"
     },
@@ -16061,7 +16061,7 @@
           "slug": "1974-the-possession-of-altair"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/01/"
     },
@@ -16286,7 +16286,7 @@
           "slug": "gatlopp-hell-of-a-game"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/09/"
     },
@@ -16571,7 +16571,7 @@
           "slug": "see-no-evil"
         }
       ],
-      "level": 2,
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/21/"
     },
@@ -16790,10 +16790,128 @@
       "date": "2026-10-31",
       "week": 95,
       "weekday": 6,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 9,
+      "ratingAvg": 3.3,
+      "films": [
+        {
+          "title": "The Autopsy of Jane Doe",
+          "year": "2016",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/the-autopsy-of-jane-doe/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:331539",
+          "lid": "dUu2",
+          "slug": "the-autopsy-of-jane-doe"
+        },
+        {
+          "title": "Terrified",
+          "year": "2017",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/terrified-2017/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:419979",
+          "lid": "hCyy",
+          "slug": "terrified-2017"
+        },
+        {
+          "title": "Suspiria",
+          "year": "1977",
+          "rating": 4,
+          "rewatch": true,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/suspiria/1/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:44900",
+          "lid": "1SNW",
+          "slug": "suspiria"
+        },
+        {
+          "title": "Trick 'r Treat",
+          "year": "2007",
+          "rating": 3.5,
+          "rewatch": true,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/trick-r-treat/2/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:37483",
+          "lid": "1zvE",
+          "slug": "trick-r-treat"
+        },
+        {
+          "title": "Inside No. 9: Dead Line",
+          "year": "2018",
+          "rating": 4,
+          "rewatch": true,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/inside-no-9-dead-line/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1253608",
+          "lid": "QBcQ",
+          "slug": "inside-no-9-dead-line"
+        },
+        {
+          "title": "Playing God",
+          "year": "2024",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/playing-god-2024-2/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1201183",
+          "lid": "OoPc",
+          "slug": "playing-god-2024-2"
+        },
+        {
+          "title": "Hoax",
+          "year": "",
+          "rating": 2,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/hoax-2/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1664459",
+          "lid": "17Q18",
+          "slug": "hoax-2"
+        },
+        {
+          "title": "Five Star",
+          "year": "2025",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/five-star-2025/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1347085",
+          "lid": "UwnM",
+          "slug": "five-star-2025"
+        },
+        {
+          "title": "Drum Wave",
+          "year": "2018",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/drum-wave/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:452674",
+          "lid": "iZBW",
+          "slug": "drum-wave"
+        }
+      ],
+      "level": 4,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/31/"
     },
@@ -30110,9 +30228,260 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/30/"
+    },
+    {
+      "date": "2026-10-31",
+      "count": 9,
+      "ratingAvg": 3.3,
+      "films": [
+        {
+          "title": "The Autopsy of Jane Doe",
+          "year": "2016",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/the-autopsy-of-jane-doe/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:331539",
+          "lid": "dUu2",
+          "slug": "the-autopsy-of-jane-doe"
+        },
+        {
+          "title": "Terrified",
+          "year": "2017",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/terrified-2017/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:419979",
+          "lid": "hCyy",
+          "slug": "terrified-2017"
+        },
+        {
+          "title": "Suspiria",
+          "year": "1977",
+          "rating": 4,
+          "rewatch": true,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/suspiria/1/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:44900",
+          "lid": "1SNW",
+          "slug": "suspiria"
+        },
+        {
+          "title": "Trick 'r Treat",
+          "year": "2007",
+          "rating": 3.5,
+          "rewatch": true,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/trick-r-treat/2/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:37483",
+          "lid": "1zvE",
+          "slug": "trick-r-treat"
+        },
+        {
+          "title": "Inside No. 9: Dead Line",
+          "year": "2018",
+          "rating": 4,
+          "rewatch": true,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/inside-no-9-dead-line/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1253608",
+          "lid": "QBcQ",
+          "slug": "inside-no-9-dead-line"
+        },
+        {
+          "title": "Playing God",
+          "year": "2024",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/playing-god-2024-2/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1201183",
+          "lid": "OoPc",
+          "slug": "playing-god-2024-2"
+        },
+        {
+          "title": "Hoax",
+          "year": "",
+          "rating": 2,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/hoax-2/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1664459",
+          "lid": "17Q18",
+          "slug": "hoax-2"
+        },
+        {
+          "title": "Five Star",
+          "year": "2025",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/five-star-2025/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1347085",
+          "lid": "UwnM",
+          "slug": "five-star-2025"
+        },
+        {
+          "title": "Drum Wave",
+          "year": "2018",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/drum-wave/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:452674",
+          "lid": "iZBW",
+          "slug": "drum-wave"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/31/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-10-31",
+      "title": "The Autopsy of Jane Doe",
+      "year": "2016",
+      "rating": 3.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/the-autopsy-of-jane-doe/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:331539",
+      "lid": "dUu2",
+      "slug": "the-autopsy-of-jane-doe"
+    },
+    {
+      "date": "2026-10-31",
+      "title": "Terrified",
+      "year": "2017",
+      "rating": 3,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/terrified-2017/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:419979",
+      "lid": "hCyy",
+      "slug": "terrified-2017"
+    },
+    {
+      "date": "2026-10-31",
+      "title": "Suspiria",
+      "year": "1977",
+      "rating": 4,
+      "rewatch": true,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/suspiria/1/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:44900",
+      "lid": "1SNW",
+      "slug": "suspiria"
+    },
+    {
+      "date": "2026-10-31",
+      "title": "Trick 'r Treat",
+      "year": "2007",
+      "rating": 3.5,
+      "rewatch": true,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/trick-r-treat/2/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:37483",
+      "lid": "1zvE",
+      "slug": "trick-r-treat"
+    },
+    {
+      "date": "2026-10-31",
+      "title": "Inside No. 9: Dead Line",
+      "year": "2018",
+      "rating": 4,
+      "rewatch": true,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/inside-no-9-dead-line/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:1253608",
+      "lid": "QBcQ",
+      "slug": "inside-no-9-dead-line"
+    },
+    {
+      "date": "2026-10-31",
+      "title": "Playing God",
+      "year": "2024",
+      "rating": 3.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/playing-god-2024-2/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:1201183",
+      "lid": "OoPc",
+      "slug": "playing-god-2024-2"
+    },
+    {
+      "date": "2026-10-31",
+      "title": "Hoax",
+      "year": "",
+      "rating": 2,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/hoax-2/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:1664459",
+      "lid": "17Q18",
+      "slug": "hoax-2"
+    },
+    {
+      "date": "2026-10-31",
+      "title": "Five Star",
+      "year": "2025",
+      "rating": 3,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/five-star-2025/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:1347085",
+      "lid": "UwnM",
+      "slug": "five-star-2025"
+    },
+    {
+      "date": "2026-10-31",
+      "title": "Drum Wave",
+      "year": "2018",
+      "rating": 3,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/drum-wave/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:452674",
+      "lid": "iZBW",
+      "slug": "drum-wave"
+    },
     {
       "date": "2026-10-30",
       "title": "KINKI",
@@ -30210,132 +30579,6 @@
       "filmUid": "film:45907",
       "lid": "1Vqm",
       "slug": "little-shop-of-horrors"
-    },
-    {
-      "date": "2026-10-22",
-      "title": "Senritsu Kaiki File Kowasugi! The Most Terrifying Movie in History",
-      "year": "2014",
-      "rating": 4,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-the-most-terrifying-movie-in-history/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:769275",
-      "lid": "wheC",
-      "slug": "senritsu-kaiki-file-kowasugi-the-most-terrifying-movie-in-history"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "Senritsu Kaiki File Kowasugi! Preface: True Story of the Ghost of Yotsuya",
-      "year": "2014",
-      "rating": 3.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-preface-true-story-of-the-ghost-of-yotsuya/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:769269",
-      "lid": "whdE",
-      "slug": "senritsu-kaiki-file-kowasugi-preface-true-story-of-the-ghost-of-yotsuya"
-    },
-    {
-      "date": "2026-10-21",
-      "title": "See No Evil",
-      "year": "1971",
-      "rating": 3,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/see-no-evil/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:25010",
-      "lid": "133S",
-      "slug": "see-no-evil"
-    },
-    {
-      "date": "2026-10-20",
-      "title": "What Ever Happened to Baby Jane?",
-      "year": "1962",
-      "rating": 3.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/what-ever-happened-to-baby-jane/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:46411",
-      "lid": "1WJE",
-      "slug": "what-ever-happened-to-baby-jane"
-    },
-    {
-      "date": "2026-10-19",
-      "title": "Pandemonium",
-      "year": "2023",
-      "rating": 2.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/pandemonium-2023/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:974078",
-      "lid": "ES1m",
-      "slug": "pandemonium-2023"
-    },
-    {
-      "date": "2026-10-18",
-      "title": "Heel",
-      "year": "2025",
-      "rating": 3.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/heel-2025/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:1266896",
-      "lid": "R9M4",
-      "slug": "heel-2025"
-    },
-    {
-      "date": "2026-10-17",
-      "title": "Solvent",
-      "year": "2024",
-      "rating": 2,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/solvent/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:1095855",
-      "lid": "JYOO",
-      "slug": "solvent"
-    },
-    {
-      "date": "2026-10-16",
-      "title": "Senritsu Kaiki File Kowasugi! File 04: The Truth! Hanako-san in the Toilet",
-      "year": "2013",
-      "rating": 3.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-file-04-the-truth-hanako-san-in-the-toilet/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:768857",
-      "lid": "wg9c",
-      "slug": "senritsu-kaiki-file-kowasugi-file-04-the-truth-hanako-san-in-the-toilet"
-    },
-    {
-      "date": "2026-10-14",
-      "title": "Mononoke the Movie: The Phantom in the Rain",
-      "year": "2024",
-      "rating": 4,
-      "rewatch": true,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/mononoke-the-movie-the-phantom-in-the-rain/1/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:891347",
-      "lid": "BoNE",
-      "slug": "mononoke-the-movie-the-phantom-in-the-rain"
     }
   ],
   "byYear": {
@@ -38327,33 +38570,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 245,
-      "distinctFilms": 243,
+      "entries": 254,
+      "distinctFilms": 252,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-10-30",
-      "spanDays": 303,
-      "daysActive": 195,
-      "multiFilmDays": 39,
-      "rewatches": 17,
+      "lastEntry": "2026-10-31",
+      "spanDays": 304,
+      "daysActive": 196,
+      "multiFilmDays": 40,
+      "rewatches": 20,
       "liked": 10,
-      "rated": 240,
+      "rated": 249,
       "releaseBreakdown": {
         "sameYear": 31,
-        "older": 214,
-        "other": 0
+        "older": 222,
+        "other": 1
       },
       "watchBreakdown": {
-        "firstWatches": 228,
-        "rewatches": 17
+        "firstWatches": 234,
+        "rewatches": 20
       },
       "reviewBreakdown": {
         "reviewed": 29,
-        "notReviewed": 216
+        "notReviewed": 225
       },
       "averageRating": 3.4,
-      "perDay": 0.81,
-      "perWeek": 5.7,
-      "perMonth": 24.6,
+      "perDay": 0.84,
+      "perWeek": 5.8,
+      "perMonth": 25.4,
       "streak": {
         "length": 11,
         "startDate": "2026-10-16",
@@ -38361,8 +38604,8 @@
         "films": 12
       },
       "busiestDay": {
-        "date": "2026-02-28",
-        "count": 4
+        "date": "2026-10-31",
+        "count": 9
       },
       "longestGap": {
         "days": 5,
@@ -38372,8 +38615,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 245,
-          "days": 195
+          "films": 254,
+          "days": 196
         }
       ],
       "perWeekday": [
@@ -38383,7 +38626,7 @@
         36,
         36,
         39,
-        43
+        52
       ],
       "perMonthOfYear": [
         21,
@@ -38395,7 +38638,7 @@
         23,
         29,
         20,
-        31,
+        40,
         0,
         0
       ],
@@ -38438,7 +38681,7 @@
         },
         {
           "month": "2026-10",
-          "count": 31
+          "count": 40
         }
       ],
       "weekSeries": [
@@ -38704,7 +38947,7 @@
           "week": 44,
           "start": "2026-10-26",
           "end": "2026-11-01",
-          "count": 4
+          "count": 13
         },
         {
           "week": 45,
@@ -38772,7 +39015,7 @@
         },
         {
           "rating": 2,
-          "count": 6
+          "count": 7
         },
         {
           "rating": 2.5,
@@ -38780,15 +39023,15 @@
         },
         {
           "rating": 3,
-          "count": 58
+          "count": 61
         },
         {
           "rating": 3.5,
-          "count": 70
+          "count": 73
         },
         {
           "rating": 4,
-          "count": 57
+          "count": 59
         },
         {
           "rating": 4.5,
@@ -38845,7 +39088,7 @@
         {
           "decade": 1970,
           "label": "1970s",
-          "count": 12,
+          "count": 13,
           "averageRating": 3.5
         },
         {
@@ -38863,19 +39106,19 @@
         {
           "decade": 2000,
           "label": "2000s",
-          "count": 16,
+          "count": 17,
           "averageRating": 4
         },
         {
           "decade": 2010,
           "label": "2010s",
-          "count": 45,
+          "count": 49,
           "averageRating": 3.5
         },
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 118,
+          "count": 120,
           "averageRating": 3.5
         }
       ],
@@ -38974,47 +39217,61 @@
           "slug": "the-priests"
         },
         {
-          "n": 245,
-          "kind": "latest",
-          "date": "2026-10-30",
-          "title": "KINKI",
-          "year": "2025",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/darthrosenberg/film/kinki-2025/",
+          "n": 250,
+          "kind": "step",
+          "date": "2026-10-31",
+          "title": "Inside No. 9: Dead Line",
+          "year": "2018",
+          "rating": 4,
+          "url": "https://letterboxd.com/darthrosenberg/film/inside-no-9-dead-line/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:1284291",
-          "lid": "RT1I",
-          "slug": "kinki-2025"
+          "filmUid": "film:1253608",
+          "lid": "QBcQ",
+          "slug": "inside-no-9-dead-line"
+        },
+        {
+          "n": 254,
+          "kind": "latest",
+          "date": "2026-10-31",
+          "title": "Drum Wave",
+          "year": "2018",
+          "rating": 3,
+          "url": "https://letterboxd.com/darthrosenberg/film/drum-wave/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:452674",
+          "lid": "iZBW",
+          "slug": "drum-wave"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3418,
-    "entries": 2992,
-    "distinctFilms": 2896,
+    "films": 3425,
+    "entries": 3001,
+    "distinctFilms": 2903,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-10-30",
-    "spanDays": 5625,
-    "daysActive": 1666,
-    "multiFilmDays": 723,
-    "rewatches": 106,
+    "lastEntry": "2026-10-31",
+    "spanDays": 5626,
+    "daysActive": 1667,
+    "multiFilmDays": 724,
+    "rewatches": 109,
     "liked": 135,
-    "rated": 2811,
+    "rated": 2820,
     "releaseBreakdown": {
       "sameYear": 294,
-      "older": 2697,
-      "other": 1
+      "older": 2705,
+      "other": 2
     },
     "watchBreakdown": {
-      "firstWatches": 2886,
-      "rewatches": 106
+      "firstWatches": 2892,
+      "rewatches": 109
     },
     "reviewBreakdown": {
       "reviewed": 232,
-      "notReviewed": 2760
+      "notReviewed": 2769
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -39108,8 +39365,8 @@
       },
       {
         "year": 2026,
-        "films": 245,
-        "days": 195
+        "films": 254,
+        "days": 196
       }
     ],
     "perWeekday": [
@@ -39119,7 +39376,7 @@
       377,
       346,
       488,
-      480
+      489
     ],
     "perMonthOfYear": [
       207,
@@ -39131,7 +39388,7 @@
       220,
       208,
       341,
-      478,
+      487,
       240,
       190
     ],
@@ -39874,7 +40131,7 @@
       },
       {
         "month": "2026-10",
-        "count": 31
+        "count": 40
       }
     ],
     "weekSeries": [],
@@ -39893,7 +40150,7 @@
       },
       {
         "rating": 2,
-        "count": 73
+        "count": 74
       },
       {
         "rating": 2.5,
@@ -39901,15 +40158,15 @@
       },
       {
         "rating": 3,
-        "count": 626
+        "count": 629
       },
       {
         "rating": 3.5,
-        "count": 803
+        "count": 806
       },
       {
         "rating": 4,
-        "count": 678
+        "count": 680
       },
       {
         "rating": 4.5,
@@ -39972,7 +40229,7 @@
       {
         "decade": 1970,
         "label": "1970s",
-        "count": 166,
+        "count": 167,
         "averageRating": 3.5
       },
       {
@@ -39990,19 +40247,19 @@
       {
         "decade": 2000,
         "label": "2000s",
-        "count": 372,
+        "count": 373,
         "averageRating": 3.5
       },
       {
         "decade": 2010,
         "label": "2010s",
-        "count": 947,
+        "count": 951,
         "averageRating": 3.5
       },
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 805,
+        "count": 807,
         "averageRating": 3.5
       }
     ],
@@ -40056,6 +40313,16 @@
         "slug": "the-man-from-earth",
         "views": 3,
         "averageRating": 4
+      },
+      {
+        "title": "Trick 'r Treat",
+        "year": "2007",
+        "url": "https://letterboxd.com/darthrosenberg/film/trick-r-treat/",
+        "filmUid": "film:37483",
+        "lid": "1zvE",
+        "slug": "trick-r-treat",
+        "views": 3,
+        "averageRating": 3.5
       },
       {
         "title": "Tucker and Dale vs. Evil",
@@ -40608,6 +40875,16 @@
         "averageRating": 3.5
       },
       {
+        "title": "Suspiria",
+        "year": "1977",
+        "url": "https://letterboxd.com/darthrosenberg/film/suspiria/",
+        "filmUid": "film:44900",
+        "lid": "1SNW",
+        "slug": "suspiria",
+        "views": 2,
+        "averageRating": 4.5
+      },
+      {
         "title": "Talk to Me",
         "year": "2022",
         "url": "https://letterboxd.com/darthrosenberg/film/talk-to-me-2022/",
@@ -40828,16 +41105,6 @@
         "averageRating": 4.5
       },
       {
-        "title": "Trick 'r Treat",
-        "year": "2007",
-        "url": "https://letterboxd.com/darthrosenberg/film/trick-r-treat/",
-        "filmUid": "film:37483",
-        "lid": "1zvE",
-        "slug": "trick-r-treat",
-        "views": 2,
-        "averageRating": 3.5
-      },
-      {
         "title": "Twisters",
         "year": "2024",
         "url": "https://letterboxd.com/darthrosenberg/film/twisters/",
@@ -40908,7 +41175,7 @@
         "averageRating": 4.5
       }
     ],
-    "milestoneStep": 500,
+    "milestoneStep": 1000,
     "milestones": [
       {
         "n": 1,
@@ -40925,20 +41192,6 @@
         "slug": "cashback"
       },
       {
-        "n": 500,
-        "kind": "step",
-        "date": "2020-10-29",
-        "title": "Dogtooth",
-        "year": "2009",
-        "rating": 4,
-        "url": "https://letterboxd.com/darthrosenberg/film/dogtooth/",
-        "reviewed": false,
-        "reviewUrl": null,
-        "filmUid": "film:25809",
-        "lid": "158K",
-        "slug": "dogtooth"
-      },
-      {
         "n": 1000,
         "kind": "step",
         "date": "2022-05-06",
@@ -40951,20 +41204,6 @@
         "filmUid": "film:51801",
         "lid": "2aL0",
         "slug": "stolen-kisses"
-      },
-      {
-        "n": 1500,
-        "kind": "step",
-        "date": "2023-06-09",
-        "title": "Blue Ruin",
-        "year": "2013",
-        "rating": 3.5,
-        "url": "https://letterboxd.com/darthrosenberg/film/blue-ruin/",
-        "reviewed": false,
-        "reviewUrl": null,
-        "filmUid": "film:135747",
-        "lid": "5H8G",
-        "slug": "blue-ruin"
       },
       {
         "n": 2000,
@@ -40981,32 +41220,32 @@
         "slug": "seance-on-a-wet-afternoon"
       },
       {
-        "n": 2500,
+        "n": 3000,
         "kind": "step",
-        "date": "2025-05-25",
-        "title": "Mon Oncle",
-        "year": "1958",
-        "rating": 4,
-        "url": "https://letterboxd.com/darthrosenberg/film/mon-oncle/",
+        "date": "2026-10-31",
+        "title": "Five Star",
+        "year": "2025",
+        "rating": 3,
+        "url": "https://letterboxd.com/darthrosenberg/film/five-star-2025/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:51668",
-        "lid": "2apy",
-        "slug": "mon-oncle"
+        "filmUid": "film:1347085",
+        "lid": "UwnM",
+        "slug": "five-star-2025"
       },
       {
-        "n": 2992,
+        "n": 3001,
         "kind": "latest",
-        "date": "2026-10-30",
-        "title": "KINKI",
-        "year": "2025",
-        "rating": 3.5,
-        "url": "https://letterboxd.com/darthrosenberg/film/kinki-2025/",
+        "date": "2026-10-31",
+        "title": "Drum Wave",
+        "year": "2018",
+        "rating": 3,
+        "url": "https://letterboxd.com/darthrosenberg/film/drum-wave/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:1284291",
-        "lid": "RT1I",
-        "slug": "kinki-2025"
+        "filmUid": "film:452674",
+        "lid": "iZBW",
+        "slug": "drum-wave"
       }
     ]
   }

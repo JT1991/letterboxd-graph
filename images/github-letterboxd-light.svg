@@ -92,7 +92,7 @@
         <tspan fill="#656d76">@darthrosenberg</tspan>
       </a>
       <tspan dx="5" fill="#656d76">•</tspan>
-      <tspan dx="5" fill="#1f2328">3418</tspan>
+      <tspan dx="5" fill="#1f2328">3425</tspan>
       <tspan fill="#656d76"> Films</tspan>
       <tspan dx="5" fill="#656d76">•</tspan>
       <tspan dx="5" fill="#1f2328">0</tspan>
@@ -135,7 +135,7 @@
         <text x="179" y="63" font-size="8" fill="#1f2328" text-anchor="middle">12</text>
         <rect x="171" y="66" width="16" height="4" rx="2" fill="#30a14e"/>
         <text x="179" y="84" font-size="7" fill="#1f2328" text-anchor="middle">1960s</text>
-        <text x="205" y="63" font-size="8" fill="#1f2328" text-anchor="middle">12</text>
+        <text x="205" y="63" font-size="8" fill="#1f2328" text-anchor="middle">13</text>
         <rect x="197" y="66" width="16" height="4" rx="2" fill="#30a14e"/>
         <text x="205" y="84" font-size="7" fill="#1f2328" text-anchor="middle">1970s</text>
         <text x="231" y="62" font-size="8" fill="#1f2328" text-anchor="middle">15</text>
@@ -144,13 +144,13 @@
         <text x="257" y="63" font-size="8" fill="#1f2328" text-anchor="middle">11</text>
         <rect x="249" y="66" width="16" height="4" rx="2" fill="#30a14e"/>
         <text x="257" y="84" font-size="7" fill="#1f2328" text-anchor="middle">1990s</text>
-        <text x="283" y="62" font-size="8" fill="#1f2328" text-anchor="middle">16</text>
-        <rect x="275" y="65" width="16" height="5" rx="2" fill="#30a14e"/>
+        <text x="283" y="61" font-size="8" fill="#1f2328" text-anchor="middle">17</text>
+        <rect x="275" y="64" width="16" height="6" rx="2" fill="#30a14e"/>
         <text x="283" y="84" font-size="7" fill="#1f2328" text-anchor="middle">2000s</text>
-        <text x="309" y="52" font-size="8" fill="#1f2328" text-anchor="middle">45</text>
-        <rect x="301" y="55" width="16" height="15" rx="2" fill="#30a14e"/>
+        <text x="309" y="51" font-size="8" fill="#1f2328" text-anchor="middle">49</text>
+        <rect x="301" y="54" width="16" height="16" rx="2" fill="#30a14e"/>
         <text x="309" y="84" font-size="7" fill="#1f2328" text-anchor="middle">2010s</text>
-        <text x="335" y="27" font-size="8" fill="#1f2328" text-anchor="middle">118</text>
+        <text x="335" y="27" font-size="8" fill="#1f2328" text-anchor="middle">120</text>
         <rect x="327" y="30" width="16" height="40" rx="2" fill="#30a14e"/>
         <text x="335" y="84" font-size="7" fill="#1f2328" text-anchor="middle">2020s</text>
     </g>
@@ -158,7 +158,7 @@
 
     <!-- Movies with rating distribution tooltip -->
     <g class="movies-group" transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">245 Movies</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">254 Movies</text>
       <g class="movies-tooltip" transform="translate(-30, -116)">
         <rect x="0" y="0" width="260" height="108" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
         <text x="130" y="15" font-size="11" font-weight="600" fill="#1f2328" text-anchor="middle">Rating Distribution (5 unrated)</text>
@@ -171,20 +171,20 @@
         <text x="70" y="66" font-size="8" fill="#1f2328" text-anchor="middle">1</text>
         <rect x="63" y="69" width="14" height="1" rx="2" fill="#40c463"/>
         <text x="70" y="84" font-size="7" fill="#1f2328" text-anchor="middle">1.5</text>
-        <text x="94" y="64" font-size="8" fill="#1f2328" text-anchor="middle">6</text>
-        <rect x="87" y="67" width="14" height="3" rx="2" fill="#40c463"/>
+        <text x="94" y="63" font-size="8" fill="#1f2328" text-anchor="middle">7</text>
+        <rect x="87" y="66" width="14" height="4" rx="2" fill="#40c463"/>
         <text x="94" y="84" font-size="7" fill="#1f2328" text-anchor="middle">2</text>
         <text x="118" y="53" font-size="8" fill="#1f2328" text-anchor="middle">25</text>
         <rect x="111" y="56" width="14" height="14" rx="2" fill="#30a14e"/>
         <text x="118" y="84" font-size="7" fill="#1f2328" text-anchor="middle">2.5</text>
-        <text x="142" y="34" font-size="8" fill="#1f2328" text-anchor="middle">58</text>
+        <text x="142" y="34" font-size="8" fill="#1f2328" text-anchor="middle">61</text>
         <rect x="135" y="37" width="14" height="33" rx="2" fill="#30a14e"/>
         <text x="142" y="84" font-size="7" fill="#1f2328" text-anchor="middle">3</text>
-        <text x="166" y="27" font-size="8" fill="#1f2328" text-anchor="middle">70</text>
+        <text x="166" y="27" font-size="8" fill="#1f2328" text-anchor="middle">73</text>
         <rect x="159" y="30" width="14" height="40" rx="2" fill="#216e39"/>
         <text x="166" y="84" font-size="7" fill="#1f2328" text-anchor="middle">3.5</text>
-        <text x="190" y="34" font-size="8" fill="#1f2328" text-anchor="middle">57</text>
-        <rect x="183" y="37" width="14" height="33" rx="2" fill="#216e39"/>
+        <text x="190" y="35" font-size="8" fill="#1f2328" text-anchor="middle">59</text>
+        <rect x="183" y="38" width="14" height="32" rx="2" fill="#216e39"/>
         <text x="190" y="84" font-size="7" fill="#1f2328" text-anchor="middle">4</text>
         <text x="214" y="55" font-size="8" fill="#1f2328" text-anchor="middle">21</text>
         <rect x="207" y="58" width="14" height="12" rx="2" fill="#216e39"/>
@@ -193,36 +193,36 @@
         <rect x="231" y="69" width="14" height="1" rx="2" fill="#216e39"/>
         <text x="238" y="84" font-size="7" fill="#1f2328" text-anchor="middle">5</text>
         <line x1="12" y1="90" x2="248" y2="90" stroke="#d1d9e0" stroke-width="1"/>
-        <text x="130" y="102" font-size="10" font-weight="500" fill="#656d76" text-anchor="middle">Ø 3.4★ · 240 rated · ↻ 17 · ♥ 10</text>
+        <text x="130" y="102" font-size="10" font-weight="500" fill="#656d76" text-anchor="middle">Ø 3.4★ · 249 rated · ↻ 20 · ♥ 10</text>
       </g>
     </g>
 
     <!-- Days Active with hover tooltip -->
     <g class="days-active-group" transform="translate(170, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">195 Days Active</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">196 Days Active</text>
       <g class="days-active-tooltip" transform="translate(-20, -115)">
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#1f2328" text-anchor="middle">Weekly Distribution</text>
         
-        <text x="27" y="40" font-size="9" fill="#1f2328" text-anchor="middle">35</text>
-        <rect x="20" y="43" width="14" height="37" rx="2" fill="#30a14e"/>
+        <text x="27" y="47" font-size="9" fill="#1f2328" text-anchor="middle">35</text>
+        <rect x="20" y="50" width="14" height="30" rx="2" fill="#30a14e"/>
         <text x="27" y="100" font-size="9" fill="#1f2328" text-anchor="middle">S</text>
-        <text x="51" y="48" font-size="9" fill="#1f2328" text-anchor="middle">28</text>
-        <rect x="44" y="51" width="14" height="29" rx="2" fill="#30a14e"/>
+        <text x="51" y="53" font-size="9" fill="#1f2328" text-anchor="middle">28</text>
+        <rect x="44" y="56" width="14" height="24" rx="2" fill="#30a14e"/>
         <text x="51" y="100" font-size="9" fill="#1f2328" text-anchor="middle">M</text>
-        <text x="75" y="48" font-size="9" fill="#1f2328" text-anchor="middle">28</text>
-        <rect x="68" y="51" width="14" height="29" rx="2" fill="#30a14e"/>
+        <text x="75" y="53" font-size="9" fill="#1f2328" text-anchor="middle">28</text>
+        <rect x="68" y="56" width="14" height="24" rx="2" fill="#30a14e"/>
         <text x="75" y="100" font-size="9" fill="#1f2328" text-anchor="middle">T</text>
-        <text x="99" y="39" font-size="9" fill="#1f2328" text-anchor="middle">36</text>
-        <rect x="92" y="42" width="14" height="38" rx="2" fill="#30a14e"/>
+        <text x="99" y="46" font-size="9" fill="#1f2328" text-anchor="middle">36</text>
+        <rect x="92" y="49" width="14" height="31" rx="2" fill="#30a14e"/>
         <text x="99" y="100" font-size="9" fill="#1f2328" text-anchor="middle">W</text>
-        <text x="123" y="39" font-size="9" fill="#1f2328" text-anchor="middle">36</text>
-        <rect x="116" y="42" width="14" height="38" rx="2" fill="#30a14e"/>
+        <text x="123" y="46" font-size="9" fill="#1f2328" text-anchor="middle">36</text>
+        <rect x="116" y="49" width="14" height="31" rx="2" fill="#30a14e"/>
         <text x="123" y="100" font-size="9" fill="#1f2328" text-anchor="middle">T</text>
-        <text x="147" y="36" font-size="9" fill="#1f2328" text-anchor="middle">39</text>
-        <rect x="140" y="39" width="14" height="41" rx="2" fill="#30a14e"/>
+        <text x="147" y="43" font-size="9" fill="#1f2328" text-anchor="middle">39</text>
+        <rect x="140" y="46" width="14" height="34" rx="2" fill="#30a14e"/>
         <text x="147" y="100" font-size="9" fill="#1f2328" text-anchor="middle">F</text>
-        <text x="171" y="32" font-size="9" fill="#1f2328" text-anchor="middle">43</text>
+        <text x="171" y="32" font-size="9" fill="#1f2328" text-anchor="middle">52</text>
         <rect x="164" y="35" width="14" height="45" rx="2" fill="#30a14e"/>
         <text x="171" y="100" font-size="9" fill="#1f2328" text-anchor="middle">S</text>
       </g>
@@ -332,7 +332,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:55ms"
+          fill="#9be9a8" style="animation-delay:55ms"
         />
         <g class="tooltip-group" transform="translate(85, -82)">
           <rect x="0" y="0" width="240" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -373,7 +373,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:99ms"
+          fill="#9be9a8" style="animation-delay:99ms"
         />
         <g class="tooltip-group" transform="translate(153, -82)">
           <rect x="0" y="0" width="240" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -414,7 +414,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:143ms"
+          fill="#9be9a8" style="animation-delay:143ms"
         />
         <g class="tooltip-group" transform="translate(221, -82)">
           <rect x="0" y="0" width="245" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -513,7 +513,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#30a14e" style="animation-delay:231ms"
+          fill="#40c463" style="animation-delay:231ms"
         />
         <g class="tooltip-group" transform="translate(357, -100)">
           <rect x="0" y="0" width="259" height="92" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -556,7 +556,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:286ms"
+          fill="#9be9a8" style="animation-delay:286ms"
         />
         <g class="tooltip-group" transform="translate(442, -82)">
           <rect x="0" y="0" width="245" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -673,7 +673,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:374ms"
+          fill="#9be9a8" style="animation-delay:374ms"
         />
         <g class="tooltip-group" transform="translate(578, -82)">
           <rect x="0" y="0" width="245" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -714,7 +714,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:418ms"
+          fill="#9be9a8" style="animation-delay:418ms"
         />
         <g class="tooltip-group" transform="translate(646, -82)">
           <rect x="0" y="0" width="245" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -882,7 +882,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:104ms"
+          fill="#9be9a8" style="animation-delay:104ms"
         />
         <g class="tooltip-group" transform="translate(153, -65)">
           <rect x="0" y="0" width="240" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -963,7 +963,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#30a14e" style="animation-delay:192ms"
+          fill="#40c463" style="animation-delay:192ms"
         />
         <g class="tooltip-group" transform="translate(289, -83)">
           <rect x="0" y="0" width="364" height="92" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -1023,7 +1023,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#30a14e" style="animation-delay:236ms"
+          fill="#40c463" style="animation-delay:236ms"
         />
         <g class="tooltip-group" transform="translate(357, -83)">
           <rect x="0" y="0" width="245" height="92" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -1413,7 +1413,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:175ms"
+          fill="#9be9a8" style="animation-delay:175ms"
         />
         <g class="tooltip-group" transform="translate(255, -48)">
           <rect x="0" y="0" width="280" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -1686,7 +1686,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:395ms"
+          fill="#9be9a8" style="animation-delay:395ms"
         />
         <g class="tooltip-group" transform="translate(595, -48)">
           <rect x="0" y="0" width="240" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -1851,7 +1851,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:48ms"
+          fill="#9be9a8" style="animation-delay:48ms"
         />
         <g class="tooltip-group" transform="translate(51, -31)">
           <rect x="0" y="0" width="315" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -1911,7 +1911,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#30a14e" style="animation-delay:103ms"
+          fill="#40c463" style="animation-delay:103ms"
         />
         <g class="tooltip-group" transform="translate(136, -49)">
           <rect x="0" y="0" width="245" height="92" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -2050,7 +2050,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:224ms"
+          fill="#9be9a8" style="animation-delay:224ms"
         />
         <g class="tooltip-group" transform="translate(323, -31)">
           <rect x="0" y="0" width="245" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -2228,7 +2228,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#30a14e" style="animation-delay:389ms"
+          fill="#40c463" style="animation-delay:389ms"
         />
         <g class="tooltip-group" transform="translate(578, -49)">
           <rect x="0" y="0" width="245" height="92" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -2346,7 +2346,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:477ms"
+          fill="#9be9a8" style="animation-delay:477ms"
         />
         <g class="tooltip-group" transform="translate(316, -31)">
           <rect x="0" y="0" width="623" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -2454,7 +2454,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:86ms"
+          fill="#9be9a8" style="animation-delay:86ms"
         />
         <g class="tooltip-group" transform="translate(102, -14)">
           <rect x="0" y="0" width="245" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -2475,7 +2475,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:108ms"
+          fill="#9be9a8" style="animation-delay:108ms"
         />
         <g class="tooltip-group" transform="translate(136, -14)">
           <rect x="0" y="0" width="259" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -2495,7 +2495,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:119ms"
+          fill="#9be9a8" style="animation-delay:119ms"
         />
         <g class="tooltip-group" transform="translate(153, -14)">
           <rect x="0" y="0" width="240" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -2516,7 +2516,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:141ms"
+          fill="#9be9a8" style="animation-delay:141ms"
         />
         <g class="tooltip-group" transform="translate(187, -14)">
           <rect x="0" y="0" width="245" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -2635,7 +2635,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:251ms"
+          fill="#9be9a8" style="animation-delay:251ms"
         />
         <g class="tooltip-group" transform="translate(357, -14)">
           <rect x="0" y="0" width="245" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -2732,7 +2732,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:317ms"
+          fill="#9be9a8" style="animation-delay:317ms"
         />
         <g class="tooltip-group" transform="translate(459, -14)">
           <rect x="0" y="0" width="240" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -2752,7 +2752,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:328ms"
+          fill="#9be9a8" style="animation-delay:328ms"
         />
         <g class="tooltip-group" transform="translate(476, -14)">
           <rect x="0" y="0" width="245" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -2795,7 +2795,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#30a14e" style="animation-delay:394ms"
+          fill="#40c463" style="animation-delay:394ms"
         />
         <g class="tooltip-group" transform="translate(575, -32)">
           <rect x="0" y="0" width="364" height="92" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -2856,7 +2856,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:449ms"
+          fill="#9be9a8" style="animation-delay:449ms"
         />
         <g class="tooltip-group" transform="translate(631, -14)">
           <rect x="0" y="0" width="308" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -3195,7 +3195,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:223ms"
+          fill="#9be9a8" style="animation-delay:223ms"
         />
         <g class="tooltip-group" transform="translate(306, 3)">
           <rect x="0" y="0" width="240" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -3354,7 +3354,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:377ms"
+          fill="#9be9a8" style="animation-delay:377ms"
         />
         <g class="tooltip-group" transform="translate(544, 3)">
           <rect x="0" y="0" width="245" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -3375,7 +3375,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#30a14e" style="animation-delay:399ms"
+          fill="#40c463" style="animation-delay:399ms"
         />
         <g class="tooltip-group" transform="translate(578, -15)">
           <rect x="0" y="0" width="245" height="92" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -3434,7 +3434,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:432ms"
+          fill="#9be9a8" style="animation-delay:432ms"
         />
         <g class="tooltip-group" transform="translate(629, 3)">
           <rect x="0" y="0" width="245" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -3492,7 +3492,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:465ms"
+          fill="#9be9a8" style="animation-delay:465ms"
         />
         <g class="tooltip-group" transform="translate(533, 3)">
           <rect x="0" y="0" width="406" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -3577,7 +3577,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:30ms"
+          fill="#9be9a8" style="animation-delay:30ms"
         />
         <g class="tooltip-group" transform="translate(0, 20)">
           <rect x="0" y="0" width="240" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -3657,7 +3657,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#30a14e" style="animation-delay:107ms"
+          fill="#40c463" style="animation-delay:107ms"
         />
         <g class="tooltip-group" transform="translate(119, 2)">
           <rect x="0" y="0" width="259" height="92" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -3678,7 +3678,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#216e39" style="animation-delay:118ms"
+          fill="#40c463" style="animation-delay:118ms"
         />
         <g class="tooltip-group" transform="translate(136, -16)">
           <rect x="0" y="0" width="245" height="110" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -3797,7 +3797,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:206ms"
+          fill="#9be9a8" style="animation-delay:206ms"
         />
         <g class="tooltip-group" transform="translate(272, 20)">
           <rect x="0" y="0" width="245" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -3974,7 +3974,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:360ms"
+          fill="#9be9a8" style="animation-delay:360ms"
         />
         <g class="tooltip-group" transform="translate(510, 20)">
           <rect x="0" y="0" width="280" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -3994,7 +3994,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:371ms"
+          fill="#9be9a8" style="animation-delay:371ms"
         />
         <g class="tooltip-group" transform="translate(527, 20)">
           <rect x="0" y="0" width="240" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -4033,7 +4033,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#40c463" style="animation-delay:393ms"
+          fill="#9be9a8" style="animation-delay:393ms"
         />
         <g class="tooltip-group" transform="translate(561, 20)">
           <rect x="0" y="0" width="245" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -4112,7 +4112,7 @@
           width="14"
           height="14"
           rx="2"
-          fill="#30a14e" style="animation-delay:459ms"
+          fill="#40c463" style="animation-delay:459ms"
         />
         <g class="tooltip-group" transform="translate(638, 2)">
           <rect x="0" y="0" width="301" height="92" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
@@ -4182,7 +4182,33 @@
         </g>
       </a>
     </g>
-    <rect class="cell" x="731" y="102" width="14" height="14" rx="2" fill="#ebedf0" style="animation-delay:503ms"/>
+    <g class="cell-group">
+      <a href="https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/31/">
+        <rect class="cell"
+          x="731"
+          y="102"
+          width="14"
+          height="14"
+          rx="2"
+          fill="#216e39" style="animation-delay:503ms"
+        />
+        <g class="tooltip-group" transform="translate(666, -106)">
+          <rect x="0" y="0" width="273" height="200" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+          <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
+            <tspan x="10" dy="22" font-weight="600">Sat, 31. Oct 2026: 9 movies watched</tspan>
+            <tspan x="10" dy="18">• The Autopsy of Jane Doe (2016) - 3.5★</tspan>
+            <tspan x="10" dy="18">• Terrified (2017) - 3★</tspan>
+            <tspan x="10" dy="18">• ↻ Suspiria (1977) - 4★</tspan>
+            <tspan x="10" dy="18">• ↻ Trick &apos;r Treat (2007) - 3.5★</tspan>
+            <tspan x="10" dy="18">• ↻ Inside No. 9: Dead Line (2018) - 4★</tspan>
+            <tspan x="10" dy="18">• Playing God (2024) - 3.5★</tspan>
+            <tspan x="10" dy="18">• Hoax () - 2★</tspan>
+            <tspan x="10" dy="18">• Five Star (2025) - 3★</tspan>
+            <tspan x="10" dy="18">• Drum Wave (2018) - 3★</tspan>
+          </text>
+        </g>
+      </a>
+    </g>
     <rect class="cell" x="748" y="102" width="14" height="14" rx="2" fill="#ebedf0" style="animation-delay:514ms"/>
     <rect class="cell" x="765" y="102" width="14" height="14" rx="2" fill="#ebedf0" style="animation-delay:525ms"/>
     <rect class="cell" x="782" y="102" width="14" height="14" rx="2" fill="#ebedf0" style="animation-delay:536ms"/>
