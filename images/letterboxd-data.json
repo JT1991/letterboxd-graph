@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-01T05:38:09.299Z",
+  "generatedAt": "2026-11-02T05:35:19.561Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -16873,16 +16873,16 @@
         },
         {
           "title": "Hoax",
-          "year": "",
+          "year": "2025",
           "rating": 2,
           "rewatch": false,
           "liked": false,
-          "url": "https://letterboxd.com/darthrosenberg/film/hoax-2/",
+          "url": "https://letterboxd.com/darthrosenberg/film/hoax-2025/",
           "reviewed": false,
           "reviewUrl": null,
           "filmUid": "film:1664459",
           "lid": "17Q18",
-          "slug": "hoax-2"
+          "slug": "hoax-2025"
         },
         {
           "title": "Five Star",
@@ -30314,16 +30314,16 @@
         },
         {
           "title": "Hoax",
-          "year": "",
+          "year": "2025",
           "rating": 2,
           "rewatch": false,
           "liked": false,
-          "url": "https://letterboxd.com/darthrosenberg/film/hoax-2/",
+          "url": "https://letterboxd.com/darthrosenberg/film/hoax-2025/",
           "reviewed": false,
           "reviewUrl": null,
           "filmUid": "film:1664459",
           "lid": "17Q18",
-          "slug": "hoax-2"
+          "slug": "hoax-2025"
         },
         {
           "title": "Five Star",
@@ -30443,16 +30443,16 @@
     {
       "date": "2026-10-31",
       "title": "Hoax",
-      "year": "",
+      "year": "2025",
       "rating": 2,
       "rewatch": false,
       "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/hoax-2/",
+      "url": "https://letterboxd.com/darthrosenberg/film/hoax-2025/",
       "reviewed": false,
       "reviewUrl": null,
       "filmUid": "film:1664459",
       "lid": "17Q18",
-      "slug": "hoax-2"
+      "slug": "hoax-2025"
     },
     {
       "date": "2026-10-31",
@@ -38582,8 +38582,8 @@
       "rated": 249,
       "releaseBreakdown": {
         "sameYear": 31,
-        "older": 222,
-        "other": 1
+        "older": 223,
+        "other": 0
       },
       "watchBreakdown": {
         "firstWatches": 234,
@@ -39118,7 +39118,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 120,
+          "count": 121,
           "averageRating": 3.5
         }
       ],
@@ -39262,8 +39262,8 @@
     "rated": 2820,
     "releaseBreakdown": {
       "sameYear": 294,
-      "older": 2705,
-      "other": 2
+      "older": 2706,
+      "other": 1
     },
     "watchBreakdown": {
       "firstWatches": 2892,
@@ -40259,7 +40259,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 807,
+        "count": 808,
         "averageRating": 3.5
       }
     ],
