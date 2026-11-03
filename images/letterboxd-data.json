@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-02T05:35:19.561Z",
+  "generatedAt": "2026-11-03T06:16:04.606Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 9
   },
   "stats": {
-    "films": 686,
-    "daysActive": 481,
+    "films": 688,
+    "daysActive": 482,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 42,
@@ -3124,9 +3124,22 @@
       "date": "2025-04-18",
       "week": 15,
       "weekday": 5,
-      "count": 2,
-      "ratingAvg": 2.8,
+      "count": 3,
+      "ratingAvg": 2.7,
       "films": [
+        {
+          "title": "iHostage",
+          "year": "2025",
+          "rating": 2.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/ihostage/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1258188",
+          "lid": "QN7y",
+          "slug": "ihostage"
+        },
         {
           "title": "The Devil's Doorway",
           "year": "2018",
@@ -3154,7 +3167,7 @@
           "slug": "demons-2"
         }
       ],
-      "level": 1,
+      "level": 2,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2025/04/18/"
     },
@@ -16930,10 +16943,24 @@
       "date": "2026-11-02",
       "week": 96,
       "weekday": 1,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Lancelot of the Lake",
+          "year": "1974",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/lancelot-of-the-lake/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:10323",
+          "lid": "qR0",
+          "slug": "lancelot-of-the-lake"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/02/"
     },
@@ -19957,9 +19984,22 @@
     },
     {
       "date": "2025-04-18",
-      "count": 2,
-      "ratingAvg": 2.8,
+      "count": 3,
+      "ratingAvg": 2.7,
       "films": [
+        {
+          "title": "iHostage",
+          "year": "2025",
+          "rating": 2.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/ihostage/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1258188",
+          "lid": "QN7y",
+          "slug": "ihostage"
+        },
         {
           "title": "The Devil's Doorway",
           "year": "2018",
@@ -30353,9 +30393,44 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/10/31/"
+    },
+    {
+      "date": "2026-11-02",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Lancelot of the Lake",
+          "year": "1974",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/lancelot-of-the-lake/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:10323",
+          "lid": "qR0",
+          "slug": "lancelot-of-the-lake"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/02/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-11-02",
+      "title": "Lancelot of the Lake",
+      "year": "1974",
+      "rating": 3.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/lancelot-of-the-lake/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:10323",
+      "lid": "qR0",
+      "slug": "lancelot-of-the-lake"
+    },
     {
       "date": "2026-10-31",
       "title": "The Autopsy of Jane Doe",
@@ -30565,20 +30640,6 @@
       "filmUid": "film:769282",
       "lid": "whfK",
       "slug": "senritsu-kaiki-file-kowasugi-final-chapter"
-    },
-    {
-      "date": "2026-10-23",
-      "title": "Little Shop of Horrors",
-      "year": "1986",
-      "rating": 4,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/little-shop-of-horrors/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:45907",
-      "lid": "1Vqm",
-      "slug": "little-shop-of-horrors"
     }
   ],
   "byYear": {
@@ -37917,8 +37978,8 @@
     "2025": {
       "scope": "year",
       "films": null,
-      "entries": 432,
-      "distinctFilms": 431,
+      "entries": 433,
+      "distinctFilms": 432,
       "firstEntry": "2025-01-01",
       "lastEntry": "2025-12-31",
       "spanDays": 365,
@@ -37926,24 +37987,24 @@
       "multiFilmDays": 111,
       "rewatches": 22,
       "liked": 21,
-      "rated": 427,
+      "rated": 428,
       "releaseBreakdown": {
-        "sameYear": 54,
+        "sameYear": 55,
         "older": 378,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 410,
+        "firstWatches": 411,
         "rewatches": 22
       },
       "reviewBreakdown": {
         "reviewed": 61,
-        "notReviewed": 371
+        "notReviewed": 372
       },
       "averageRating": 3.4,
-      "perDay": 1.18,
+      "perDay": 1.19,
       "perWeek": 8.3,
-      "perMonth": 36,
+      "perMonth": 36.1,
       "streak": {
         "length": 17,
         "startDate": "2025-09-29",
@@ -37962,7 +38023,7 @@
       "perYear": [
         {
           "year": 2025,
-          "films": 432,
+          "films": 433,
           "days": 285
         }
       ],
@@ -37972,14 +38033,14 @@
         63,
         59,
         50,
-        72,
+        73,
         69
       ],
       "perMonthOfYear": [
         40,
         35,
         38,
-        38,
+        39,
         38,
         29,
         32,
@@ -38004,7 +38065,7 @@
         },
         {
           "month": "2025-04",
-          "count": 38
+          "count": 39
         },
         {
           "month": "2025-05",
@@ -38134,7 +38195,7 @@
           "week": 16,
           "start": "2025-04-14",
           "end": "2025-04-20",
-          "count": 12
+          "count": 13
         },
         {
           "week": 17,
@@ -38370,7 +38431,7 @@
         },
         {
           "rating": 2.5,
-          "count": 47
+          "count": 48
         },
         {
           "rating": 3,
@@ -38463,7 +38524,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 180,
+          "count": 181,
           "averageRating": 3.5
         }
       ],
@@ -38512,47 +38573,47 @@
         {
           "n": 200,
           "kind": "step",
-          "date": "2025-06-09",
-          "title": "Predestination",
-          "year": "2014",
+          "date": "2025-06-08",
+          "title": "Sex Is Comedy",
+          "year": "2002",
           "rating": 3,
-          "url": "https://letterboxd.com/darthrosenberg/film/predestination/",
+          "url": "https://letterboxd.com/darthrosenberg/film/sex-is-comedy/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:147509",
-          "lid": "6bJM",
-          "slug": "predestination"
+          "filmUid": "film:12693",
+          "lid": "x1g",
+          "slug": "sex-is-comedy"
         },
         {
           "n": 300,
           "kind": "step",
-          "date": "2025-09-11",
-          "title": "Irregular Seasoning",
-          "year": "2011",
+          "date": "2025-09-10",
+          "title": "Moon",
+          "year": "2024",
           "rating": 3.5,
-          "url": "https://letterboxd.com/darthrosenberg/film/irregular-seasoning/",
+          "url": "https://letterboxd.com/darthrosenberg/film/moon-2024/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:356061",
-          "lid": "eWhc",
-          "slug": "irregular-seasoning"
+          "filmUid": "film:1059240",
+          "lid": "Irza",
+          "slug": "moon-2024"
         },
         {
           "n": 400,
           "kind": "step",
-          "date": "2025-11-25",
-          "title": "No Other Choice",
-          "year": "2025",
-          "rating": 4,
-          "url": "https://letterboxd.com/darthrosenberg/film/no-other-choice-2025/",
+          "date": "2025-11-23",
+          "title": "Camp X-Ray",
+          "year": "2014",
+          "rating": 3,
+          "url": "https://letterboxd.com/darthrosenberg/film/camp-x-ray/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:565952",
-          "lid": "nKiA",
-          "slug": "no-other-choice-2025"
+          "filmUid": "film:171174",
+          "lid": "7biI",
+          "slug": "camp-x-ray"
         },
         {
-          "n": 432,
+          "n": 433,
           "kind": "latest",
           "date": "2025-12-31",
           "title": "Ne Zha",
@@ -38570,31 +38631,31 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 254,
-      "distinctFilms": 252,
+      "entries": 255,
+      "distinctFilms": 253,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-10-31",
-      "spanDays": 304,
-      "daysActive": 196,
+      "lastEntry": "2026-11-02",
+      "spanDays": 306,
+      "daysActive": 197,
       "multiFilmDays": 40,
       "rewatches": 20,
       "liked": 10,
-      "rated": 249,
+      "rated": 250,
       "releaseBreakdown": {
         "sameYear": 31,
-        "older": 223,
+        "older": 224,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 234,
+        "firstWatches": 235,
         "rewatches": 20
       },
       "reviewBreakdown": {
         "reviewed": 29,
-        "notReviewed": 225
+        "notReviewed": 226
       },
       "averageRating": 3.4,
-      "perDay": 0.84,
+      "perDay": 0.83,
       "perWeek": 5.8,
       "perMonth": 25.4,
       "streak": {
@@ -38615,13 +38676,13 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 254,
-          "days": 196
+          "films": 255,
+          "days": 197
         }
       ],
       "perWeekday": [
         35,
-        28,
+        29,
         28,
         36,
         36,
@@ -38639,7 +38700,7 @@
         29,
         20,
         40,
-        0,
+        1,
         0
       ],
       "monthSeries": [
@@ -38682,6 +38743,10 @@
         {
           "month": "2026-10",
           "count": 40
+        },
+        {
+          "month": "2026-11",
+          "count": 1
         }
       ],
       "weekSeries": [
@@ -38953,7 +39018,7 @@
           "week": 45,
           "start": "2026-11-02",
           "end": "2026-11-08",
-          "count": 0
+          "count": 1
         },
         {
           "week": 46,
@@ -39027,7 +39092,7 @@
         },
         {
           "rating": 3.5,
-          "count": 73
+          "count": 74
         },
         {
           "rating": 4,
@@ -39088,7 +39153,7 @@
         {
           "decade": 1970,
           "label": "1970s",
-          "count": 13,
+          "count": 14,
           "averageRating": 3.5
         },
         {
@@ -39231,47 +39296,47 @@
           "slug": "inside-no-9-dead-line"
         },
         {
-          "n": 254,
+          "n": 255,
           "kind": "latest",
-          "date": "2026-10-31",
-          "title": "Drum Wave",
-          "year": "2018",
-          "rating": 3,
-          "url": "https://letterboxd.com/darthrosenberg/film/drum-wave/",
+          "date": "2026-11-02",
+          "title": "Lancelot of the Lake",
+          "year": "1974",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/darthrosenberg/film/lancelot-of-the-lake/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:452674",
-          "lid": "iZBW",
-          "slug": "drum-wave"
+          "filmUid": "film:10323",
+          "lid": "qR0",
+          "slug": "lancelot-of-the-lake"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3425,
-    "entries": 3001,
-    "distinctFilms": 2903,
+    "films": 3426,
+    "entries": 3003,
+    "distinctFilms": 2905,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-10-31",
-    "spanDays": 5626,
-    "daysActive": 1667,
+    "lastEntry": "2026-11-02",
+    "spanDays": 5628,
+    "daysActive": 1668,
     "multiFilmDays": 724,
     "rewatches": 109,
     "liked": 135,
-    "rated": 2820,
+    "rated": 2822,
     "releaseBreakdown": {
-      "sameYear": 294,
-      "older": 2706,
+      "sameYear": 295,
+      "older": 2707,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2892,
+      "firstWatches": 2894,
       "rewatches": 109
     },
     "reviewBreakdown": {
       "reviewed": 232,
-      "notReviewed": 2769
+      "notReviewed": 2771
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -39360,36 +39425,36 @@
       },
       {
         "year": 2025,
-        "films": 432,
+        "films": 433,
         "days": 285
       },
       {
         "year": 2026,
-        "films": 254,
-        "days": 196
+        "films": 255,
+        "days": 197
       }
     ],
     "perWeekday": [
       576,
-      361,
+      362,
       364,
       377,
       346,
-      488,
+      489,
       489
     ],
     "perMonthOfYear": [
       207,
       218,
       249,
-      200,
+      201,
       227,
       214,
       220,
       208,
       341,
       487,
-      240,
+      241,
       190
     ],
     "monthSeries": [
@@ -40059,7 +40124,7 @@
       },
       {
         "month": "2025-04",
-        "count": 38
+        "count": 39
       },
       {
         "month": "2025-05",
@@ -40132,6 +40197,10 @@
       {
         "month": "2026-10",
         "count": 40
+      },
+      {
+        "month": "2026-11",
+        "count": 1
       }
     ],
     "weekSeries": [],
@@ -40154,7 +40223,7 @@
       },
       {
         "rating": 2.5,
-        "count": 279
+        "count": 280
       },
       {
         "rating": 3,
@@ -40162,7 +40231,7 @@
       },
       {
         "rating": 3.5,
-        "count": 806
+        "count": 807
       },
       {
         "rating": 4,
@@ -40229,7 +40298,7 @@
       {
         "decade": 1970,
         "label": "1970s",
-        "count": 167,
+        "count": 168,
         "averageRating": 3.5
       },
       {
@@ -40259,7 +40328,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 808,
+        "count": 809,
         "averageRating": 3.5
       }
     ],
@@ -41223,29 +41292,29 @@
         "n": 3000,
         "kind": "step",
         "date": "2026-10-31",
-        "title": "Five Star",
+        "title": "Hoax",
         "year": "2025",
-        "rating": 3,
-        "url": "https://letterboxd.com/darthrosenberg/film/five-star-2025/",
+        "rating": 2,
+        "url": "https://letterboxd.com/darthrosenberg/film/hoax-2025/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:1347085",
-        "lid": "UwnM",
-        "slug": "five-star-2025"
+        "filmUid": "film:1664459",
+        "lid": "17Q18",
+        "slug": "hoax-2025"
       },
       {
-        "n": 3001,
+        "n": 3003,
         "kind": "latest",
-        "date": "2026-10-31",
-        "title": "Drum Wave",
-        "year": "2018",
-        "rating": 3,
-        "url": "https://letterboxd.com/darthrosenberg/film/drum-wave/",
+        "date": "2026-11-02",
+        "title": "Lancelot of the Lake",
+        "year": "1974",
+        "rating": 3.5,
+        "url": "https://letterboxd.com/darthrosenberg/film/lancelot-of-the-lake/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:452674",
-        "lid": "iZBW",
-        "slug": "drum-wave"
+        "filmUid": "film:10323",
+        "lid": "qR0",
+        "slug": "lancelot-of-the-lake"
       }
     ]
   }

@@ -92,7 +92,7 @@
         <tspan fill="#656d76">@darthrosenberg</tspan>
       </a>
       <tspan dx="5" fill="#656d76">•</tspan>
-      <tspan dx="5" fill="#1f2328">3425</tspan>
+      <tspan dx="5" fill="#1f2328">3426</tspan>
       <tspan fill="#656d76"> Films</tspan>
       <tspan dx="5" fill="#656d76">•</tspan>
       <tspan dx="5" fill="#1f2328">0</tspan>
@@ -135,8 +135,8 @@
         <text x="179" y="63" font-size="8" fill="#1f2328" text-anchor="middle">12</text>
         <rect x="171" y="66" width="16" height="4" rx="2" fill="#30a14e"/>
         <text x="179" y="84" font-size="7" fill="#1f2328" text-anchor="middle">1960s</text>
-        <text x="205" y="63" font-size="8" fill="#1f2328" text-anchor="middle">13</text>
-        <rect x="197" y="66" width="16" height="4" rx="2" fill="#30a14e"/>
+        <text x="205" y="62" font-size="8" fill="#1f2328" text-anchor="middle">14</text>
+        <rect x="197" y="65" width="16" height="5" rx="2" fill="#30a14e"/>
         <text x="205" y="84" font-size="7" fill="#1f2328" text-anchor="middle">1970s</text>
         <text x="231" y="62" font-size="8" fill="#1f2328" text-anchor="middle">15</text>
         <rect x="223" y="65" width="16" height="5" rx="2" fill="#30a14e"/>
@@ -158,7 +158,7 @@
 
     <!-- Movies with rating distribution tooltip -->
     <g class="movies-group" transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">254 Movies</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">255 Movies</text>
       <g class="movies-tooltip" transform="translate(-30, -116)">
         <rect x="0" y="0" width="260" height="108" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
         <text x="130" y="15" font-size="11" font-weight="600" fill="#1f2328" text-anchor="middle">Rating Distribution (5 unrated)</text>
@@ -180,26 +180,26 @@
         <text x="142" y="34" font-size="8" fill="#1f2328" text-anchor="middle">61</text>
         <rect x="135" y="37" width="14" height="33" rx="2" fill="#30a14e"/>
         <text x="142" y="84" font-size="7" fill="#1f2328" text-anchor="middle">3</text>
-        <text x="166" y="27" font-size="8" fill="#1f2328" text-anchor="middle">73</text>
+        <text x="166" y="27" font-size="8" fill="#1f2328" text-anchor="middle">74</text>
         <rect x="159" y="30" width="14" height="40" rx="2" fill="#216e39"/>
         <text x="166" y="84" font-size="7" fill="#1f2328" text-anchor="middle">3.5</text>
         <text x="190" y="35" font-size="8" fill="#1f2328" text-anchor="middle">59</text>
         <rect x="183" y="38" width="14" height="32" rx="2" fill="#216e39"/>
         <text x="190" y="84" font-size="7" fill="#1f2328" text-anchor="middle">4</text>
-        <text x="214" y="55" font-size="8" fill="#1f2328" text-anchor="middle">21</text>
-        <rect x="207" y="58" width="14" height="12" rx="2" fill="#216e39"/>
+        <text x="214" y="56" font-size="8" fill="#1f2328" text-anchor="middle">21</text>
+        <rect x="207" y="59" width="14" height="11" rx="2" fill="#216e39"/>
         <text x="214" y="84" font-size="7" fill="#1f2328" text-anchor="middle">4.5</text>
         <text x="238" y="66" font-size="8" fill="#1f2328" text-anchor="middle">1</text>
         <rect x="231" y="69" width="14" height="1" rx="2" fill="#216e39"/>
         <text x="238" y="84" font-size="7" fill="#1f2328" text-anchor="middle">5</text>
         <line x1="12" y1="90" x2="248" y2="90" stroke="#d1d9e0" stroke-width="1"/>
-        <text x="130" y="102" font-size="10" font-weight="500" fill="#656d76" text-anchor="middle">Ø 3.4★ · 249 rated · ↻ 20 · ♥ 10</text>
+        <text x="130" y="102" font-size="10" font-weight="500" fill="#656d76" text-anchor="middle">Ø 3.4★ · 250 rated · ↻ 20 · ♥ 10</text>
       </g>
     </g>
 
     <!-- Days Active with hover tooltip -->
     <g class="days-active-group" transform="translate(170, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">196 Days Active</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">197 Days Active</text>
       <g class="days-active-tooltip" transform="translate(-20, -115)">
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#1f2328" text-anchor="middle">Weekly Distribution</text>
@@ -207,8 +207,8 @@
         <text x="27" y="47" font-size="9" fill="#1f2328" text-anchor="middle">35</text>
         <rect x="20" y="50" width="14" height="30" rx="2" fill="#30a14e"/>
         <text x="27" y="100" font-size="9" fill="#1f2328" text-anchor="middle">S</text>
-        <text x="51" y="53" font-size="9" fill="#1f2328" text-anchor="middle">28</text>
-        <rect x="44" y="56" width="14" height="24" rx="2" fill="#30a14e"/>
+        <text x="51" y="52" font-size="9" fill="#1f2328" text-anchor="middle">29</text>
+        <rect x="44" y="55" width="14" height="25" rx="2" fill="#30a14e"/>
         <text x="51" y="100" font-size="9" fill="#1f2328" text-anchor="middle">M</text>
         <text x="75" y="53" font-size="9" fill="#1f2328" text-anchor="middle">28</text>
         <rect x="68" y="56" width="14" height="24" rx="2" fill="#30a14e"/>
@@ -1274,7 +1274,25 @@
         </g>
       </a>
     </g>
-    <rect class="cell" x="748" y="17" width="14" height="14" rx="2" fill="#ebedf0" style="animation-delay:489ms"/>
+    <g class="cell-group">
+      <a href="https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/02/">
+        <rect class="cell"
+          x="748"
+          y="17"
+          width="14"
+          height="14"
+          rx="2"
+          fill="#9be9a8" style="animation-delay:489ms"
+        />
+        <g class="tooltip-group" transform="translate(687, -47)">
+          <rect x="0" y="0" width="252" height="56" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+          <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
+            <tspan x="10" dy="22" font-weight="600">Mon, 2. Nov 2026: 1 movie watched</tspan>
+            <tspan x="10" dy="18">• Lancelot of the Lake (1974) - 3.5★</tspan>
+          </text>
+        </g>
+      </a>
+    </g>
     <rect class="cell" x="765" y="17" width="14" height="14" rx="2" fill="#ebedf0" style="animation-delay:500ms"/>
     <rect class="cell" x="782" y="17" width="14" height="14" rx="2" fill="#ebedf0" style="animation-delay:511ms"/>
     <rect class="cell" x="799" y="17" width="14" height="14" rx="2" fill="#ebedf0" style="animation-delay:522ms"/>
@@ -4259,7 +4277,7 @@
         <text x="283" y="49" font-size="8" fill="#1f2328" text-anchor="middle">82</text>
         <rect x="275" y="52" width="16" height="18" rx="2" fill="#30a14e"/>
         <text x="283" y="84" font-size="7" fill="#1f2328" text-anchor="middle">2010s</text>
-        <text x="309" y="27" font-size="8" fill="#1f2328" text-anchor="middle">180</text>
+        <text x="309" y="27" font-size="8" fill="#1f2328" text-anchor="middle">181</text>
         <rect x="301" y="30" width="16" height="40" rx="2" fill="#30a14e"/>
         <text x="309" y="84" font-size="7" fill="#1f2328" text-anchor="middle">2020s</text>
     </g>
@@ -4267,7 +4285,7 @@
 
     <!-- Movies with rating distribution tooltip -->
     <g class="movies-group" transform="translate(60, 5)">
-      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">432 Movies</text>
+      <text x="0" y="15" font-size="14" font-weight="500" fill="#656d76">433 Movies</text>
       <g class="movies-tooltip" transform="translate(-30, -116)">
         <rect x="0" y="0" width="260" height="108" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
         <text x="130" y="15" font-size="11" font-weight="600" fill="#1f2328" text-anchor="middle">Rating Distribution (5 unrated)</text>
@@ -4283,8 +4301,8 @@
         <text x="94" y="63" font-size="8" fill="#1f2328" text-anchor="middle">11</text>
         <rect x="87" y="66" width="14" height="4" rx="2" fill="#40c463"/>
         <text x="94" y="84" font-size="7" fill="#1f2328" text-anchor="middle">2</text>
-        <text x="118" y="51" font-size="8" fill="#1f2328" text-anchor="middle">47</text>
-        <rect x="111" y="54" width="14" height="16" rx="2" fill="#30a14e"/>
+        <text x="118" y="50" font-size="8" fill="#1f2328" text-anchor="middle">48</text>
+        <rect x="111" y="53" width="14" height="17" rx="2" fill="#30a14e"/>
         <text x="118" y="84" font-size="7" fill="#1f2328" text-anchor="middle">2.5</text>
         <text x="142" y="30" font-size="8" fill="#1f2328" text-anchor="middle">106</text>
         <rect x="135" y="33" width="14" height="37" rx="2" fill="#30a14e"/>
@@ -4302,7 +4320,7 @@
         <rect x="231" y="69" width="14" height="1" rx="2" fill="#216e39"/>
         <text x="238" y="84" font-size="7" fill="#1f2328" text-anchor="middle">5</text>
         <line x1="12" y1="90" x2="248" y2="90" stroke="#d1d9e0" stroke-width="1"/>
-        <text x="130" y="102" font-size="10" font-weight="500" fill="#656d76" text-anchor="middle">Ø 3.4★ · 427 rated · ↻ 22 · ♥ 21</text>
+        <text x="130" y="102" font-size="10" font-weight="500" fill="#656d76" text-anchor="middle">Ø 3.4★ · 428 rated · ↻ 22 · ♥ 21</text>
       </g>
     </g>
 
@@ -4313,8 +4331,8 @@
         <rect x="0" y="0" width="200" height="105" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
         <text x="100" y="18" font-size="11" font-weight="600" fill="#1f2328" text-anchor="middle">Weekly Distribution</text>
         
-        <text x="27" y="32" font-size="9" fill="#1f2328" text-anchor="middle">72</text>
-        <rect x="20" y="35" width="14" height="45" rx="2" fill="#30a14e"/>
+        <text x="27" y="33" font-size="9" fill="#1f2328" text-anchor="middle">72</text>
+        <rect x="20" y="36" width="14" height="44" rx="2" fill="#30a14e"/>
         <text x="27" y="100" font-size="9" fill="#1f2328" text-anchor="middle">S</text>
         <text x="51" y="48" font-size="9" fill="#1f2328" text-anchor="middle">47</text>
         <rect x="44" y="51" width="14" height="29" rx="2" fill="#30a14e"/>
@@ -4322,13 +4340,13 @@
         <text x="75" y="38" font-size="9" fill="#1f2328" text-anchor="middle">63</text>
         <rect x="68" y="41" width="14" height="39" rx="2" fill="#30a14e"/>
         <text x="75" y="100" font-size="9" fill="#1f2328" text-anchor="middle">T</text>
-        <text x="99" y="40" font-size="9" fill="#1f2328" text-anchor="middle">59</text>
-        <rect x="92" y="43" width="14" height="37" rx="2" fill="#30a14e"/>
+        <text x="99" y="41" font-size="9" fill="#1f2328" text-anchor="middle">59</text>
+        <rect x="92" y="44" width="14" height="36" rx="2" fill="#30a14e"/>
         <text x="99" y="100" font-size="9" fill="#1f2328" text-anchor="middle">W</text>
         <text x="123" y="46" font-size="9" fill="#1f2328" text-anchor="middle">50</text>
         <rect x="116" y="49" width="14" height="31" rx="2" fill="#30a14e"/>
         <text x="123" y="100" font-size="9" fill="#1f2328" text-anchor="middle">T</text>
-        <text x="147" y="32" font-size="9" fill="#1f2328" text-anchor="middle">72</text>
+        <text x="147" y="32" font-size="9" fill="#1f2328" text-anchor="middle">73</text>
         <rect x="140" y="35" width="14" height="45" rx="2" fill="#30a14e"/>
         <text x="147" y="100" font-size="9" fill="#1f2328" text-anchor="middle">F</text>
         <text x="171" y="34" font-size="9" fill="#1f2328" text-anchor="middle">69</text>
@@ -8516,10 +8534,11 @@
           rx="2"
           fill="#40c463" style="animation-delay:370ms"
         />
-        <g class="tooltip-group" transform="translate(255, 3)">
-          <rect x="0" y="0" width="245" height="74" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
+        <g class="tooltip-group" transform="translate(255, -15)">
+          <rect x="0" y="0" width="245" height="92" rx="6" fill="#ffffff" stroke="#d1d9e0" stroke-width="1"/>
           <text font-family="'Segoe UI', Inter, Arial, sans-serif" font-size="12" fill="#1f2328">
-            <tspan x="10" dy="22" font-weight="600">Fri, 18. Apr 2025: 2 movies watched</tspan>
+            <tspan x="10" dy="22" font-weight="600">Fri, 18. Apr 2025: 3 movies watched</tspan>
+            <tspan x="10" dy="18">• iHostage (2025) - 2.5★</tspan>
             <tspan x="10" dy="18">• The Devil&apos;s Doorway (2018) - 3★</tspan>
             <tspan x="10" dy="18">• Demons 2 (1986) - 2.5★</tspan>
           </text>
