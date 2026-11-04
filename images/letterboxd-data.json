@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-03T06:16:04.606Z",
+  "generatedAt": "2026-11-04T05:52:06.595Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 9
   },
   "stats": {
-    "films": 688,
-    "daysActive": 482,
+    "films": 689,
+    "daysActive": 483,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 42,
@@ -16968,10 +16968,24 @@
       "date": "2026-11-03",
       "week": 96,
       "weekday": 2,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Nitram",
+          "year": "2021",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/nitram/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:715155",
+          "lid": "u0rA",
+          "slug": "nitram"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/03/"
     },
@@ -30414,9 +30428,44 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/02/"
+    },
+    {
+      "date": "2026-11-03",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "Nitram",
+          "year": "2021",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/nitram/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:715155",
+          "lid": "u0rA",
+          "slug": "nitram"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/03/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-11-03",
+      "title": "Nitram",
+      "year": "2021",
+      "rating": 3.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/nitram/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:715155",
+      "lid": "u0rA",
+      "slug": "nitram"
+    },
     {
       "date": "2026-11-02",
       "title": "Lancelot of the Lake",
@@ -30626,20 +30675,6 @@
       "filmUid": "film:5045",
       "lid": "d7I",
       "slug": "dont-deliver-us-from-evil"
-    },
-    {
-      "date": "2026-10-24",
-      "title": "Senritsu Kaiki File Kowasugi! Final Chapter",
-      "year": "2015",
-      "rating": 3.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/senritsu-kaiki-file-kowasugi-final-chapter/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:769282",
-      "lid": "whfK",
-      "slug": "senritsu-kaiki-file-kowasugi-final-chapter"
     }
   ],
   "byYear": {
@@ -38631,28 +38666,28 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 255,
-      "distinctFilms": 253,
+      "entries": 256,
+      "distinctFilms": 254,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-11-02",
-      "spanDays": 306,
-      "daysActive": 197,
+      "lastEntry": "2026-11-03",
+      "spanDays": 307,
+      "daysActive": 198,
       "multiFilmDays": 40,
       "rewatches": 20,
       "liked": 10,
-      "rated": 250,
+      "rated": 251,
       "releaseBreakdown": {
         "sameYear": 31,
-        "older": 224,
+        "older": 225,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 235,
+        "firstWatches": 236,
         "rewatches": 20
       },
       "reviewBreakdown": {
         "reviewed": 29,
-        "notReviewed": 226
+        "notReviewed": 227
       },
       "averageRating": 3.4,
       "perDay": 0.83,
@@ -38676,14 +38711,14 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 255,
-          "days": 197
+          "films": 256,
+          "days": 198
         }
       ],
       "perWeekday": [
         35,
         29,
-        28,
+        29,
         36,
         36,
         39,
@@ -38700,7 +38735,7 @@
         29,
         20,
         40,
-        1,
+        2,
         0
       ],
       "monthSeries": [
@@ -38746,7 +38781,7 @@
         },
         {
           "month": "2026-11",
-          "count": 1
+          "count": 2
         }
       ],
       "weekSeries": [
@@ -39018,7 +39053,7 @@
           "week": 45,
           "start": "2026-11-02",
           "end": "2026-11-08",
-          "count": 1
+          "count": 2
         },
         {
           "week": 46,
@@ -39092,7 +39127,7 @@
         },
         {
           "rating": 3.5,
-          "count": 74
+          "count": 75
         },
         {
           "rating": 4,
@@ -39183,7 +39218,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 121,
+          "count": 122,
           "averageRating": 3.5
         }
       ],
@@ -39296,47 +39331,47 @@
           "slug": "inside-no-9-dead-line"
         },
         {
-          "n": 255,
+          "n": 256,
           "kind": "latest",
-          "date": "2026-11-02",
-          "title": "Lancelot of the Lake",
-          "year": "1974",
+          "date": "2026-11-03",
+          "title": "Nitram",
+          "year": "2021",
           "rating": 3.5,
-          "url": "https://letterboxd.com/darthrosenberg/film/lancelot-of-the-lake/",
+          "url": "https://letterboxd.com/darthrosenberg/film/nitram/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:10323",
-          "lid": "qR0",
-          "slug": "lancelot-of-the-lake"
+          "filmUid": "film:715155",
+          "lid": "u0rA",
+          "slug": "nitram"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3426,
-    "entries": 3003,
-    "distinctFilms": 2905,
+    "films": 3427,
+    "entries": 3004,
+    "distinctFilms": 2906,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-11-02",
-    "spanDays": 5628,
-    "daysActive": 1668,
+    "lastEntry": "2026-11-03",
+    "spanDays": 5629,
+    "daysActive": 1669,
     "multiFilmDays": 724,
     "rewatches": 109,
     "liked": 135,
-    "rated": 2822,
+    "rated": 2823,
     "releaseBreakdown": {
       "sameYear": 295,
-      "older": 2707,
+      "older": 2708,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2894,
+      "firstWatches": 2895,
       "rewatches": 109
     },
     "reviewBreakdown": {
       "reviewed": 232,
-      "notReviewed": 2771
+      "notReviewed": 2772
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -39430,14 +39465,14 @@
       },
       {
         "year": 2026,
-        "films": 255,
-        "days": 197
+        "films": 256,
+        "days": 198
       }
     ],
     "perWeekday": [
       576,
       362,
-      364,
+      365,
       377,
       346,
       489,
@@ -39454,7 +39489,7 @@
       208,
       341,
       487,
-      241,
+      242,
       190
     ],
     "monthSeries": [
@@ -40200,7 +40235,7 @@
       },
       {
         "month": "2026-11",
-        "count": 1
+        "count": 2
       }
     ],
     "weekSeries": [],
@@ -40231,7 +40266,7 @@
       },
       {
         "rating": 3.5,
-        "count": 807
+        "count": 808
       },
       {
         "rating": 4,
@@ -40328,7 +40363,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 809,
+        "count": 810,
         "averageRating": 3.5
       }
     ],
@@ -41303,18 +41338,18 @@
         "slug": "hoax-2025"
       },
       {
-        "n": 3003,
+        "n": 3004,
         "kind": "latest",
-        "date": "2026-11-02",
-        "title": "Lancelot of the Lake",
-        "year": "1974",
+        "date": "2026-11-03",
+        "title": "Nitram",
+        "year": "2021",
         "rating": 3.5,
-        "url": "https://letterboxd.com/darthrosenberg/film/lancelot-of-the-lake/",
+        "url": "https://letterboxd.com/darthrosenberg/film/nitram/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:10323",
-        "lid": "qR0",
-        "slug": "lancelot-of-the-lake"
+        "filmUid": "film:715155",
+        "lid": "u0rA",
+        "slug": "nitram"
       }
     ]
   }
