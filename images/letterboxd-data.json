@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-05T06:12:24.831Z",
+  "generatedAt": "2026-11-06T06:05:54.697Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 9
   },
   "stats": {
-    "films": 689,
-    "daysActive": 483,
+    "films": 690,
+    "daysActive": 484,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 42,
@@ -17004,10 +17004,24 @@
       "date": "2026-11-05",
       "week": 96,
       "weekday": 4,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Wild Horse Nine",
+          "year": "2026",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/wild-horse-nine/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:802632",
+          "lid": "xG0M",
+          "slug": "wild-horse-nine"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/05/"
     },
@@ -30449,9 +30463,44 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/03/"
+    },
+    {
+      "date": "2026-11-05",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Wild Horse Nine",
+          "year": "2026",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/wild-horse-nine/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:802632",
+          "lid": "xG0M",
+          "slug": "wild-horse-nine"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/05/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-11-05",
+      "title": "Wild Horse Nine",
+      "year": "2026",
+      "rating": 4,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/wild-horse-nine/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:802632",
+      "lid": "xG0M",
+      "slug": "wild-horse-nine"
+    },
     {
       "date": "2026-11-03",
       "title": "Nitram",
@@ -30661,20 +30710,6 @@
       "filmUid": "film:37891",
       "lid": "1Azs",
       "slug": "draculas-daughter"
-    },
-    {
-      "date": "2026-10-25",
-      "title": "Don't Deliver Us from Evil",
-      "year": "1971",
-      "rating": 3.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/dont-deliver-us-from-evil/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:5045",
-      "lid": "d7I",
-      "slug": "dont-deliver-us-from-evil"
     }
   ],
   "byYear": {
@@ -38666,33 +38701,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 256,
-      "distinctFilms": 254,
+      "entries": 257,
+      "distinctFilms": 255,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-11-03",
-      "spanDays": 307,
-      "daysActive": 198,
+      "lastEntry": "2026-11-05",
+      "spanDays": 309,
+      "daysActive": 199,
       "multiFilmDays": 40,
       "rewatches": 20,
       "liked": 10,
-      "rated": 251,
+      "rated": 252,
       "releaseBreakdown": {
-        "sameYear": 31,
+        "sameYear": 32,
         "older": 225,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 236,
+        "firstWatches": 237,
         "rewatches": 20
       },
       "reviewBreakdown": {
         "reviewed": 29,
-        "notReviewed": 227
+        "notReviewed": 228
       },
       "averageRating": 3.4,
       "perDay": 0.83,
       "perWeek": 5.8,
-      "perMonth": 25.4,
+      "perMonth": 25.3,
       "streak": {
         "length": 11,
         "startDate": "2026-10-16",
@@ -38711,8 +38746,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 256,
-          "days": 198
+          "films": 257,
+          "days": 199
         }
       ],
       "perWeekday": [
@@ -38720,7 +38755,7 @@
         29,
         29,
         36,
-        36,
+        37,
         39,
         52
       ],
@@ -38735,7 +38770,7 @@
         29,
         20,
         40,
-        2,
+        3,
         0
       ],
       "monthSeries": [
@@ -38781,7 +38816,7 @@
         },
         {
           "month": "2026-11",
-          "count": 2
+          "count": 3
         }
       ],
       "weekSeries": [
@@ -39053,7 +39088,7 @@
           "week": 45,
           "start": "2026-11-02",
           "end": "2026-11-08",
-          "count": 2
+          "count": 3
         },
         {
           "week": 46,
@@ -39131,7 +39166,7 @@
         },
         {
           "rating": 4,
-          "count": 59
+          "count": 60
         },
         {
           "rating": 4.5,
@@ -39218,7 +39253,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 122,
+          "count": 123,
           "averageRating": 3.5
         }
       ],
@@ -39331,47 +39366,47 @@
           "slug": "inside-no-9-dead-line"
         },
         {
-          "n": 256,
+          "n": 257,
           "kind": "latest",
-          "date": "2026-11-03",
-          "title": "Nitram",
-          "year": "2021",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/darthrosenberg/film/nitram/",
+          "date": "2026-11-05",
+          "title": "Wild Horse Nine",
+          "year": "2026",
+          "rating": 4,
+          "url": "https://letterboxd.com/darthrosenberg/film/wild-horse-nine/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:715155",
-          "lid": "u0rA",
-          "slug": "nitram"
+          "filmUid": "film:802632",
+          "lid": "xG0M",
+          "slug": "wild-horse-nine"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3427,
-    "entries": 3004,
-    "distinctFilms": 2906,
+    "films": 3428,
+    "entries": 3005,
+    "distinctFilms": 2907,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-11-03",
-    "spanDays": 5629,
-    "daysActive": 1669,
+    "lastEntry": "2026-11-05",
+    "spanDays": 5631,
+    "daysActive": 1670,
     "multiFilmDays": 724,
     "rewatches": 109,
     "liked": 135,
-    "rated": 2823,
+    "rated": 2824,
     "releaseBreakdown": {
-      "sameYear": 295,
+      "sameYear": 296,
       "older": 2708,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2895,
+      "firstWatches": 2896,
       "rewatches": 109
     },
     "reviewBreakdown": {
       "reviewed": 232,
-      "notReviewed": 2772
+      "notReviewed": 2773
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -39465,8 +39500,8 @@
       },
       {
         "year": 2026,
-        "films": 256,
-        "days": 198
+        "films": 257,
+        "days": 199
       }
     ],
     "perWeekday": [
@@ -39474,7 +39509,7 @@
       362,
       365,
       377,
-      346,
+      347,
       489,
       489
     ],
@@ -39489,7 +39524,7 @@
       208,
       341,
       487,
-      242,
+      243,
       190
     ],
     "monthSeries": [
@@ -40235,7 +40270,7 @@
       },
       {
         "month": "2026-11",
-        "count": 2
+        "count": 3
       }
     ],
     "weekSeries": [],
@@ -40270,7 +40305,7 @@
       },
       {
         "rating": 4,
-        "count": 680
+        "count": 681
       },
       {
         "rating": 4.5,
@@ -40363,7 +40398,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 810,
+        "count": 811,
         "averageRating": 3.5
       }
     ],
@@ -41338,18 +41373,18 @@
         "slug": "hoax-2025"
       },
       {
-        "n": 3004,
+        "n": 3005,
         "kind": "latest",
-        "date": "2026-11-03",
-        "title": "Nitram",
-        "year": "2021",
-        "rating": 3.5,
-        "url": "https://letterboxd.com/darthrosenberg/film/nitram/",
+        "date": "2026-11-05",
+        "title": "Wild Horse Nine",
+        "year": "2026",
+        "rating": 4,
+        "url": "https://letterboxd.com/darthrosenberg/film/wild-horse-nine/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:715155",
-        "lid": "u0rA",
-        "slug": "nitram"
+        "filmUid": "film:802632",
+        "lid": "xG0M",
+        "slug": "wild-horse-nine"
       }
     ]
   }
