@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-07T05:38:18.007Z",
+  "generatedAt": "2026-11-08T05:39:44.186Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,11 +18,11 @@
     "maxCount": 9
   },
   "stats": {
-    "films": 690,
-    "daysActive": 484,
+    "films": 692,
+    "daysActive": 486,
     "streak": 17,
     "streakFilms": 29,
-    "rewatches": 42,
+    "rewatches": 43,
     "liked": 31
   },
   "monthLabels": [
@@ -17029,10 +17029,24 @@
       "date": "2026-11-06",
       "week": 96,
       "weekday": 5,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Godzilla Minus One",
+          "year": "2023",
+          "rating": 4,
+          "rewatch": true,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/godzilla-minus-one/1/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:845706",
+          "lid": "zu4c",
+          "slug": "godzilla-minus-one"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/06/"
     },
@@ -17040,10 +17054,24 @@
       "date": "2026-11-07",
       "week": 96,
       "weekday": 6,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "The Animal Kingdom",
+          "year": "2023",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/the-animal-kingdom-2023/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/darthrosenberg/film/the-animal-kingdom-2023/",
+          "filmUid": "film:847883",
+          "lid": "zzJk",
+          "slug": "the-animal-kingdom-2023"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/07/"
     },
@@ -30484,9 +30512,79 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/05/"
+    },
+    {
+      "date": "2026-11-06",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Godzilla Minus One",
+          "year": "2023",
+          "rating": 4,
+          "rewatch": true,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/godzilla-minus-one/1/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:845706",
+          "lid": "zu4c",
+          "slug": "godzilla-minus-one"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/06/"
+    },
+    {
+      "date": "2026-11-07",
+      "count": 1,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "The Animal Kingdom",
+          "year": "2023",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/the-animal-kingdom-2023/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/darthrosenberg/film/the-animal-kingdom-2023/",
+          "filmUid": "film:847883",
+          "lid": "zzJk",
+          "slug": "the-animal-kingdom-2023"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/07/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-11-07",
+      "title": "The Animal Kingdom",
+      "year": "2023",
+      "rating": 3.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/the-animal-kingdom-2023/",
+      "reviewed": true,
+      "reviewUrl": "https://letterboxd.com/darthrosenberg/film/the-animal-kingdom-2023/",
+      "filmUid": "film:847883",
+      "lid": "zzJk",
+      "slug": "the-animal-kingdom-2023"
+    },
+    {
+      "date": "2026-11-06",
+      "title": "Godzilla Minus One",
+      "year": "2023",
+      "rating": 4,
+      "rewatch": true,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/godzilla-minus-one/1/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:845706",
+      "lid": "zu4c",
+      "slug": "godzilla-minus-one"
+    },
     {
       "date": "2026-11-05",
       "title": "Wild Horse Nine",
@@ -30682,34 +30780,6 @@
       "filmUid": "film:310401",
       "lid": "d1uG",
       "slug": "under-the-shadow"
-    },
-    {
-      "date": "2026-10-28",
-      "title": "The Cycle",
-      "year": "2026",
-      "rating": 3,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/the-cycle-2026-2/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:1173481",
-      "lid": "NeL8",
-      "slug": "the-cycle-2026-2"
-    },
-    {
-      "date": "2026-10-26",
-      "title": "Dracula's Daughter",
-      "year": "1936",
-      "rating": 3,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/draculas-daughter/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:37891",
-      "lid": "1Azs",
-      "slug": "draculas-daughter"
     }
   ],
   "byYear": {
@@ -38701,33 +38771,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 257,
-      "distinctFilms": 255,
+      "entries": 259,
+      "distinctFilms": 257,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-11-05",
-      "spanDays": 309,
-      "daysActive": 199,
+      "lastEntry": "2026-11-07",
+      "spanDays": 311,
+      "daysActive": 201,
       "multiFilmDays": 40,
-      "rewatches": 20,
+      "rewatches": 21,
       "liked": 10,
-      "rated": 252,
+      "rated": 254,
       "releaseBreakdown": {
         "sameYear": 32,
-        "older": 225,
+        "older": 227,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 237,
-        "rewatches": 20
+        "firstWatches": 238,
+        "rewatches": 21
       },
       "reviewBreakdown": {
-        "reviewed": 29,
-        "notReviewed": 228
+        "reviewed": 30,
+        "notReviewed": 229
       },
       "averageRating": 3.4,
       "perDay": 0.83,
       "perWeek": 5.8,
-      "perMonth": 25.3,
+      "perMonth": 25.4,
       "streak": {
         "length": 11,
         "startDate": "2026-10-16",
@@ -38746,8 +38816,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 257,
-          "days": 199
+          "films": 259,
+          "days": 201
         }
       ],
       "perWeekday": [
@@ -38756,8 +38826,8 @@
         29,
         36,
         37,
-        39,
-        52
+        40,
+        53
       ],
       "perMonthOfYear": [
         21,
@@ -38770,7 +38840,7 @@
         29,
         20,
         40,
-        3,
+        5,
         0
       ],
       "monthSeries": [
@@ -38816,7 +38886,7 @@
         },
         {
           "month": "2026-11",
-          "count": 3
+          "count": 5
         }
       ],
       "weekSeries": [
@@ -39088,7 +39158,7 @@
           "week": 45,
           "start": "2026-11-02",
           "end": "2026-11-08",
-          "count": 3
+          "count": 5
         },
         {
           "week": 46,
@@ -39162,11 +39232,11 @@
         },
         {
           "rating": 3.5,
-          "count": 75
+          "count": 76
         },
         {
           "rating": 4,
-          "count": 60
+          "count": 61
         },
         {
           "rating": 4.5,
@@ -39253,7 +39323,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 123,
+          "count": 125,
           "averageRating": 3.5
         }
       ],
@@ -39366,47 +39436,47 @@
           "slug": "inside-no-9-dead-line"
         },
         {
-          "n": 257,
+          "n": 259,
           "kind": "latest",
-          "date": "2026-11-05",
-          "title": "Wild Horse Nine",
-          "year": "2026",
-          "rating": 4,
-          "url": "https://letterboxd.com/darthrosenberg/film/wild-horse-nine/",
-          "reviewed": false,
-          "reviewUrl": null,
-          "filmUid": "film:802632",
-          "lid": "xG0M",
-          "slug": "wild-horse-nine"
+          "date": "2026-11-07",
+          "title": "The Animal Kingdom",
+          "year": "2023",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/darthrosenberg/film/the-animal-kingdom-2023/",
+          "reviewed": true,
+          "reviewUrl": "https://letterboxd.com/darthrosenberg/film/the-animal-kingdom-2023/",
+          "filmUid": "film:847883",
+          "lid": "zzJk",
+          "slug": "the-animal-kingdom-2023"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3428,
-    "entries": 3005,
-    "distinctFilms": 2907,
+    "films": 3429,
+    "entries": 3007,
+    "distinctFilms": 2908,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-11-05",
-    "spanDays": 5631,
-    "daysActive": 1670,
+    "lastEntry": "2026-11-07",
+    "spanDays": 5633,
+    "daysActive": 1672,
     "multiFilmDays": 724,
-    "rewatches": 109,
+    "rewatches": 110,
     "liked": 135,
-    "rated": 2824,
+    "rated": 2826,
     "releaseBreakdown": {
       "sameYear": 296,
-      "older": 2708,
+      "older": 2710,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2896,
-      "rewatches": 109
+      "firstWatches": 2897,
+      "rewatches": 110
     },
     "reviewBreakdown": {
-      "reviewed": 232,
-      "notReviewed": 2773
+      "reviewed": 233,
+      "notReviewed": 2774
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -39500,8 +39570,8 @@
       },
       {
         "year": 2026,
-        "films": 257,
-        "days": 199
+        "films": 259,
+        "days": 201
       }
     ],
     "perWeekday": [
@@ -39510,8 +39580,8 @@
       365,
       377,
       347,
-      489,
-      489
+      490,
+      490
     ],
     "perMonthOfYear": [
       207,
@@ -39524,7 +39594,7 @@
       208,
       341,
       487,
-      243,
+      245,
       190
     ],
     "monthSeries": [
@@ -40270,7 +40340,7 @@
       },
       {
         "month": "2026-11",
-        "count": 3
+        "count": 5
       }
     ],
     "weekSeries": [],
@@ -40301,11 +40371,11 @@
       },
       {
         "rating": 3.5,
-        "count": 808
+        "count": 809
       },
       {
         "rating": 4,
-        "count": 681
+        "count": 682
       },
       {
         "rating": 4.5,
@@ -40398,7 +40468,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 811,
+        "count": 813,
         "averageRating": 3.5
       }
     ],
@@ -40660,6 +40730,16 @@
         "filmUid": "film:586723",
         "lid": "oCkK",
         "slug": "glass-onion",
+        "views": 2,
+        "averageRating": 4
+      },
+      {
+        "title": "Godzilla Minus One",
+        "year": "2023",
+        "url": "https://letterboxd.com/darthrosenberg/film/godzilla-minus-one/",
+        "filmUid": "film:845706",
+        "lid": "zu4c",
+        "slug": "godzilla-minus-one",
         "views": 2,
         "averageRating": 4
       },
@@ -41373,18 +41453,18 @@
         "slug": "hoax-2025"
       },
       {
-        "n": 3005,
+        "n": 3007,
         "kind": "latest",
-        "date": "2026-11-05",
-        "title": "Wild Horse Nine",
-        "year": "2026",
-        "rating": 4,
-        "url": "https://letterboxd.com/darthrosenberg/film/wild-horse-nine/",
-        "reviewed": false,
-        "reviewUrl": null,
-        "filmUid": "film:802632",
-        "lid": "xG0M",
-        "slug": "wild-horse-nine"
+        "date": "2026-11-07",
+        "title": "The Animal Kingdom",
+        "year": "2023",
+        "rating": 3.5,
+        "url": "https://letterboxd.com/darthrosenberg/film/the-animal-kingdom-2023/",
+        "reviewed": true,
+        "reviewUrl": "https://letterboxd.com/darthrosenberg/film/the-animal-kingdom-2023/",
+        "filmUid": "film:847883",
+        "lid": "zzJk",
+        "slug": "the-animal-kingdom-2023"
       }
     ]
   }
