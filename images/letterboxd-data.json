@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-08T05:39:44.186Z",
+  "generatedAt": "2026-11-09T05:49:17.952Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,7 +18,7 @@
     "maxCount": 9
   },
   "stats": {
-    "films": 692,
+    "films": 693,
     "daysActive": 486,
     "streak": 17,
     "streakFilms": 29,
@@ -12471,7 +12471,7 @@
       "films": [
         {
           "title": "The Merchant of Four Seasons",
-          "year": "1972",
+          "year": "1971",
           "rating": 4,
           "rewatch": false,
           "liked": false,
@@ -17054,9 +17054,22 @@
       "date": "2026-11-07",
       "week": 96,
       "weekday": 6,
-      "count": 1,
-      "ratingAvg": 3.5,
+      "count": 2,
+      "ratingAvg": 3,
       "films": [
+        {
+          "title": "The End of Oak Street",
+          "year": "2026",
+          "rating": 2.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/the-end-of-oak-street/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:992962",
+          "lid": "FF9a",
+          "slug": "the-end-of-oak-street"
+        },
         {
           "title": "The Animal Kingdom",
           "year": "2023",
@@ -27186,7 +27199,7 @@
       "films": [
         {
           "title": "The Merchant of Four Seasons",
-          "year": "1972",
+          "year": "1971",
           "rating": 4,
           "rewatch": false,
           "liked": false,
@@ -30536,9 +30549,22 @@
     },
     {
       "date": "2026-11-07",
-      "count": 1,
-      "ratingAvg": 3.5,
+      "count": 2,
+      "ratingAvg": 3,
       "films": [
+        {
+          "title": "The End of Oak Street",
+          "year": "2026",
+          "rating": 2.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/the-end-of-oak-street/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:992962",
+          "lid": "FF9a",
+          "slug": "the-end-of-oak-street"
+        },
         {
           "title": "The Animal Kingdom",
           "year": "2023",
@@ -30557,6 +30583,20 @@
     }
   ],
   "recent": [
+    {
+      "date": "2026-11-07",
+      "title": "The End of Oak Street",
+      "year": "2026",
+      "rating": 2.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/the-end-of-oak-street/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:992962",
+      "lid": "FF9a",
+      "slug": "the-end-of-oak-street"
+    },
     {
       "date": "2026-11-07",
       "title": "The Animal Kingdom",
@@ -30766,20 +30806,6 @@
       "filmUid": "film:1284291",
       "lid": "RT1I",
       "slug": "kinki-2025"
-    },
-    {
-      "date": "2026-10-29",
-      "title": "Under the Shadow",
-      "year": "2016",
-      "rating": 3.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/under-the-shadow/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:310401",
-      "lid": "d1uG",
-      "slug": "under-the-shadow"
     }
   ],
   "byYear": {
@@ -38771,32 +38797,32 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 259,
-      "distinctFilms": 257,
+      "entries": 260,
+      "distinctFilms": 258,
       "firstEntry": "2026-01-01",
       "lastEntry": "2026-11-07",
       "spanDays": 311,
       "daysActive": 201,
-      "multiFilmDays": 40,
+      "multiFilmDays": 41,
       "rewatches": 21,
       "liked": 10,
-      "rated": 254,
+      "rated": 255,
       "releaseBreakdown": {
-        "sameYear": 32,
+        "sameYear": 33,
         "older": 227,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 238,
+        "firstWatches": 239,
         "rewatches": 21
       },
       "reviewBreakdown": {
         "reviewed": 30,
-        "notReviewed": 229
+        "notReviewed": 230
       },
       "averageRating": 3.4,
-      "perDay": 0.83,
-      "perWeek": 5.8,
+      "perDay": 0.84,
+      "perWeek": 5.9,
       "perMonth": 25.4,
       "streak": {
         "length": 11,
@@ -38816,7 +38842,7 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 259,
+          "films": 260,
           "days": 201
         }
       ],
@@ -38827,7 +38853,7 @@
         36,
         37,
         40,
-        53
+        54
       ],
       "perMonthOfYear": [
         21,
@@ -38840,7 +38866,7 @@
         29,
         20,
         40,
-        5,
+        6,
         0
       ],
       "monthSeries": [
@@ -38886,7 +38912,7 @@
         },
         {
           "month": "2026-11",
-          "count": 5
+          "count": 6
         }
       ],
       "weekSeries": [
@@ -39158,7 +39184,7 @@
           "week": 45,
           "start": "2026-11-02",
           "end": "2026-11-08",
-          "count": 5
+          "count": 6
         },
         {
           "week": 46,
@@ -39224,7 +39250,7 @@
         },
         {
           "rating": 2.5,
-          "count": 25
+          "count": 26
         },
         {
           "rating": 3,
@@ -39323,7 +39349,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 125,
+          "count": 126,
           "averageRating": 3.5
         }
       ],
@@ -39436,7 +39462,7 @@
           "slug": "inside-no-9-dead-line"
         },
         {
-          "n": 259,
+          "n": 260,
           "kind": "latest",
           "date": "2026-11-07",
           "title": "The Animal Kingdom",
@@ -39454,34 +39480,34 @@
   },
   "allTime": {
     "scope": "all",
-    "films": 3429,
-    "entries": 3007,
-    "distinctFilms": 2908,
+    "films": 3430,
+    "entries": 3008,
+    "distinctFilms": 2909,
     "firstEntry": "2011-06-07",
     "lastEntry": "2026-11-07",
     "spanDays": 5633,
     "daysActive": 1672,
-    "multiFilmDays": 724,
+    "multiFilmDays": 725,
     "rewatches": 110,
     "liked": 135,
-    "rated": 2826,
+    "rated": 2827,
     "releaseBreakdown": {
-      "sameYear": 296,
+      "sameYear": 297,
       "older": 2710,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2897,
+      "firstWatches": 2898,
       "rewatches": 110
     },
     "reviewBreakdown": {
       "reviewed": 233,
-      "notReviewed": 2774
+      "notReviewed": 2775
     },
     "averageRating": 3.5,
     "perDay": 0.53,
     "perWeek": 3.7,
-    "perMonth": 16.2,
+    "perMonth": 16.3,
     "streak": {
       "length": 43,
       "startDate": "2024-03-26",
@@ -39570,7 +39596,7 @@
       },
       {
         "year": 2026,
-        "films": 259,
+        "films": 260,
         "days": 201
       }
     ],
@@ -39581,7 +39607,7 @@
       377,
       347,
       490,
-      490
+      491
     ],
     "perMonthOfYear": [
       207,
@@ -39594,7 +39620,7 @@
       208,
       341,
       487,
-      245,
+      246,
       190
     ],
     "monthSeries": [
@@ -40340,7 +40366,7 @@
       },
       {
         "month": "2026-11",
-        "count": 5
+        "count": 6
       }
     ],
     "weekSeries": [],
@@ -40363,7 +40389,7 @@
       },
       {
         "rating": 2.5,
-        "count": 280
+        "count": 281
       },
       {
         "rating": 3,
@@ -40468,7 +40494,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 813,
+        "count": 814,
         "averageRating": 3.5
       }
     ],
@@ -41453,7 +41479,7 @@
         "slug": "hoax-2025"
       },
       {
-        "n": 3007,
+        "n": 3008,
         "kind": "latest",
         "date": "2026-11-07",
         "title": "The Animal Kingdom",
