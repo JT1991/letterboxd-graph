@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-10T06:56:02.263Z",
+  "generatedAt": "2026-11-11T05:45:49.086Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -37485,7 +37485,7 @@
       "spanDays": 366,
       "daysActive": 300,
       "multiFilmDays": 156,
-      "rewatches": 8,
+      "rewatches": 9,
       "liked": 25,
       "rated": 520,
       "releaseBreakdown": {
@@ -37494,8 +37494,8 @@
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 513,
-        "rewatches": 8
+        "firstWatches": 512,
+        "rewatches": 9
       },
       "reviewBreakdown": {
         "reviewed": 110,
@@ -39488,7 +39488,7 @@
     "spanDays": 5633,
     "daysActive": 1672,
     "multiFilmDays": 725,
-    "rewatches": 110,
+    "rewatches": 111,
     "liked": 135,
     "rated": 2827,
     "releaseBreakdown": {
@@ -39497,8 +39497,8 @@
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2898,
-      "rewatches": 110
+      "firstWatches": 2897,
+      "rewatches": 111
     },
     "reviewBreakdown": {
       "reviewed": 233,
