@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-13T06:10:08.773Z",
+  "generatedAt": "2026-11-14T05:55:42.923Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 9
   },
   "stats": {
-    "films": 693,
-    "daysActive": 486,
+    "films": 694,
+    "daysActive": 487,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 43,
@@ -17147,10 +17147,24 @@
       "date": "2026-11-13",
       "week": 97,
       "weekday": 5,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "Girls Like Girls",
+          "year": "2026",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/girls-like-girls/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1281230",
+          "lid": "RL40",
+          "slug": "girls-like-girls"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/13/"
     },
@@ -30580,9 +30594,44 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/07/"
+    },
+    {
+      "date": "2026-11-13",
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "Girls Like Girls",
+          "year": "2026",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/girls-like-girls/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1281230",
+          "lid": "RL40",
+          "slug": "girls-like-girls"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/13/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-11-13",
+      "title": "Girls Like Girls",
+      "year": "2026",
+      "rating": 3,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/girls-like-girls/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:1281230",
+      "lid": "RL40",
+      "slug": "girls-like-girls"
+    },
     {
       "date": "2026-11-07",
       "title": "The End of Oak Street",
@@ -30792,20 +30841,6 @@
       "filmUid": "film:452674",
       "lid": "iZBW",
       "slug": "drum-wave"
-    },
-    {
-      "date": "2026-10-30",
-      "title": "KINKI",
-      "year": "2025",
-      "rating": 3.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/kinki-2025/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:1284291",
-      "lid": "RT1I",
-      "slug": "kinki-2025"
     }
   ],
   "byYear": {
@@ -38797,33 +38832,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 260,
-      "distinctFilms": 258,
+      "entries": 261,
+      "distinctFilms": 259,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-11-07",
-      "spanDays": 311,
-      "daysActive": 201,
+      "lastEntry": "2026-11-13",
+      "spanDays": 317,
+      "daysActive": 202,
       "multiFilmDays": 41,
       "rewatches": 21,
       "liked": 10,
-      "rated": 255,
+      "rated": 256,
       "releaseBreakdown": {
-        "sameYear": 33,
+        "sameYear": 34,
         "older": 227,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 239,
+        "firstWatches": 240,
         "rewatches": 21
       },
       "reviewBreakdown": {
         "reviewed": 30,
-        "notReviewed": 230
+        "notReviewed": 231
       },
       "averageRating": 3.4,
-      "perDay": 0.84,
-      "perWeek": 5.9,
-      "perMonth": 25.4,
+      "perDay": 0.82,
+      "perWeek": 5.8,
+      "perMonth": 25.1,
       "streak": {
         "length": 11,
         "startDate": "2026-10-16",
@@ -38842,8 +38877,8 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 260,
-          "days": 201
+          "films": 261,
+          "days": 202
         }
       ],
       "perWeekday": [
@@ -38852,7 +38887,7 @@
         29,
         36,
         37,
-        40,
+        41,
         54
       ],
       "perMonthOfYear": [
@@ -38866,7 +38901,7 @@
         29,
         20,
         40,
-        6,
+        7,
         0
       ],
       "monthSeries": [
@@ -38912,7 +38947,7 @@
         },
         {
           "month": "2026-11",
-          "count": 6
+          "count": 7
         }
       ],
       "weekSeries": [
@@ -39190,7 +39225,7 @@
           "week": 46,
           "start": "2026-11-09",
           "end": "2026-11-15",
-          "count": 0
+          "count": 1
         },
         {
           "week": 47,
@@ -39254,7 +39289,7 @@
         },
         {
           "rating": 3,
-          "count": 61
+          "count": 62
         },
         {
           "rating": 3.5,
@@ -39349,7 +39384,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 126,
+          "count": 127,
           "averageRating": 3.5
         }
       ],
@@ -39462,52 +39497,52 @@
           "slug": "inside-no-9-dead-line"
         },
         {
-          "n": 260,
+          "n": 261,
           "kind": "latest",
-          "date": "2026-11-07",
-          "title": "The Animal Kingdom",
-          "year": "2023",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/darthrosenberg/film/the-animal-kingdom-2023/",
-          "reviewed": true,
-          "reviewUrl": "https://letterboxd.com/darthrosenberg/film/the-animal-kingdom-2023/",
-          "filmUid": "film:847883",
-          "lid": "zzJk",
-          "slug": "the-animal-kingdom-2023"
+          "date": "2026-11-13",
+          "title": "Girls Like Girls",
+          "year": "2026",
+          "rating": 3,
+          "url": "https://letterboxd.com/darthrosenberg/film/girls-like-girls/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1281230",
+          "lid": "RL40",
+          "slug": "girls-like-girls"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3430,
-    "entries": 3008,
-    "distinctFilms": 2909,
+    "films": 3431,
+    "entries": 3009,
+    "distinctFilms": 2910,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-11-07",
-    "spanDays": 5633,
-    "daysActive": 1672,
+    "lastEntry": "2026-11-13",
+    "spanDays": 5639,
+    "daysActive": 1673,
     "multiFilmDays": 725,
     "rewatches": 111,
     "liked": 135,
-    "rated": 2827,
+    "rated": 2828,
     "releaseBreakdown": {
-      "sameYear": 297,
+      "sameYear": 298,
       "older": 2710,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2897,
+      "firstWatches": 2898,
       "rewatches": 111
     },
     "reviewBreakdown": {
       "reviewed": 233,
-      "notReviewed": 2775
+      "notReviewed": 2776
     },
     "averageRating": 3.5,
     "perDay": 0.53,
     "perWeek": 3.7,
-    "perMonth": 16.3,
+    "perMonth": 16.2,
     "streak": {
       "length": 43,
       "startDate": "2024-03-26",
@@ -39596,8 +39631,8 @@
       },
       {
         "year": 2026,
-        "films": 260,
-        "days": 201
+        "films": 261,
+        "days": 202
       }
     ],
     "perWeekday": [
@@ -39606,7 +39641,7 @@
       365,
       377,
       347,
-      490,
+      491,
       491
     ],
     "perMonthOfYear": [
@@ -39620,7 +39655,7 @@
       208,
       341,
       487,
-      246,
+      247,
       190
     ],
     "monthSeries": [
@@ -40366,7 +40401,7 @@
       },
       {
         "month": "2026-11",
-        "count": 6
+        "count": 7
       }
     ],
     "weekSeries": [],
@@ -40393,7 +40428,7 @@
       },
       {
         "rating": 3,
-        "count": 629
+        "count": 630
       },
       {
         "rating": 3.5,
@@ -40494,7 +40529,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 814,
+        "count": 815,
         "averageRating": 3.5
       }
     ],
@@ -41479,18 +41514,18 @@
         "slug": "hoax-2025"
       },
       {
-        "n": 3008,
+        "n": 3009,
         "kind": "latest",
-        "date": "2026-11-07",
-        "title": "The Animal Kingdom",
-        "year": "2023",
-        "rating": 3.5,
-        "url": "https://letterboxd.com/darthrosenberg/film/the-animal-kingdom-2023/",
-        "reviewed": true,
-        "reviewUrl": "https://letterboxd.com/darthrosenberg/film/the-animal-kingdom-2023/",
-        "filmUid": "film:847883",
-        "lid": "zzJk",
-        "slug": "the-animal-kingdom-2023"
+        "date": "2026-11-13",
+        "title": "Girls Like Girls",
+        "year": "2026",
+        "rating": 3,
+        "url": "https://letterboxd.com/darthrosenberg/film/girls-like-girls/",
+        "reviewed": false,
+        "reviewUrl": null,
+        "filmUid": "film:1281230",
+        "lid": "RL40",
+        "slug": "girls-like-girls"
       }
     ]
   }
