@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-22T06:14:07.417Z",
+  "generatedAt": "2026-11-23T07:05:33.771Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 9
   },
   "stats": {
-    "films": 694,
-    "daysActive": 487,
+    "films": 695,
+    "daysActive": 488,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 43,
@@ -17260,10 +17260,24 @@
       "date": "2026-11-22",
       "week": 99,
       "weekday": 0,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "Gentle Monster",
+          "year": "2026",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/gentle-monster/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1350237",
+          "lid": "UEAa",
+          "slug": "gentle-monster"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/22/"
     },
@@ -30615,9 +30629,44 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/13/"
+    },
+    {
+      "date": "2026-11-22",
+      "count": 1,
+      "ratingAvg": 3,
+      "films": [
+        {
+          "title": "Gentle Monster",
+          "year": "2026",
+          "rating": 3,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/gentle-monster/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1350237",
+          "lid": "UEAa",
+          "slug": "gentle-monster"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/22/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-11-22",
+      "title": "Gentle Monster",
+      "year": "2026",
+      "rating": 3,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/gentle-monster/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:1350237",
+      "lid": "UEAa",
+      "slug": "gentle-monster"
+    },
     {
       "date": "2026-11-13",
       "title": "Girls Like Girls",
@@ -30827,20 +30876,6 @@
       "filmUid": "film:1347085",
       "lid": "UwnM",
       "slug": "five-star-2025"
-    },
-    {
-      "date": "2026-10-31",
-      "title": "Drum Wave",
-      "year": "2018",
-      "rating": 3,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/drum-wave/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:452674",
-      "lid": "iZBW",
-      "slug": "drum-wave"
     }
   ],
   "byYear": {
@@ -38832,33 +38867,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 261,
-      "distinctFilms": 259,
+      "entries": 262,
+      "distinctFilms": 260,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-11-13",
-      "spanDays": 317,
-      "daysActive": 202,
+      "lastEntry": "2026-11-22",
+      "spanDays": 326,
+      "daysActive": 203,
       "multiFilmDays": 41,
       "rewatches": 21,
       "liked": 10,
-      "rated": 256,
+      "rated": 257,
       "releaseBreakdown": {
-        "sameYear": 34,
+        "sameYear": 35,
         "older": 227,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 240,
+        "firstWatches": 241,
         "rewatches": 21
       },
       "reviewBreakdown": {
         "reviewed": 30,
-        "notReviewed": 231
+        "notReviewed": 232
       },
       "averageRating": 3.4,
-      "perDay": 0.82,
-      "perWeek": 5.8,
-      "perMonth": 25.1,
+      "perDay": 0.8,
+      "perWeek": 5.6,
+      "perMonth": 24.5,
       "streak": {
         "length": 11,
         "startDate": "2026-10-16",
@@ -38870,19 +38905,19 @@
         "count": 9
       },
       "longestGap": {
-        "days": 5,
-        "from": "2026-01-24",
-        "to": "2026-01-30"
+        "days": 8,
+        "from": "2026-11-13",
+        "to": "2026-11-22"
       },
       "perYear": [
         {
           "year": 2026,
-          "films": 261,
-          "days": 202
+          "films": 262,
+          "days": 203
         }
       ],
       "perWeekday": [
-        35,
+        36,
         29,
         29,
         36,
@@ -38901,7 +38936,7 @@
         29,
         20,
         40,
-        7,
+        8,
         0
       ],
       "monthSeries": [
@@ -38947,7 +38982,7 @@
         },
         {
           "month": "2026-11",
-          "count": 7
+          "count": 8
         }
       ],
       "weekSeries": [
@@ -39231,7 +39266,7 @@
           "week": 47,
           "start": "2026-11-16",
           "end": "2026-11-22",
-          "count": 0
+          "count": 1
         },
         {
           "week": 48,
@@ -39289,7 +39324,7 @@
         },
         {
           "rating": 3,
-          "count": 62
+          "count": 63
         },
         {
           "rating": 3.5,
@@ -39384,7 +39419,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 127,
+          "count": 128,
           "averageRating": 3.5
         }
       ],
@@ -39497,47 +39532,47 @@
           "slug": "inside-no-9-dead-line"
         },
         {
-          "n": 261,
+          "n": 262,
           "kind": "latest",
-          "date": "2026-11-13",
-          "title": "Girls Like Girls",
+          "date": "2026-11-22",
+          "title": "Gentle Monster",
           "year": "2026",
           "rating": 3,
-          "url": "https://letterboxd.com/darthrosenberg/film/girls-like-girls/",
+          "url": "https://letterboxd.com/darthrosenberg/film/gentle-monster/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:1281230",
-          "lid": "RL40",
-          "slug": "girls-like-girls"
+          "filmUid": "film:1350237",
+          "lid": "UEAa",
+          "slug": "gentle-monster"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3431,
-    "entries": 3009,
-    "distinctFilms": 2910,
+    "films": 3432,
+    "entries": 3010,
+    "distinctFilms": 2911,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-11-13",
-    "spanDays": 5639,
-    "daysActive": 1673,
+    "lastEntry": "2026-11-22",
+    "spanDays": 5648,
+    "daysActive": 1674,
     "multiFilmDays": 725,
     "rewatches": 111,
     "liked": 135,
-    "rated": 2828,
+    "rated": 2829,
     "releaseBreakdown": {
-      "sameYear": 298,
+      "sameYear": 299,
       "older": 2710,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2898,
+      "firstWatches": 2899,
       "rewatches": 111
     },
     "reviewBreakdown": {
       "reviewed": 233,
-      "notReviewed": 2776
+      "notReviewed": 2777
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -39631,12 +39666,12 @@
       },
       {
         "year": 2026,
-        "films": 261,
-        "days": 202
+        "films": 262,
+        "days": 203
       }
     ],
     "perWeekday": [
-      576,
+      577,
       362,
       365,
       377,
@@ -39655,7 +39690,7 @@
       208,
       341,
       487,
-      247,
+      248,
       190
     ],
     "monthSeries": [
@@ -40401,7 +40436,7 @@
       },
       {
         "month": "2026-11",
-        "count": 7
+        "count": 8
       }
     ],
     "weekSeries": [],
@@ -40428,7 +40463,7 @@
       },
       {
         "rating": 3,
-        "count": 630
+        "count": 631
       },
       {
         "rating": 3.5,
@@ -40529,7 +40564,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 815,
+        "count": 816,
         "averageRating": 3.5
       }
     ],
@@ -41514,18 +41549,18 @@
         "slug": "hoax-2025"
       },
       {
-        "n": 3009,
+        "n": 3010,
         "kind": "latest",
-        "date": "2026-11-13",
-        "title": "Girls Like Girls",
+        "date": "2026-11-22",
+        "title": "Gentle Monster",
         "year": "2026",
         "rating": 3,
-        "url": "https://letterboxd.com/darthrosenberg/film/girls-like-girls/",
+        "url": "https://letterboxd.com/darthrosenberg/film/gentle-monster/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:1281230",
-        "lid": "RL40",
-        "slug": "girls-like-girls"
+        "filmUid": "film:1350237",
+        "lid": "UEAa",
+        "slug": "gentle-monster"
       }
     ]
   }
