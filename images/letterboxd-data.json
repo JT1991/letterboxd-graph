@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-23T07:05:33.771Z",
+  "generatedAt": "2026-11-24T09:30:55.260Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 9
   },
   "stats": {
-    "films": 695,
-    "daysActive": 488,
+    "films": 696,
+    "daysActive": 489,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 43,
@@ -17285,10 +17285,24 @@
       "date": "2026-11-23",
       "week": 99,
       "weekday": 1,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Rose",
+          "year": "2026",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/rose-2026/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1063507",
+          "lid": "ICFo",
+          "slug": "rose-2026"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/23/"
     },
@@ -30650,9 +30664,44 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/22/"
+    },
+    {
+      "date": "2026-11-23",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "Rose",
+          "year": "2026",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/rose-2026/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:1063507",
+          "lid": "ICFo",
+          "slug": "rose-2026"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/23/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-11-23",
+      "title": "Rose",
+      "year": "2026",
+      "rating": 4,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/rose-2026/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:1063507",
+      "lid": "ICFo",
+      "slug": "rose-2026"
+    },
     {
       "date": "2026-11-22",
       "title": "Gentle Monster",
@@ -30862,20 +30911,6 @@
       "filmUid": "film:1664459",
       "lid": "17Q18",
       "slug": "hoax-2025"
-    },
-    {
-      "date": "2026-10-31",
-      "title": "Five Star",
-      "year": "2025",
-      "rating": 3,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/five-star-2025/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:1347085",
-      "lid": "UwnM",
-      "slug": "five-star-2025"
     }
   ],
   "byYear": {
@@ -38867,28 +38902,28 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 262,
-      "distinctFilms": 260,
+      "entries": 263,
+      "distinctFilms": 261,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-11-22",
-      "spanDays": 326,
-      "daysActive": 203,
+      "lastEntry": "2026-11-23",
+      "spanDays": 327,
+      "daysActive": 204,
       "multiFilmDays": 41,
       "rewatches": 21,
       "liked": 10,
-      "rated": 257,
+      "rated": 258,
       "releaseBreakdown": {
-        "sameYear": 35,
+        "sameYear": 36,
         "older": 227,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 241,
+        "firstWatches": 242,
         "rewatches": 21
       },
       "reviewBreakdown": {
         "reviewed": 30,
-        "notReviewed": 232
+        "notReviewed": 233
       },
       "averageRating": 3.4,
       "perDay": 0.8,
@@ -38912,13 +38947,13 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 262,
-          "days": 203
+          "films": 263,
+          "days": 204
         }
       ],
       "perWeekday": [
         36,
-        29,
+        30,
         29,
         36,
         37,
@@ -38936,7 +38971,7 @@
         29,
         20,
         40,
-        8,
+        9,
         0
       ],
       "monthSeries": [
@@ -38982,7 +39017,7 @@
         },
         {
           "month": "2026-11",
-          "count": 8
+          "count": 9
         }
       ],
       "weekSeries": [
@@ -39272,7 +39307,7 @@
           "week": 48,
           "start": "2026-11-23",
           "end": "2026-11-29",
-          "count": 0
+          "count": 1
         },
         {
           "week": 49,
@@ -39332,7 +39367,7 @@
         },
         {
           "rating": 4,
-          "count": 61
+          "count": 62
         },
         {
           "rating": 4.5,
@@ -39419,7 +39454,7 @@
         {
           "decade": 2020,
           "label": "2020s",
-          "count": 128,
+          "count": 129,
           "averageRating": 3.5
         }
       ],
@@ -39532,47 +39567,47 @@
           "slug": "inside-no-9-dead-line"
         },
         {
-          "n": 262,
+          "n": 263,
           "kind": "latest",
-          "date": "2026-11-22",
-          "title": "Gentle Monster",
+          "date": "2026-11-23",
+          "title": "Rose",
           "year": "2026",
-          "rating": 3,
-          "url": "https://letterboxd.com/darthrosenberg/film/gentle-monster/",
+          "rating": 4,
+          "url": "https://letterboxd.com/darthrosenberg/film/rose-2026/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:1350237",
-          "lid": "UEAa",
-          "slug": "gentle-monster"
+          "filmUid": "film:1063507",
+          "lid": "ICFo",
+          "slug": "rose-2026"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3432,
-    "entries": 3010,
-    "distinctFilms": 2911,
+    "films": 3433,
+    "entries": 3011,
+    "distinctFilms": 2912,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-11-22",
-    "spanDays": 5648,
-    "daysActive": 1674,
+    "lastEntry": "2026-11-23",
+    "spanDays": 5649,
+    "daysActive": 1675,
     "multiFilmDays": 725,
     "rewatches": 111,
     "liked": 135,
-    "rated": 2829,
+    "rated": 2830,
     "releaseBreakdown": {
-      "sameYear": 299,
+      "sameYear": 300,
       "older": 2710,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2899,
+      "firstWatches": 2900,
       "rewatches": 111
     },
     "reviewBreakdown": {
       "reviewed": 233,
-      "notReviewed": 2777
+      "notReviewed": 2778
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -39666,13 +39701,13 @@
       },
       {
         "year": 2026,
-        "films": 262,
-        "days": 203
+        "films": 263,
+        "days": 204
       }
     ],
     "perWeekday": [
       577,
-      362,
+      363,
       365,
       377,
       347,
@@ -39690,7 +39725,7 @@
       208,
       341,
       487,
-      248,
+      249,
       190
     ],
     "monthSeries": [
@@ -40436,7 +40471,7 @@
       },
       {
         "month": "2026-11",
-        "count": 8
+        "count": 9
       }
     ],
     "weekSeries": [],
@@ -40471,7 +40506,7 @@
       },
       {
         "rating": 4,
-        "count": 682
+        "count": 683
       },
       {
         "rating": 4.5,
@@ -40564,7 +40599,7 @@
       {
         "decade": 2020,
         "label": "2020s",
-        "count": 816,
+        "count": 817,
         "averageRating": 3.5
       }
     ],
@@ -41549,18 +41584,18 @@
         "slug": "hoax-2025"
       },
       {
-        "n": 3010,
+        "n": 3011,
         "kind": "latest",
-        "date": "2026-11-22",
-        "title": "Gentle Monster",
+        "date": "2026-11-23",
+        "title": "Rose",
         "year": "2026",
-        "rating": 3,
-        "url": "https://letterboxd.com/darthrosenberg/film/gentle-monster/",
+        "rating": 4,
+        "url": "https://letterboxd.com/darthrosenberg/film/rose-2026/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:1350237",
-        "lid": "UEAa",
-        "slug": "gentle-monster"
+        "filmUid": "film:1063507",
+        "lid": "ICFo",
+        "slug": "rose-2026"
       }
     ]
   }
