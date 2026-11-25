@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-24T09:30:55.260Z",
+  "generatedAt": "2026-11-25T08:01:21.375Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 9
   },
   "stats": {
-    "films": 696,
-    "daysActive": 489,
+    "films": 698,
+    "daysActive": 490,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 43,
@@ -17310,10 +17310,37 @@
       "date": "2026-11-24",
       "week": 99,
       "weekday": 2,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 2,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "The Breach",
+          "year": "1970",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/the-breach/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:49428",
+          "lid": "24Ag",
+          "slug": "the-breach"
+        },
+        {
+          "title": "Wasp",
+          "year": "2003",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/wasp/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:20707",
+          "lid": "RRQ",
+          "slug": "wasp"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/24/"
     },
@@ -30685,9 +30712,71 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/23/"
+    },
+    {
+      "date": "2026-11-24",
+      "count": 2,
+      "ratingAvg": 3.5,
+      "films": [
+        {
+          "title": "The Breach",
+          "year": "1970",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/the-breach/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:49428",
+          "lid": "24Ag",
+          "slug": "the-breach"
+        },
+        {
+          "title": "Wasp",
+          "year": "2003",
+          "rating": 3.5,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/wasp/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:20707",
+          "lid": "RRQ",
+          "slug": "wasp"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/24/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-11-24",
+      "title": "The Breach",
+      "year": "1970",
+      "rating": 3.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/the-breach/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:49428",
+      "lid": "24Ag",
+      "slug": "the-breach"
+    },
+    {
+      "date": "2026-11-24",
+      "title": "Wasp",
+      "year": "2003",
+      "rating": 3.5,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/wasp/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:20707",
+      "lid": "RRQ",
+      "slug": "wasp"
+    },
     {
       "date": "2026-11-23",
       "title": "Rose",
@@ -30883,34 +30972,6 @@
       "filmUid": "film:1253608",
       "lid": "QBcQ",
       "slug": "inside-no-9-dead-line"
-    },
-    {
-      "date": "2026-10-31",
-      "title": "Playing God",
-      "year": "2024",
-      "rating": 3.5,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/playing-god-2024-2/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:1201183",
-      "lid": "OoPc",
-      "slug": "playing-god-2024-2"
-    },
-    {
-      "date": "2026-10-31",
-      "title": "Hoax",
-      "year": "2025",
-      "rating": 2,
-      "rewatch": false,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/hoax-2025/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:1664459",
-      "lid": "17Q18",
-      "slug": "hoax-2025"
     }
   ],
   "byYear": {
@@ -38902,33 +38963,33 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 263,
-      "distinctFilms": 261,
+      "entries": 265,
+      "distinctFilms": 263,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-11-23",
-      "spanDays": 327,
-      "daysActive": 204,
-      "multiFilmDays": 41,
+      "lastEntry": "2026-11-24",
+      "spanDays": 328,
+      "daysActive": 205,
+      "multiFilmDays": 42,
       "rewatches": 21,
       "liked": 10,
-      "rated": 258,
+      "rated": 260,
       "releaseBreakdown": {
         "sameYear": 36,
-        "older": 227,
+        "older": 229,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 242,
+        "firstWatches": 244,
         "rewatches": 21
       },
       "reviewBreakdown": {
         "reviewed": 30,
-        "notReviewed": 233
+        "notReviewed": 235
       },
       "averageRating": 3.4,
-      "perDay": 0.8,
-      "perWeek": 5.6,
-      "perMonth": 24.5,
+      "perDay": 0.81,
+      "perWeek": 5.7,
+      "perMonth": 24.6,
       "streak": {
         "length": 11,
         "startDate": "2026-10-16",
@@ -38947,14 +39008,14 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 263,
-          "days": 204
+          "films": 265,
+          "days": 205
         }
       ],
       "perWeekday": [
         36,
         30,
-        29,
+        31,
         36,
         37,
         41,
@@ -38971,7 +39032,7 @@
         29,
         20,
         40,
-        9,
+        11,
         0
       ],
       "monthSeries": [
@@ -39017,7 +39078,7 @@
         },
         {
           "month": "2026-11",
-          "count": 9
+          "count": 11
         }
       ],
       "weekSeries": [
@@ -39307,7 +39368,7 @@
           "week": 48,
           "start": "2026-11-23",
           "end": "2026-11-29",
-          "count": 1
+          "count": 3
         },
         {
           "week": 49,
@@ -39363,7 +39424,7 @@
         },
         {
           "rating": 3.5,
-          "count": 76
+          "count": 78
         },
         {
           "rating": 4,
@@ -39424,7 +39485,7 @@
         {
           "decade": 1970,
           "label": "1970s",
-          "count": 14,
+          "count": 15,
           "averageRating": 3.5
         },
         {
@@ -39442,7 +39503,7 @@
         {
           "decade": 2000,
           "label": "2000s",
-          "count": 17,
+          "count": 18,
           "averageRating": 4
         },
         {
@@ -39567,47 +39628,47 @@
           "slug": "inside-no-9-dead-line"
         },
         {
-          "n": 263,
+          "n": 265,
           "kind": "latest",
-          "date": "2026-11-23",
-          "title": "Rose",
-          "year": "2026",
-          "rating": 4,
-          "url": "https://letterboxd.com/darthrosenberg/film/rose-2026/",
+          "date": "2026-11-24",
+          "title": "Wasp",
+          "year": "2003",
+          "rating": 3.5,
+          "url": "https://letterboxd.com/darthrosenberg/film/wasp/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:1063507",
-          "lid": "ICFo",
-          "slug": "rose-2026"
+          "filmUid": "film:20707",
+          "lid": "RRQ",
+          "slug": "wasp"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3433,
-    "entries": 3011,
-    "distinctFilms": 2912,
+    "films": 3435,
+    "entries": 3013,
+    "distinctFilms": 2914,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-11-23",
-    "spanDays": 5649,
-    "daysActive": 1675,
-    "multiFilmDays": 725,
+    "lastEntry": "2026-11-24",
+    "spanDays": 5650,
+    "daysActive": 1676,
+    "multiFilmDays": 726,
     "rewatches": 111,
     "liked": 135,
-    "rated": 2830,
+    "rated": 2832,
     "releaseBreakdown": {
       "sameYear": 300,
-      "older": 2710,
+      "older": 2712,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2900,
+      "firstWatches": 2902,
       "rewatches": 111
     },
     "reviewBreakdown": {
       "reviewed": 233,
-      "notReviewed": 2778
+      "notReviewed": 2780
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -39701,14 +39762,14 @@
       },
       {
         "year": 2026,
-        "films": 263,
-        "days": 204
+        "films": 265,
+        "days": 205
       }
     ],
     "perWeekday": [
       577,
       363,
-      365,
+      367,
       377,
       347,
       491,
@@ -39725,7 +39786,7 @@
       208,
       341,
       487,
-      249,
+      251,
       190
     ],
     "monthSeries": [
@@ -40471,7 +40532,7 @@
       },
       {
         "month": "2026-11",
-        "count": 9
+        "count": 11
       }
     ],
     "weekSeries": [],
@@ -40502,7 +40563,7 @@
       },
       {
         "rating": 3.5,
-        "count": 809
+        "count": 811
       },
       {
         "rating": 4,
@@ -40569,7 +40630,7 @@
       {
         "decade": 1970,
         "label": "1970s",
-        "count": 168,
+        "count": 169,
         "averageRating": 3.5
       },
       {
@@ -40587,7 +40648,7 @@
       {
         "decade": 2000,
         "label": "2000s",
-        "count": 373,
+        "count": 374,
         "averageRating": 3.5
       },
       {
@@ -41584,18 +41645,18 @@
         "slug": "hoax-2025"
       },
       {
-        "n": 3011,
+        "n": 3013,
         "kind": "latest",
-        "date": "2026-11-23",
-        "title": "Rose",
-        "year": "2026",
-        "rating": 4,
-        "url": "https://letterboxd.com/darthrosenberg/film/rose-2026/",
+        "date": "2026-11-24",
+        "title": "Wasp",
+        "year": "2003",
+        "rating": 3.5,
+        "url": "https://letterboxd.com/darthrosenberg/film/wasp/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:1063507",
-        "lid": "ICFo",
-        "slug": "rose-2026"
+        "filmUid": "film:20707",
+        "lid": "RRQ",
+        "slug": "wasp"
       }
     ]
   }
