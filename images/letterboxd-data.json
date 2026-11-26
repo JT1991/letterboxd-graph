@@ -6,7 +6,7 @@
     2026,
     2025
   ],
-  "generatedAt": "2026-11-25T08:01:21.375Z",
+  "generatedAt": "2026-11-26T07:53:13.259Z",
   "meta": {
     "weekStart": "sunday",
     "minYear": 2025,
@@ -18,8 +18,8 @@
     "maxCount": 9
   },
   "stats": {
-    "films": 698,
-    "daysActive": 490,
+    "films": 699,
+    "daysActive": 491,
     "streak": 17,
     "streakFilms": 29,
     "rewatches": 43,
@@ -17348,10 +17348,24 @@
       "date": "2026-11-25",
       "week": 99,
       "weekday": 3,
-      "count": 0,
-      "ratingAvg": null,
-      "films": [],
-      "level": 0,
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "November",
+          "year": "2017",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/november-2017/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:370364",
+          "lid": "fxu8",
+          "slug": "november-2017"
+        }
+      ],
+      "level": 1,
       "inRange": true,
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/25/"
     },
@@ -30746,9 +30760,44 @@
         }
       ],
       "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/24/"
+    },
+    {
+      "date": "2026-11-25",
+      "count": 1,
+      "ratingAvg": 4,
+      "films": [
+        {
+          "title": "November",
+          "year": "2017",
+          "rating": 4,
+          "rewatch": false,
+          "liked": false,
+          "url": "https://letterboxd.com/darthrosenberg/film/november-2017/",
+          "reviewed": false,
+          "reviewUrl": null,
+          "filmUid": "film:370364",
+          "lid": "fxu8",
+          "slug": "november-2017"
+        }
+      ],
+      "url": "https://letterboxd.com/darthrosenberg/diary/films/for/2026/11/25/"
     }
   ],
   "recent": [
+    {
+      "date": "2026-11-25",
+      "title": "November",
+      "year": "2017",
+      "rating": 4,
+      "rewatch": false,
+      "liked": false,
+      "url": "https://letterboxd.com/darthrosenberg/film/november-2017/",
+      "reviewed": false,
+      "reviewUrl": null,
+      "filmUid": "film:370364",
+      "lid": "fxu8",
+      "slug": "november-2017"
+    },
     {
       "date": "2026-11-24",
       "title": "The Breach",
@@ -30958,20 +31007,6 @@
       "filmUid": "film:37483",
       "lid": "1zvE",
       "slug": "trick-r-treat"
-    },
-    {
-      "date": "2026-10-31",
-      "title": "Inside No. 9: Dead Line",
-      "year": "2018",
-      "rating": 4,
-      "rewatch": true,
-      "liked": false,
-      "url": "https://letterboxd.com/darthrosenberg/film/inside-no-9-dead-line/",
-      "reviewed": false,
-      "reviewUrl": null,
-      "filmUid": "film:1253608",
-      "lid": "QBcQ",
-      "slug": "inside-no-9-dead-line"
     }
   ],
   "byYear": {
@@ -38963,28 +38998,28 @@
     "2026": {
       "scope": "year",
       "films": null,
-      "entries": 265,
-      "distinctFilms": 263,
+      "entries": 266,
+      "distinctFilms": 264,
       "firstEntry": "2026-01-01",
-      "lastEntry": "2026-11-24",
-      "spanDays": 328,
-      "daysActive": 205,
+      "lastEntry": "2026-11-25",
+      "spanDays": 329,
+      "daysActive": 206,
       "multiFilmDays": 42,
       "rewatches": 21,
       "liked": 10,
-      "rated": 260,
+      "rated": 261,
       "releaseBreakdown": {
         "sameYear": 36,
-        "older": 229,
+        "older": 230,
         "other": 0
       },
       "watchBreakdown": {
-        "firstWatches": 244,
+        "firstWatches": 245,
         "rewatches": 21
       },
       "reviewBreakdown": {
         "reviewed": 30,
-        "notReviewed": 235
+        "notReviewed": 236
       },
       "averageRating": 3.4,
       "perDay": 0.81,
@@ -39008,15 +39043,15 @@
       "perYear": [
         {
           "year": 2026,
-          "films": 265,
-          "days": 205
+          "films": 266,
+          "days": 206
         }
       ],
       "perWeekday": [
         36,
         30,
         31,
-        36,
+        37,
         37,
         41,
         54
@@ -39032,7 +39067,7 @@
         29,
         20,
         40,
-        11,
+        12,
         0
       ],
       "monthSeries": [
@@ -39078,7 +39113,7 @@
         },
         {
           "month": "2026-11",
-          "count": 11
+          "count": 12
         }
       ],
       "weekSeries": [
@@ -39368,7 +39403,7 @@
           "week": 48,
           "start": "2026-11-23",
           "end": "2026-11-29",
-          "count": 3
+          "count": 4
         },
         {
           "week": 49,
@@ -39428,7 +39463,7 @@
         },
         {
           "rating": 4,
-          "count": 62
+          "count": 63
         },
         {
           "rating": 4.5,
@@ -39509,7 +39544,7 @@
         {
           "decade": 2010,
           "label": "2010s",
-          "count": 49,
+          "count": 50,
           "averageRating": 3.5
         },
         {
@@ -39628,47 +39663,47 @@
           "slug": "inside-no-9-dead-line"
         },
         {
-          "n": 265,
+          "n": 266,
           "kind": "latest",
-          "date": "2026-11-24",
-          "title": "Wasp",
-          "year": "2003",
-          "rating": 3.5,
-          "url": "https://letterboxd.com/darthrosenberg/film/wasp/",
+          "date": "2026-11-25",
+          "title": "November",
+          "year": "2017",
+          "rating": 4,
+          "url": "https://letterboxd.com/darthrosenberg/film/november-2017/",
           "reviewed": false,
           "reviewUrl": null,
-          "filmUid": "film:20707",
-          "lid": "RRQ",
-          "slug": "wasp"
+          "filmUid": "film:370364",
+          "lid": "fxu8",
+          "slug": "november-2017"
         }
       ]
     }
   },
   "allTime": {
     "scope": "all",
-    "films": 3435,
-    "entries": 3013,
-    "distinctFilms": 2914,
+    "films": 3436,
+    "entries": 3014,
+    "distinctFilms": 2915,
     "firstEntry": "2011-06-07",
-    "lastEntry": "2026-11-24",
-    "spanDays": 5650,
-    "daysActive": 1676,
+    "lastEntry": "2026-11-25",
+    "spanDays": 5651,
+    "daysActive": 1677,
     "multiFilmDays": 726,
     "rewatches": 111,
     "liked": 135,
-    "rated": 2832,
+    "rated": 2833,
     "releaseBreakdown": {
       "sameYear": 300,
-      "older": 2712,
+      "older": 2713,
       "other": 1
     },
     "watchBreakdown": {
-      "firstWatches": 2902,
+      "firstWatches": 2903,
       "rewatches": 111
     },
     "reviewBreakdown": {
       "reviewed": 233,
-      "notReviewed": 2780
+      "notReviewed": 2781
     },
     "averageRating": 3.5,
     "perDay": 0.53,
@@ -39762,15 +39797,15 @@
       },
       {
         "year": 2026,
-        "films": 265,
-        "days": 205
+        "films": 266,
+        "days": 206
       }
     ],
     "perWeekday": [
       577,
       363,
       367,
-      377,
+      378,
       347,
       491,
       491
@@ -39786,7 +39821,7 @@
       208,
       341,
       487,
-      251,
+      252,
       190
     ],
     "monthSeries": [
@@ -40532,7 +40567,7 @@
       },
       {
         "month": "2026-11",
-        "count": 11
+        "count": 12
       }
     ],
     "weekSeries": [],
@@ -40567,7 +40602,7 @@
       },
       {
         "rating": 4,
-        "count": 683
+        "count": 684
       },
       {
         "rating": 4.5,
@@ -40654,7 +40689,7 @@
       {
         "decade": 2010,
         "label": "2010s",
-        "count": 951,
+        "count": 952,
         "averageRating": 3.5
       },
       {
@@ -41645,18 +41680,18 @@
         "slug": "hoax-2025"
       },
       {
-        "n": 3013,
+        "n": 3014,
         "kind": "latest",
-        "date": "2026-11-24",
-        "title": "Wasp",
-        "year": "2003",
-        "rating": 3.5,
-        "url": "https://letterboxd.com/darthrosenberg/film/wasp/",
+        "date": "2026-11-25",
+        "title": "November",
+        "year": "2017",
+        "rating": 4,
+        "url": "https://letterboxd.com/darthrosenberg/film/november-2017/",
         "reviewed": false,
         "reviewUrl": null,
-        "filmUid": "film:20707",
-        "lid": "RRQ",
-        "slug": "wasp"
+        "filmUid": "film:370364",
+        "lid": "fxu8",
+        "slug": "november-2017"
       }
     ]
   }
